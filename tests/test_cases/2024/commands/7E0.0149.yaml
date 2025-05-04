@@ -1,0 +1,166 @@
+command_id: 7E0.0149
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E803414925'
+  expected_values:
+    APP_D: 14.5098
+- response: '7E803414926'
+  expected_values:
+    APP_D: 14.90196
+- response: '7E803414927'
+  expected_values:
+    APP_D: 15.29412
+- response: '7E803414928'
+  expected_values:
+    APP_D: 15.68627
+- response: 7E80341492A
+  expected_values:
+    APP_D: 16.47059
+- response: 7E80341492C
+  expected_values:
+    APP_D: 17.2549
+- response: '7E803414930'
+  expected_values:
+    APP_D: 18.82353
+- response: '7E803414932'
+  expected_values:
+    APP_D: 19.60784
+- response: '7E803414933'
+  expected_values:
+    APP_D: 20
+- response: '7E803414934'
+  expected_values:
+    APP_D: 20.39216
+- response: '7E803414935'
+  expected_values:
+    APP_D: 20.78431
+- response: '7E803414936'
+  expected_values:
+    APP_D: 21.17647
+- response: '7E803414937'
+  expected_values:
+    APP_D: 21.56863
+- response: '7E803414938'
+  expected_values:
+    APP_D: 21.96078
+- response: '7E803414939'
+  expected_values:
+    APP_D: 22.35294
+- response: 7E80341493A
+  expected_values:
+    APP_D: 22.7451
+- response: 7E80341493B
+  expected_values:
+    APP_D: 23.13725
+- response: 7E80341493C
+  expected_values:
+    APP_D: 23.52941
+- response: 7E80341493D
+  expected_values:
+    APP_D: 23.92157
+- response: 7E80341493E
+  expected_values:
+    APP_D: 24.31373
+- response: 7E80341493F
+  expected_values:
+    APP_D: 24.70588
+- response: '7E803414940'
+  expected_values:
+    APP_D: 25.09804
+- response: '7E803414941'
+  expected_values:
+    APP_D: 25.4902
+- response: '7E803414942'
+  expected_values:
+    APP_D: 25.88235
+- response: '7E803414944'
+  expected_values:
+    APP_D: 26.66667
+- response: '7E803414945'
+  expected_values:
+    APP_D: 27.05882
+- response: '7E803414946'
+  expected_values:
+    APP_D: 27.45098
+- response: '7E803414947'
+  expected_values:
+    APP_D: 27.84314
+- response: '7E803414948'
+  expected_values:
+    APP_D: 28.23529
+- response: '7E803414949'
+  expected_values:
+    APP_D: 28.62745
+- response: 7E80341494A
+  expected_values:
+    APP_D: 29.01961
+- response: 7E80341494B
+  expected_values:
+    APP_D: 29.41176
+- response: 7E80341494C
+  expected_values:
+    APP_D: 29.80392
+- response: 7E80341494D
+  expected_values:
+    APP_D: 30.19608
+- response: 7E80341494E
+  expected_values:
+    APP_D: 30.58824
+- response: 7E80341494F
+  expected_values:
+    APP_D: 30.98039
+- response: '7E803414951'
+  expected_values:
+    APP_D: 31.76471
+- response: '7E803414952'
+  expected_values:
+    APP_D: 32.15686
+- response: '7E803414953'
+  expected_values:
+    APP_D: 32.54902
+- response: '7E803414954'
+  expected_values:
+    APP_D: 32.94118
+- response: '7E803414955'
+  expected_values:
+    APP_D: 33.33333
+- response: '7E803414956'
+  expected_values:
+    APP_D: 33.72549
+- response: '7E803414957'
+  expected_values:
+    APP_D: 34.11765
+- response: '7E803414958'
+  expected_values:
+    APP_D: 34.5098
+- response: '7E803414959'
+  expected_values:
+    APP_D: 34.90196
+- response: 7E80341495B
+  expected_values:
+    APP_D: 35.68627
+- response: 7E80341495C
+  expected_values:
+    APP_D: 36.07843
+- response: 7E80341495D
+  expected_values:
+    APP_D: 36.47059
+- response: '7E803414961'
+  expected_values:
+    APP_D: 38.03922
+- response: '7E803414963'
+  expected_values:
+    APP_D: 38.82353
+- response: '7E803414966'
+  expected_values:
+    APP_D: 40
+- response: '7E803414967'
+  expected_values:
+    APP_D: 40.39216
+- response: '7E803414969'
+  expected_values:
+    APP_D: 41.17647
+- response: 7E80341496B
+  expected_values:
+    APP_D: 41.96078
