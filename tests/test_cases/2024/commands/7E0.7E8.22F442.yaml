@@ -1,0 +1,91 @@
+command_id: 7E0.7E8.22F442
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F442310E
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.558
+- response: 7E80562F442315C
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.636
+- response: 7E80562F442320C
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.812
+- response: 7E80562F44235F0
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.808
+- response: 7E80562F4423604
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.828
+- response: 7E80562F4423617
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.847
+- response: 7E80562F442362B
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.867
+- response: 7E80562F442363E
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.886
+- response: 7E80562F4423652
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.906
+- response: 7E80562F4423665
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.925
+- response: 7E80562F4423679
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.945
+- response: 7E80562F442368C
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.964
+- response: 7E80562F44236A0
+  expected_values:
+    VOLKSWAGEN_VPWR: 13.984
+- response: 7E80562F44236B3
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.003
+- response: 7E80562F44236C7
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.023
+- response: 7E80562F4423702
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.082
+- response: 7E80562F4423827
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.375
+- response: 7E80562F442389C
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.492
+- response: 7E80562F44238AF
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.511
+- response: 7E80562F44238C3
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.531
+- response: 7E80562F44238D6
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.55
+- response: 7E80562F44238EA
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.57
+- response: 7E80562F44238FD
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.589
+- response: 7E80562F4423911
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.609
+- response: 7E80562F4423924
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.628
+- response: 7E80562F4423938
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.648
+- response: 7E80562F442394B
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.667
+- response: 7E80562F442395F
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.687
+- response: 7E80562F4423973
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.707
