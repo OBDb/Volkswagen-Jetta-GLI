@@ -2,6 +2,9 @@ command_id: 7E0.0149
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: '7E803414924'
+  expected_values:
+    APP_D: 14.11765
 - response: '7E803414925'
   expected_values:
     APP_D: 14.5098
@@ -14,15 +17,30 @@ test_cases:
 - response: '7E803414928'
   expected_values:
     APP_D: 15.68627
+- response: '7E803414929'
+  expected_values:
+    APP_D: 16.07843
 - response: 7E80341492A
   expected_values:
     APP_D: 16.47059
+- response: 7E80341492B
+  expected_values:
+    APP_D: 16.86275
 - response: 7E80341492C
   expected_values:
     APP_D: 17.2549
+- response: 7E80341492E
+  expected_values:
+    APP_D: 18.03922
+- response: 7E80341492F
+  expected_values:
+    APP_D: 18.43137
 - response: '7E803414930'
   expected_values:
     APP_D: 18.82353
+- response: '7E803414931'
+  expected_values:
+    APP_D: 19.21569
 - response: '7E803414932'
   expected_values:
     APP_D: 19.60784
@@ -74,6 +92,9 @@ test_cases:
 - response: '7E803414942'
   expected_values:
     APP_D: 25.88235
+- response: '7E803414943'
+  expected_values:
+    APP_D: 26.27451
 - response: '7E803414944'
   expected_values:
     APP_D: 26.66667
@@ -110,6 +131,9 @@ test_cases:
 - response: 7E80341494F
   expected_values:
     APP_D: 30.98039
+- response: '7E803414950'
+  expected_values:
+    APP_D: 31.37255
 - response: '7E803414951'
   expected_values:
     APP_D: 31.76471
@@ -146,9 +170,21 @@ test_cases:
 - response: 7E80341495D
   expected_values:
     APP_D: 36.47059
+- response: 7E80341495E
+  expected_values:
+    APP_D: 36.86275
+- response: 7E80341495F
+  expected_values:
+    APP_D: 37.2549
+- response: '7E803414960'
+  expected_values:
+    APP_D: 37.64706
 - response: '7E803414961'
   expected_values:
     APP_D: 38.03922
+- response: '7E803414962'
+  expected_values:
+    APP_D: 38.43137
 - response: '7E803414963'
   expected_values:
     APP_D: 38.82353
@@ -164,3 +200,9 @@ test_cases:
 - response: 7E80341496B
   expected_values:
     APP_D: 41.96078
+- response: 7E80341496C
+  expected_values:
+    APP_D: 42.35294
+- response: 7E80341496D
+  expected_values:
+    APP_D: 42.7451

@@ -38,6 +38,9 @@ test_cases:
 - response: '7E803416289'
   expected_values:
     TQ_ACT: 12
+- response: 7E80341628A
+  expected_values:
+    TQ_ACT: 13
 - response: 7E80341628B
   expected_values:
     TQ_ACT: 14
@@ -62,6 +65,9 @@ test_cases:
 - response: '7E803416292'
   expected_values:
     TQ_ACT: 21
+- response: '7E803416293'
+  expected_values:
+    TQ_ACT: 22
 - response: '7E803416294'
   expected_values:
     TQ_ACT: 23
@@ -104,6 +110,9 @@ test_cases:
 - response: 7E8034162A1
   expected_values:
     TQ_ACT: 36
+- response: 7E8034162A2
+  expected_values:
+    TQ_ACT: 37
 - response: 7E8034162A3
   expected_values:
     TQ_ACT: 38
@@ -119,9 +128,15 @@ test_cases:
 - response: 7E8034162A7
   expected_values:
     TQ_ACT: 42
+- response: 7E8034162A8
+  expected_values:
+    TQ_ACT: 43
 - response: 7E8034162A9
   expected_values:
     TQ_ACT: 44
+- response: 7E8034162AA
+  expected_values:
+    TQ_ACT: 45
 - response: 7E8034162AB
   expected_values:
     TQ_ACT: 46
@@ -131,27 +146,60 @@ test_cases:
 - response: 7E8034162AD
   expected_values:
     TQ_ACT: 48
+- response: 7E8034162AE
+  expected_values:
+    TQ_ACT: 49
 - response: 7E8034162AF
   expected_values:
     TQ_ACT: 50
+- response: 7E8034162B0
+  expected_values:
+    TQ_ACT: 51
 - response: 7E8034162B2
   expected_values:
     TQ_ACT: 53
+- response: 7E8034162B3
+  expected_values:
+    TQ_ACT: 54
 - response: 7E8034162B4
   expected_values:
     TQ_ACT: 55
 - response: 7E8034162B5
   expected_values:
     TQ_ACT: 56
+- response: 7E8034162B6
+  expected_values:
+    TQ_ACT: 57
+- response: 7E8034162B7
+  expected_values:
+    TQ_ACT: 58
 - response: 7E8034162BA
   expected_values:
     TQ_ACT: 61
 - response: 7E8034162BB
   expected_values:
     TQ_ACT: 62
+- response: 7E8034162BC
+  expected_values:
+    TQ_ACT: 63
+- response: 7E8034162BE
+  expected_values:
+    TQ_ACT: 65
+- response: 7E8034162C1
+  expected_values:
+    TQ_ACT: 68
+- response: 7E8034162C6
+  expected_values:
+    TQ_ACT: 73
 - response: 7E8034162C7
   expected_values:
     TQ_ACT: 74
+- response: 7E8034162C8
+  expected_values:
+    TQ_ACT: 75
 - response: 7E8034162CF
   expected_values:
     TQ_ACT: 82
+- response: 7E8034162D4
+  expected_values:
+    TQ_ACT: 87

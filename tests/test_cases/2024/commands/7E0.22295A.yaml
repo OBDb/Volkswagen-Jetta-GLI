@@ -4,268 +4,844 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E80662295A003000
   expected_values:
-    VOLKSWAGEN_ODO: 12288
+    VOLKSWAGEN_ODO_V3: 12288
 - response: 7E80662295A003001
   expected_values:
-    VOLKSWAGEN_ODO: 12289
+    VOLKSWAGEN_ODO_V3: 12289
 - response: 7E80662295A003002
   expected_values:
-    VOLKSWAGEN_ODO: 12290
+    VOLKSWAGEN_ODO_V3: 12290
 - response: 7E80662295A003003
   expected_values:
-    VOLKSWAGEN_ODO: 12291
+    VOLKSWAGEN_ODO_V3: 12291
 - response: 7E80662295A003004
   expected_values:
-    VOLKSWAGEN_ODO: 12292
+    VOLKSWAGEN_ODO_V3: 12292
 - response: 7E80662295A003005
   expected_values:
-    VOLKSWAGEN_ODO: 12293
+    VOLKSWAGEN_ODO_V3: 12293
 - response: 7E80662295A003006
   expected_values:
-    VOLKSWAGEN_ODO: 12294
+    VOLKSWAGEN_ODO_V3: 12294
 - response: 7E80662295A003007
   expected_values:
-    VOLKSWAGEN_ODO: 12295
+    VOLKSWAGEN_ODO_V3: 12295
 - response: 7E80662295A003008
   expected_values:
-    VOLKSWAGEN_ODO: 12296
+    VOLKSWAGEN_ODO_V3: 12296
 - response: 7E80662295A003009
   expected_values:
-    VOLKSWAGEN_ODO: 12297
+    VOLKSWAGEN_ODO_V3: 12297
 - response: 7E80662295A00300A
   expected_values:
-    VOLKSWAGEN_ODO: 12298
+    VOLKSWAGEN_ODO_V3: 12298
 - response: 7E80662295A00300B
   expected_values:
-    VOLKSWAGEN_ODO: 12299
+    VOLKSWAGEN_ODO_V3: 12299
 - response: 7E80662295A00300C
   expected_values:
-    VOLKSWAGEN_ODO: 12300
+    VOLKSWAGEN_ODO_V3: 12300
 - response: 7E80662295A00300D
   expected_values:
-    VOLKSWAGEN_ODO: 12301
+    VOLKSWAGEN_ODO_V3: 12301
 - response: 7E80662295A00300E
   expected_values:
-    VOLKSWAGEN_ODO: 12302
+    VOLKSWAGEN_ODO_V3: 12302
 - response: 7E80662295A00300F
   expected_values:
-    VOLKSWAGEN_ODO: 12303
+    VOLKSWAGEN_ODO_V3: 12303
 - response: 7E80662295A003010
   expected_values:
-    VOLKSWAGEN_ODO: 12304
+    VOLKSWAGEN_ODO_V3: 12304
 - response: 7E80662295A003011
   expected_values:
-    VOLKSWAGEN_ODO: 12305
+    VOLKSWAGEN_ODO_V3: 12305
 - response: 7E80662295A003012
   expected_values:
-    VOLKSWAGEN_ODO: 12306
+    VOLKSWAGEN_ODO_V3: 12306
 - response: 7E80662295A003013
   expected_values:
-    VOLKSWAGEN_ODO: 12307
+    VOLKSWAGEN_ODO_V3: 12307
 - response: 7E80662295A003014
   expected_values:
-    VOLKSWAGEN_ODO: 12308
+    VOLKSWAGEN_ODO_V3: 12308
 - response: 7E80662295A003015
   expected_values:
-    VOLKSWAGEN_ODO: 12309
+    VOLKSWAGEN_ODO_V3: 12309
 - response: 7E80662295A003016
   expected_values:
-    VOLKSWAGEN_ODO: 12310
+    VOLKSWAGEN_ODO_V3: 12310
 - response: 7E80662295A003017
   expected_values:
-    VOLKSWAGEN_ODO: 12311
+    VOLKSWAGEN_ODO_V3: 12311
 - response: 7E80662295A003018
   expected_values:
-    VOLKSWAGEN_ODO: 12312
+    VOLKSWAGEN_ODO_V3: 12312
 - response: 7E80662295A003019
   expected_values:
-    VOLKSWAGEN_ODO: 12313
+    VOLKSWAGEN_ODO_V3: 12313
 - response: 7E80662295A00301A
   expected_values:
-    VOLKSWAGEN_ODO: 12314
+    VOLKSWAGEN_ODO_V3: 12314
 - response: 7E80662295A00301B
   expected_values:
-    VOLKSWAGEN_ODO: 12315
+    VOLKSWAGEN_ODO_V3: 12315
 - response: 7E80662295A00301C
   expected_values:
-    VOLKSWAGEN_ODO: 12316
+    VOLKSWAGEN_ODO_V3: 12316
 - response: 7E80662295A00301D
   expected_values:
-    VOLKSWAGEN_ODO: 12317
+    VOLKSWAGEN_ODO_V3: 12317
 - response: 7E80662295A00301E
   expected_values:
-    VOLKSWAGEN_ODO: 12318
+    VOLKSWAGEN_ODO_V3: 12318
 - response: 7E80662295A00301F
   expected_values:
-    VOLKSWAGEN_ODO: 12319
+    VOLKSWAGEN_ODO_V3: 12319
 - response: 7E80662295A003020
   expected_values:
-    VOLKSWAGEN_ODO: 12320
+    VOLKSWAGEN_ODO_V3: 12320
 - response: 7E80662295A003021
   expected_values:
-    VOLKSWAGEN_ODO: 12321
+    VOLKSWAGEN_ODO_V3: 12321
 - response: 7E80662295A003022
   expected_values:
-    VOLKSWAGEN_ODO: 12322
+    VOLKSWAGEN_ODO_V3: 12322
 - response: 7E80662295A003023
   expected_values:
-    VOLKSWAGEN_ODO: 12323
+    VOLKSWAGEN_ODO_V3: 12323
 - response: 7E80662295A003025
   expected_values:
-    VOLKSWAGEN_ODO: 12325
+    VOLKSWAGEN_ODO_V3: 12325
 - response: 7E80662295A003026
   expected_values:
-    VOLKSWAGEN_ODO: 12326
+    VOLKSWAGEN_ODO_V3: 12326
 - response: 7E80662295A003027
   expected_values:
-    VOLKSWAGEN_ODO: 12327
+    VOLKSWAGEN_ODO_V3: 12327
 - response: 7E80662295A003028
   expected_values:
-    VOLKSWAGEN_ODO: 12328
+    VOLKSWAGEN_ODO_V3: 12328
 - response: 7E80662295A003029
   expected_values:
-    VOLKSWAGEN_ODO: 12329
+    VOLKSWAGEN_ODO_V3: 12329
 - response: 7E80662295A00302A
   expected_values:
-    VOLKSWAGEN_ODO: 12330
+    VOLKSWAGEN_ODO_V3: 12330
 - response: 7E80662295A00302B
   expected_values:
-    VOLKSWAGEN_ODO: 12331
+    VOLKSWAGEN_ODO_V3: 12331
 - response: 7E80662295A00302C
   expected_values:
-    VOLKSWAGEN_ODO: 12332
+    VOLKSWAGEN_ODO_V3: 12332
 - response: 7E80662295A00302D
   expected_values:
-    VOLKSWAGEN_ODO: 12333
+    VOLKSWAGEN_ODO_V3: 12333
 - response: 7E80662295A00302F
   expected_values:
-    VOLKSWAGEN_ODO: 12335
+    VOLKSWAGEN_ODO_V3: 12335
 - response: 7E80662295A003030
   expected_values:
-    VOLKSWAGEN_ODO: 12336
+    VOLKSWAGEN_ODO_V3: 12336
 - response: 7E80662295A003032
   expected_values:
-    VOLKSWAGEN_ODO: 12338
+    VOLKSWAGEN_ODO_V3: 12338
 - response: 7E80662295A003033
   expected_values:
-    VOLKSWAGEN_ODO: 12339
+    VOLKSWAGEN_ODO_V3: 12339
 - response: 7E80662295A003035
   expected_values:
-    VOLKSWAGEN_ODO: 12341
+    VOLKSWAGEN_ODO_V3: 12341
 - response: 7E80662295A003036
   expected_values:
-    VOLKSWAGEN_ODO: 12342
+    VOLKSWAGEN_ODO_V3: 12342
 - response: 7E80662295A003037
   expected_values:
-    VOLKSWAGEN_ODO: 12343
+    VOLKSWAGEN_ODO_V3: 12343
 - response: 7E80662295A003038
   expected_values:
-    VOLKSWAGEN_ODO: 12344
+    VOLKSWAGEN_ODO_V3: 12344
 - response: 7E80662295A003039
   expected_values:
-    VOLKSWAGEN_ODO: 12345
+    VOLKSWAGEN_ODO_V3: 12345
 - response: 7E80662295A00303A
   expected_values:
-    VOLKSWAGEN_ODO: 12346
+    VOLKSWAGEN_ODO_V3: 12346
 - response: 7E80662295A00303C
   expected_values:
-    VOLKSWAGEN_ODO: 12348
+    VOLKSWAGEN_ODO_V3: 12348
 - response: 7E80662295A00303D
   expected_values:
-    VOLKSWAGEN_ODO: 12349
+    VOLKSWAGEN_ODO_V3: 12349
 - response: 7E80662295A00303F
   expected_values:
-    VOLKSWAGEN_ODO: 12351
+    VOLKSWAGEN_ODO_V3: 12351
 - response: 7E80662295A003040
   expected_values:
-    VOLKSWAGEN_ODO: 12352
+    VOLKSWAGEN_ODO_V3: 12352
 - response: 7E80662295A003041
   expected_values:
-    VOLKSWAGEN_ODO: 12353
+    VOLKSWAGEN_ODO_V3: 12353
 - response: 7E80662295A003042
   expected_values:
-    VOLKSWAGEN_ODO: 12354
+    VOLKSWAGEN_ODO_V3: 12354
 - response: 7E80662295A003043
   expected_values:
-    VOLKSWAGEN_ODO: 12355
+    VOLKSWAGEN_ODO_V3: 12355
 - response: 7E80662295A003044
   expected_values:
-    VOLKSWAGEN_ODO: 12356
+    VOLKSWAGEN_ODO_V3: 12356
 - response: 7E80662295A003045
   expected_values:
-    VOLKSWAGEN_ODO: 12357
+    VOLKSWAGEN_ODO_V3: 12357
 - response: 7E80662295A003046
   expected_values:
-    VOLKSWAGEN_ODO: 12358
+    VOLKSWAGEN_ODO_V3: 12358
 - response: 7E80662295A003047
   expected_values:
-    VOLKSWAGEN_ODO: 12359
+    VOLKSWAGEN_ODO_V3: 12359
 - response: 7E80662295A003048
   expected_values:
-    VOLKSWAGEN_ODO: 12360
+    VOLKSWAGEN_ODO_V3: 12360
 - response: 7E80662295A003049
   expected_values:
-    VOLKSWAGEN_ODO: 12361
+    VOLKSWAGEN_ODO_V3: 12361
 - response: 7E80662295A00304A
   expected_values:
-    VOLKSWAGEN_ODO: 12362
+    VOLKSWAGEN_ODO_V3: 12362
 - response: 7E80662295A00304B
   expected_values:
-    VOLKSWAGEN_ODO: 12363
+    VOLKSWAGEN_ODO_V3: 12363
 - response: 7E80662295A00304C
   expected_values:
-    VOLKSWAGEN_ODO: 12364
+    VOLKSWAGEN_ODO_V3: 12364
 - response: 7E80662295A00304D
   expected_values:
-    VOLKSWAGEN_ODO: 12365
+    VOLKSWAGEN_ODO_V3: 12365
 - response: 7E80662295A00304E
   expected_values:
-    VOLKSWAGEN_ODO: 12366
+    VOLKSWAGEN_ODO_V3: 12366
 - response: 7E80662295A00304F
   expected_values:
-    VOLKSWAGEN_ODO: 12367
+    VOLKSWAGEN_ODO_V3: 12367
 - response: 7E80662295A003050
   expected_values:
-    VOLKSWAGEN_ODO: 12368
+    VOLKSWAGEN_ODO_V3: 12368
 - response: 7E80662295A003051
   expected_values:
-    VOLKSWAGEN_ODO: 12369
+    VOLKSWAGEN_ODO_V3: 12369
 - response: 7E80662295A003052
   expected_values:
-    VOLKSWAGEN_ODO: 12370
+    VOLKSWAGEN_ODO_V3: 12370
 - response: 7E80662295A003053
   expected_values:
-    VOLKSWAGEN_ODO: 12371
+    VOLKSWAGEN_ODO_V3: 12371
 - response: 7E80662295A003054
   expected_values:
-    VOLKSWAGEN_ODO: 12372
+    VOLKSWAGEN_ODO_V3: 12372
 - response: 7E80662295A003055
   expected_values:
-    VOLKSWAGEN_ODO: 12373
+    VOLKSWAGEN_ODO_V3: 12373
 - response: 7E80662295A003056
   expected_values:
-    VOLKSWAGEN_ODO: 12374
+    VOLKSWAGEN_ODO_V3: 12374
 - response: 7E80662295A003057
   expected_values:
-    VOLKSWAGEN_ODO: 12375
+    VOLKSWAGEN_ODO_V3: 12375
 - response: 7E80662295A003058
   expected_values:
-    VOLKSWAGEN_ODO: 12376
+    VOLKSWAGEN_ODO_V3: 12376
 - response: 7E80662295A003059
   expected_values:
-    VOLKSWAGEN_ODO: 12377
+    VOLKSWAGEN_ODO_V3: 12377
 - response: 7E80662295A00305A
   expected_values:
-    VOLKSWAGEN_ODO: 12378
+    VOLKSWAGEN_ODO_V3: 12378
 - response: 7E80662295A00305B
   expected_values:
-    VOLKSWAGEN_ODO: 12379
+    VOLKSWAGEN_ODO_V3: 12379
 - response: 7E80662295A00305C
   expected_values:
-    VOLKSWAGEN_ODO: 12380
+    VOLKSWAGEN_ODO_V3: 12380
 - response: 7E80662295A00305D
   expected_values:
-    VOLKSWAGEN_ODO: 12381
+    VOLKSWAGEN_ODO_V3: 12381
 - response: 7E80662295A00305E
   expected_values:
-    VOLKSWAGEN_ODO: 12382
+    VOLKSWAGEN_ODO_V3: 12382
+- response: 7E80662295A003081
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12417
+- response: 7E80662295A003082
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12418
+- response: 7E80662295A003083
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12419
+- response: 7E80662295A003084
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12420
+- response: 7E80662295A003085
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12421
+- response: 7E80662295A003086
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12422
+- response: 7E80662295A003087
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12423
+- response: 7E80662295A003088
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12424
+- response: 7E80662295A003089
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12425
+- response: 7E80662295A00308A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12426
+- response: 7E80662295A00308C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12428
+- response: 7E80662295A00308D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12429
+- response: 7E80662295A00308E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12430
+- response: 7E80662295A00308F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12431
+- response: 7E80662295A003090
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12432
+- response: 7E80662295A003091
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12433
+- response: 7E80662295A003092
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12434
+- response: 7E80662295A003093
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12435
+- response: 7E80662295A003094
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12436
+- response: 7E80662295A003095
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12437
+- response: 7E80662295A003096
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12438
+- response: 7E80662295A003097
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12439
+- response: 7E80662295A003098
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12440
+- response: 7E80662295A003099
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12441
+- response: 7E80662295A00309A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12442
+- response: 7E80662295A00309B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12443
+- response: 7E80662295A00309C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12444
+- response: 7E80662295A00309D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12445
+- response: 7E80662295A00309E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12446
+- response: 7E80662295A00309F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12447
+- response: 7E80662295A0030A0
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12448
+- response: 7E80662295A0030A1
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12449
+- response: 7E80662295A0030A2
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12450
+- response: 7E80662295A0030A3
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12451
+- response: 7E80662295A0030A4
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12452
+- response: 7E80662295A0030A5
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12453
+- response: 7E80662295A0030A6
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12454
+- response: 7E80662295A0030A7
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12455
+- response: 7E80662295A0030A8
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12456
+- response: 7E80662295A0030A9
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12457
+- response: 7E80662295A0030AA
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12458
+- response: 7E80662295A0030AB
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12459
+- response: 7E80662295A0030AC
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12460
+- response: 7E80662295A0030AD
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12461
+- response: 7E80662295A0030AE
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12462
+- response: 7E80662295A0030AF
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12463
+- response: 7E80662295A0030B0
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12464
+- response: 7E80662295A0030B1
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12465
+- response: 7E80662295A0030B2
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12466
+- response: 7E80662295A0030B3
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12467
+- response: 7E80662295A0030B4
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12468
+- response: 7E80662295A0030B5
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12469
+- response: 7E80662295A0030B6
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12470
+- response: 7E80662295A0030B7
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12471
+- response: 7E80662295A0030B8
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12472
+- response: 7E80662295A0030B9
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12473
+- response: 7E80662295A0030BA
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12474
+- response: 7E80662295A0030BB
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12475
+- response: 7E80662295A0030BC
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12476
+- response: 7E80662295A0030BD
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12477
+- response: 7E80662295A0030BE
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12478
+- response: 7E80662295A0030BF
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12479
+- response: 7E80662295A0030C0
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12480
+- response: 7E80662295A0030C1
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12481
+- response: 7E80662295A0030C2
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12482
+- response: 7E80662295A0030C3
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12483
+- response: 7E80662295A00310C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12556
+- response: 7E80662295A00310E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12558
+- response: 7E80662295A00310F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12559
+- response: 7E80662295A003110
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12560
+- response: 7E80662295A003111
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12561
+- response: 7E80662295A003112
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12562
+- response: 7E80662295A003114
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12564
+- response: 7E80662295A003115
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12565
+- response: 7E80662295A003116
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12566
+- response: 7E80662295A003117
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12567
+- response: 7E80662295A003118
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12568
+- response: 7E80662295A003119
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12569
+- response: 7E80662295A00311B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12571
+- response: 7E80662295A00311C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12572
+- response: 7E80662295A00311D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12573
+- response: 7E80662295A00311E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12574
+- response: 7E80662295A00311F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12575
+- response: 7E80662295A003121
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12577
+- response: 7E80662295A003122
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12578
+- response: 7E80662295A003123
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12579
+- response: 7E80662295A003125
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12581
+- response: 7E80662295A003126
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12582
+- response: 7E80662295A003127
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12583
+- response: 7E80662295A003128
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12584
+- response: 7E80662295A003129
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12585
+- response: 7E80662295A00312A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12586
+- response: 7E80662295A00312B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12587
+- response: 7E80662295A00312C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12588
+- response: 7E80662295A00312D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12589
+- response: 7E80662295A00312E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12590
+- response: 7E80662295A00312F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12591
+- response: 7E80662295A003131
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12593
+- response: 7E80662295A003132
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12594
+- response: 7E80662295A003133
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12595
+- response: 7E80662295A003134
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12596
+- response: 7E80662295A003135
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12597
+- response: 7E80662295A003136
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12598
+- response: 7E80662295A003137
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12599
+- response: 7E80662295A003138
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12600
+- response: 7E80662295A003139
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12601
+- response: 7E80662295A00313A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12602
+- response: 7E80662295A00313B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12603
+- response: 7E80662295A00313C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12604
+- response: 7E80662295A00313D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12605
+- response: 7E80662295A00313E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12606
+- response: 7E80662295A00313F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12607
+- response: 7E80662295A003140
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12608
+- response: 7E80662295A003141
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12609
+- response: 7E80662295A003142
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12610
+- response: 7E80662295A003143
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12611
+- response: 7E80662295A003144
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12612
+- response: 7E80662295A003145
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12613
+- response: 7E80662295A003146
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12614
+- response: 7E80662295A003147
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12615
+- response: 7E80662295A003148
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12616
+- response: 7E80662295A003149
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12617
+- response: 7E80662295A00314A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12618
+- response: 7E80662295A00314B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12619
+- response: 7E80662295A00314C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12620
+- response: 7E80662295A00314D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12621
+- response: 7E80662295A00314E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12622
+- response: 7E80662295A00314F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12623
+- response: 7E80662295A003150
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12624
+- response: 7E80662295A003151
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12625
+- response: 7E80662295A003152
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12626
+- response: 7E80662295A003153
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12627
+- response: 7E80662295A003154
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12628
+- response: 7E80662295A003155
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12629
+- response: 7E80662295A003156
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12630
+- response: 7E80662295A003157
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12631
+- response: 7E80662295A003158
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12632
+- response: 7E80662295A003159
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12633
+- response: 7E80662295A00315A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12634
+- response: 7E80662295A00315B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12635
+- response: 7E80662295A00315C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12636
+- response: 7E80662295A00315D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12637
+- response: 7E80662295A00315E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12638
+- response: 7E80662295A003160
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12640
+- response: 7E80662295A003161
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12641
+- response: 7E80662295A003162
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12642
+- response: 7E80662295A003163
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12643
+- response: 7E80662295A003164
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12644
+- response: 7E80662295A003165
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12645
+- response: 7E80662295A003166
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12646
+- response: 7E80662295A003167
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12647
+- response: 7E80662295A003168
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12648
+- response: 7E80662295A003169
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12649
+- response: 7E80662295A00316A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12650
+- response: 7E80662295A00316B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12651
+- response: 7E80662295A00316C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12652
+- response: 7E80662295A00316D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12653
+- response: 7E80662295A00316F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12655
+- response: 7E80662295A003170
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12656
+- response: 7E80662295A003171
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12657
+- response: 7E80662295A003172
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12658
+- response: 7E80662295A003173
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12659
+- response: 7E80662295A003174
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12660
+- response: 7E80662295A003175
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12661
+- response: 7E80662295A003176
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12662
+- response: 7E80662295A003178
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12664
+- response: 7E80662295A003179
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12665
+- response: 7E80662295A00317A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12666
+- response: 7E80662295A00317C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12668
+- response: 7E80662295A00317D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12669
+- response: 7E80662295A00317E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12670
+- response: 7E80662295A00317F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12671
+- response: 7E80662295A003180
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12672
+- response: 7E80662295A003181
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12673
+- response: 7E80662295A003182
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12674
+- response: 7E80662295A003183
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12675
+- response: 7E80662295A003184
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12676
+- response: 7E80662295A003186
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12678
+- response: 7E80662295A003187
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12679
+- response: 7E80662295A003189
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12681
+- response: 7E80662295A00318A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12682
+- response: 7E80662295A00318B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12683
+- response: 7E80662295A00318D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12685
+- response: 7E80662295A00318E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12686
+- response: 7E80662295A003190
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12688
+- response: 7E80662295A003191
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12689
+- response: 7E80662295A003193
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12691
+- response: 7E80662295A003194
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12692
+- response: 7E80662295A003195
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12693
+- response: 7E80662295A003196
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12694
+- response: 7E80662295A003197
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 12695
+- response: 7E80662295A0FFFFF
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 1048575

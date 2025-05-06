@@ -23,12 +23,18 @@ test_cases:
 - response: 7E804419E003A
   expected_values:
     EXH_RATE: 11.6
+- response: 7E804419E003B
+  expected_values:
+    EXH_RATE: 11.8
 - response: 7E804419E003C
   expected_values:
     EXH_RATE: 12
 - response: 7E804419E003D
   expected_values:
     EXH_RATE: 12.2
+- response: 7E804419E003E
+  expected_values:
+    EXH_RATE: 12.4
 - response: 7E804419E003F
   expected_values:
     EXH_RATE: 12.6
@@ -44,6 +50,15 @@ test_cases:
 - response: 7E804419E0043
   expected_values:
     EXH_RATE: 13.4
+- response: 7E804419E0045
+  expected_values:
+    EXH_RATE: 13.8
+- response: 7E804419E0046
+  expected_values:
+    EXH_RATE: 14
+- response: 7E804419E0047
+  expected_values:
+    EXH_RATE: 14.2
 - response: 7E804419E0048
   expected_values:
     EXH_RATE: 14.4
@@ -65,18 +80,36 @@ test_cases:
 - response: 7E804419E0050
   expected_values:
     EXH_RATE: 16
+- response: 7E804419E0051
+  expected_values:
+    EXH_RATE: 16.2
+- response: 7E804419E0052
+  expected_values:
+    EXH_RATE: 16.4
 - response: 7E804419E0053
   expected_values:
     EXH_RATE: 16.6
 - response: 7E804419E0054
   expected_values:
     EXH_RATE: 16.8
+- response: 7E804419E0055
+  expected_values:
+    EXH_RATE: 17
+- response: 7E804419E0057
+  expected_values:
+    EXH_RATE: 17.4
 - response: 7E804419E0059
   expected_values:
     EXH_RATE: 17.8
 - response: 7E804419E005A
   expected_values:
     EXH_RATE: 18
+- response: 7E804419E005D
+  expected_values:
+    EXH_RATE: 18.6
+- response: 7E804419E005E
+  expected_values:
+    EXH_RATE: 18.8
 - response: 7E804419E0060
   expected_values:
     EXH_RATE: 19.2
@@ -95,15 +128,27 @@ test_cases:
 - response: 7E804419E0066
   expected_values:
     EXH_RATE: 20.4
+- response: 7E804419E0067
+  expected_values:
+    EXH_RATE: 20.6
 - response: 7E804419E0068
   expected_values:
     EXH_RATE: 20.8
+- response: 7E804419E0069
+  expected_values:
+    EXH_RATE: 21
 - response: 7E804419E006A
   expected_values:
     EXH_RATE: 21.2
 - response: 7E804419E006B
   expected_values:
     EXH_RATE: 21.4
+- response: 7E804419E006D
+  expected_values:
+    EXH_RATE: 21.8
+- response: 7E804419E006E
+  expected_values:
+    EXH_RATE: 22
 - response: 7E804419E006F
   expected_values:
     EXH_RATE: 22.2
@@ -134,9 +179,21 @@ test_cases:
 - response: 7E804419E0078
   expected_values:
     EXH_RATE: 24
+- response: 7E804419E0079
+  expected_values:
+    EXH_RATE: 24.2
+- response: 7E804419E007B
+  expected_values:
+    EXH_RATE: 24.6
 - response: 7E804419E007C
   expected_values:
     EXH_RATE: 24.8
+- response: 7E804419E007D
+  expected_values:
+    EXH_RATE: 25
+- response: 7E804419E007E
+  expected_values:
+    EXH_RATE: 25.2
 - response: 7E804419E007F
   expected_values:
     EXH_RATE: 25.4
@@ -149,9 +206,15 @@ test_cases:
 - response: 7E804419E0083
   expected_values:
     EXH_RATE: 26.2
+- response: 7E804419E0085
+  expected_values:
+    EXH_RATE: 26.6
 - response: 7E804419E0086
   expected_values:
     EXH_RATE: 26.8
+- response: 7E804419E0087
+  expected_values:
+    EXH_RATE: 27
 - response: 7E804419E0088
   expected_values:
     EXH_RATE: 27.2
@@ -164,42 +227,102 @@ test_cases:
 - response: 7E804419E008B
   expected_values:
     EXH_RATE: 27.8
+- response: 7E804419E008D
+  expected_values:
+    EXH_RATE: 28.2
+- response: 7E804419E008E
+  expected_values:
+    EXH_RATE: 28.4
+- response: 7E804419E008F
+  expected_values:
+    EXH_RATE: 28.6
+- response: 7E804419E0092
+  expected_values:
+    EXH_RATE: 29.2
 - response: 7E804419E0094
   expected_values:
     EXH_RATE: 29.6
+- response: 7E804419E0095
+  expected_values:
+    EXH_RATE: 29.8
+- response: 7E804419E0096
+  expected_values:
+    EXH_RATE: 30
 - response: 7E804419E0099
   expected_values:
     EXH_RATE: 30.6
 - response: 7E804419E009A
   expected_values:
     EXH_RATE: 30.8
+- response: 7E804419E009C
+  expected_values:
+    EXH_RATE: 31.2
 - response: 7E804419E00A0
   expected_values:
     EXH_RATE: 32
 - response: 7E804419E00A1
   expected_values:
     EXH_RATE: 32.2
+- response: 7E804419E00A3
+  expected_values:
+    EXH_RATE: 32.6
+- response: 7E804419E00A6
+  expected_values:
+    EXH_RATE: 33.2
 - response: 7E804419E00A9
   expected_values:
     EXH_RATE: 33.8
+- response: 7E804419E00AA
+  expected_values:
+    EXH_RATE: 34
+- response: 7E804419E00AB
+  expected_values:
+    EXH_RATE: 34.2
 - response: 7E804419E00AE
   expected_values:
     EXH_RATE: 34.8
+- response: 7E804419E00AF
+  expected_values:
+    EXH_RATE: 35
+- response: 7E804419E00B0
+  expected_values:
+    EXH_RATE: 35.2
+- response: 7E804419E00B1
+  expected_values:
+    EXH_RATE: 35.4
+- response: 7E804419E00B3
+  expected_values:
+    EXH_RATE: 35.8
 - response: 7E804419E00B4
   expected_values:
     EXH_RATE: 36
 - response: 7E804419E00B5
   expected_values:
     EXH_RATE: 36.2
+- response: 7E804419E00B7
+  expected_values:
+    EXH_RATE: 36.6
 - response: 7E804419E00B8
   expected_values:
     EXH_RATE: 36.8
+- response: 7E804419E00B9
+  expected_values:
+    EXH_RATE: 37
 - response: 7E804419E00BA
   expected_values:
     EXH_RATE: 37.2
 - response: 7E804419E00BB
   expected_values:
     EXH_RATE: 37.4
+- response: 7E804419E00BF
+  expected_values:
+    EXH_RATE: 38.2
+- response: 7E804419E00C3
+  expected_values:
+    EXH_RATE: 39
+- response: 7E804419E00C4
+  expected_values:
+    EXH_RATE: 39.2
 - response: 7E804419E00C6
   expected_values:
     EXH_RATE: 39.6
@@ -212,30 +335,81 @@ test_cases:
 - response: 7E804419E00CC
   expected_values:
     EXH_RATE: 40.8
+- response: 7E804419E00D0
+  expected_values:
+    EXH_RATE: 41.6
+- response: 7E804419E00D1
+  expected_values:
+    EXH_RATE: 41.8
+- response: 7E804419E00D2
+  expected_values:
+    EXH_RATE: 42
+- response: 7E804419E00D3
+  expected_values:
+    EXH_RATE: 42.2
 - response: 7E804419E00D4
   expected_values:
     EXH_RATE: 42.4
+- response: 7E804419E00D5
+  expected_values:
+    EXH_RATE: 42.6
+- response: 7E804419E00D7
+  expected_values:
+    EXH_RATE: 43
+- response: 7E804419E00D8
+  expected_values:
+    EXH_RATE: 43.2
+- response: 7E804419E00D9
+  expected_values:
+    EXH_RATE: 43.4
 - response: 7E804419E00DF
   expected_values:
     EXH_RATE: 44.6
+- response: 7E804419E00E0
+  expected_values:
+    EXH_RATE: 44.8
+- response: 7E804419E00E1
+  expected_values:
+    EXH_RATE: 45
 - response: 7E804419E00E2
   expected_values:
     EXH_RATE: 45.2
+- response: 7E804419E00E4
+  expected_values:
+    EXH_RATE: 45.6
 - response: 7E804419E00E5
   expected_values:
     EXH_RATE: 45.8
+- response: 7E804419E00E8
+  expected_values:
+    EXH_RATE: 46.4
 - response: 7E804419E00EB
   expected_values:
     EXH_RATE: 47
+- response: 7E804419E00EC
+  expected_values:
+    EXH_RATE: 47.2
 - response: 7E804419E00ED
   expected_values:
     EXH_RATE: 47.4
+- response: 7E804419E00EF
+  expected_values:
+    EXH_RATE: 47.8
+- response: 7E804419E00F1
+  expected_values:
+    EXH_RATE: 48.2
 - response: 7E804419E00F3
   expected_values:
     EXH_RATE: 48.6
 - response: 7E804419E00F8
   expected_values:
     EXH_RATE: 49.6
+- response: 7E804419E00FB
+  expected_values:
+    EXH_RATE: 50.2
+- response: 7E804419E00FC
+  expected_values:
+    EXH_RATE: 50.4
 - response: 7E804419E00FE
   expected_values:
     EXH_RATE: 50.8
@@ -245,9 +419,18 @@ test_cases:
 - response: 7E804419E0102
   expected_values:
     EXH_RATE: 51.6
+- response: 7E804419E0103
+  expected_values:
+    EXH_RATE: 51.8
+- response: 7E804419E0108
+  expected_values:
+    EXH_RATE: 52.8
 - response: 7E804419E010A
   expected_values:
     EXH_RATE: 53.2
+- response: 7E804419E010E
+  expected_values:
+    EXH_RATE: 54
 - response: 7E804419E0110
   expected_values:
     EXH_RATE: 54.4
@@ -260,33 +443,72 @@ test_cases:
 - response: 7E804419E011B
   expected_values:
     EXH_RATE: 56.6
+- response: 7E804419E011D
+  expected_values:
+    EXH_RATE: 57
 - response: 7E804419E011E
   expected_values:
     EXH_RATE: 57.2
+- response: 7E804419E011F
+  expected_values:
+    EXH_RATE: 57.4
+- response: 7E804419E0120
+  expected_values:
+    EXH_RATE: 57.6
+- response: 7E804419E0126
+  expected_values:
+    EXH_RATE: 58.8
 - response: 7E804419E0128
   expected_values:
     EXH_RATE: 59.2
 - response: 7E804419E012A
   expected_values:
     EXH_RATE: 59.6
+- response: 7E804419E0130
+  expected_values:
+    EXH_RATE: 60.8
 - response: 7E804419E0132
   expected_values:
     EXH_RATE: 61.2
 - response: 7E804419E0133
   expected_values:
     EXH_RATE: 61.4
+- response: 7E804419E0134
+  expected_values:
+    EXH_RATE: 61.6
+- response: 7E804419E0137
+  expected_values:
+    EXH_RATE: 62.2
+- response: 7E804419E0138
+  expected_values:
+    EXH_RATE: 62.4
+- response: 7E804419E013B
+  expected_values:
+    EXH_RATE: 63
 - response: 7E804419E013C
   expected_values:
     EXH_RATE: 63.2
+- response: 7E804419E013D
+  expected_values:
+    EXH_RATE: 63.4
 - response: 7E804419E013E
   expected_values:
     EXH_RATE: 63.6
 - response: 7E804419E0145
   expected_values:
     EXH_RATE: 65
+- response: 7E804419E0148
+  expected_values:
+    EXH_RATE: 65.6
+- response: 7E804419E014C
+  expected_values:
+    EXH_RATE: 66.4
 - response: 7E804419E0150
   expected_values:
     EXH_RATE: 67.2
+- response: 7E804419E0152
+  expected_values:
+    EXH_RATE: 67.6
 - response: 7E804419E0153
   expected_values:
     EXH_RATE: 67.8
@@ -305,63 +527,219 @@ test_cases:
 - response: 7E804419E0162
   expected_values:
     EXH_RATE: 70.8
+- response: 7E804419E0163
+  expected_values:
+    EXH_RATE: 71
 - response: 7E804419E0165
   expected_values:
     EXH_RATE: 71.4
 - response: 7E804419E0168
   expected_values:
     EXH_RATE: 72
+- response: 7E804419E0169
+  expected_values:
+    EXH_RATE: 72.2
+- response: 7E804419E016A
+  expected_values:
+    EXH_RATE: 72.4
+- response: 7E804419E016B
+  expected_values:
+    EXH_RATE: 72.6
+- response: 7E804419E016C
+  expected_values:
+    EXH_RATE: 72.8
+- response: 7E804419E016D
+  expected_values:
+    EXH_RATE: 73
+- response: 7E804419E0172
+  expected_values:
+    EXH_RATE: 74
+- response: 7E804419E0175
+  expected_values:
+    EXH_RATE: 74.6
+- response: 7E804419E0177
+  expected_values:
+    EXH_RATE: 75
+- response: 7E804419E017E
+  expected_values:
+    EXH_RATE: 76.4
 - response: 7E804419E017F
   expected_values:
     EXH_RATE: 76.6
+- response: 7E804419E0180
+  expected_values:
+    EXH_RATE: 76.8
+- response: 7E804419E0186
+  expected_values:
+    EXH_RATE: 78
+- response: 7E804419E0189
+  expected_values:
+    EXH_RATE: 78.6
+- response: 7E804419E018B
+  expected_values:
+    EXH_RATE: 79
 - response: 7E804419E018E
   expected_values:
     EXH_RATE: 79.6
+- response: 7E804419E0190
+  expected_values:
+    EXH_RATE: 80
+- response: 7E804419E0192
+  expected_values:
+    EXH_RATE: 80.4
+- response: 7E804419E0199
+  expected_values:
+    EXH_RATE: 81.8
+- response: 7E804419E019D
+  expected_values:
+    EXH_RATE: 82.6
+- response: 7E804419E019E
+  expected_values:
+    EXH_RATE: 82.8
+- response: 7E804419E019F
+  expected_values:
+    EXH_RATE: 83
+- response: 7E804419E01A3
+  expected_values:
+    EXH_RATE: 83.8
+- response: 7E804419E01A7
+  expected_values:
+    EXH_RATE: 84.6
+- response: 7E804419E01A9
+  expected_values:
+    EXH_RATE: 85
+- response: 7E804419E01AD
+  expected_values:
+    EXH_RATE: 85.8
 - response: 7E804419E01B0
   expected_values:
     EXH_RATE: 86.4
+- response: 7E804419E01B2
+  expected_values:
+    EXH_RATE: 86.8
+- response: 7E804419E01B5
+  expected_values:
+    EXH_RATE: 87.4
+- response: 7E804419E01B7
+  expected_values:
+    EXH_RATE: 87.8
 - response: 7E804419E01BA
   expected_values:
     EXH_RATE: 88.4
+- response: 7E804419E01BC
+  expected_values:
+    EXH_RATE: 88.8
 - response: 7E804419E01BE
   expected_values:
     EXH_RATE: 89.2
 - response: 7E804419E01C2
   expected_values:
     EXH_RATE: 90
+- response: 7E804419E01C3
+  expected_values:
+    EXH_RATE: 90.2
+- response: 7E804419E01C4
+  expected_values:
+    EXH_RATE: 90.4
+- response: 7E804419E01C5
+  expected_values:
+    EXH_RATE: 90.6
+- response: 7E804419E01C7
+  expected_values:
+    EXH_RATE: 91
+- response: 7E804419E01C8
+  expected_values:
+    EXH_RATE: 91.2
+- response: 7E804419E01C9
+  expected_values:
+    EXH_RATE: 91.4
+- response: 7E804419E01CA
+  expected_values:
+    EXH_RATE: 91.6
+- response: 7E804419E01CB
+  expected_values:
+    EXH_RATE: 91.8
 - response: 7E804419E01CE
   expected_values:
     EXH_RATE: 92.4
+- response: 7E804419E01D0
+  expected_values:
+    EXH_RATE: 92.8
 - response: 7E804419E01D5
   expected_values:
     EXH_RATE: 93.8
 - response: 7E804419E01D6
   expected_values:
     EXH_RATE: 94
+- response: 7E804419E01DA
+  expected_values:
+    EXH_RATE: 94.8
+- response: 7E804419E01DB
+  expected_values:
+    EXH_RATE: 95
 - response: 7E804419E01DC
   expected_values:
     EXH_RATE: 95.2
 - response: 7E804419E01DD
   expected_values:
     EXH_RATE: 95.4
+- response: 7E804419E01E0
+  expected_values:
+    EXH_RATE: 96
+- response: 7E804419E01E3
+  expected_values:
+    EXH_RATE: 96.6
 - response: 7E804419E01E7
   expected_values:
     EXH_RATE: 97.4
 - response: 7E804419E01E9
   expected_values:
     EXH_RATE: 97.8
+- response: 7E804419E01EC
+  expected_values:
+    EXH_RATE: 98.4
+- response: 7E804419E01F0
+  expected_values:
+    EXH_RATE: 99.2
+- response: 7E804419E01FA
+  expected_values:
+    EXH_RATE: 101.2
 - response: 7E804419E01FC
   expected_values:
     EXH_RATE: 101.6
+- response: 7E804419E01FD
+  expected_values:
+    EXH_RATE: 101.8
 - response: 7E804419E0200
   expected_values:
     EXH_RATE: 102.4
+- response: 7E804419E0205
+  expected_values:
+    EXH_RATE: 103.4
 - response: 7E804419E0206
   expected_values:
     EXH_RATE: 103.6
+- response: 7E804419E020A
+  expected_values:
+    EXH_RATE: 104.4
 - response: 7E804419E020F
   expected_values:
     EXH_RATE: 105.4
+- response: 7E804419E0210
+  expected_values:
+    EXH_RATE: 105.6
+- response: 7E804419E0215
+  expected_values:
+    EXH_RATE: 106.6
+- response: 7E804419E0216
+  expected_values:
+    EXH_RATE: 106.8
+- response: 7E804419E0218
+  expected_values:
+    EXH_RATE: 107.2
+- response: 7E804419E021F
+  expected_values:
+    EXH_RATE: 108.6
 - response: 7E804419E0220
   expected_values:
     EXH_RATE: 108.8
@@ -371,60 +749,216 @@ test_cases:
 - response: 7E804419E0222
   expected_values:
     EXH_RATE: 109.2
+- response: 7E804419E0223
+  expected_values:
+    EXH_RATE: 109.4
+- response: 7E804419E0224
+  expected_values:
+    EXH_RATE: 109.6
+- response: 7E804419E0227
+  expected_values:
+    EXH_RATE: 110.2
+- response: 7E804419E0228
+  expected_values:
+    EXH_RATE: 110.4
 - response: 7E804419E0229
   expected_values:
     EXH_RATE: 110.6
 - response: 7E804419E022A
   expected_values:
     EXH_RATE: 110.8
+- response: 7E804419E022B
+  expected_values:
+    EXH_RATE: 111
+- response: 7E804419E022D
+  expected_values:
+    EXH_RATE: 111.4
+- response: 7E804419E022E
+  expected_values:
+    EXH_RATE: 111.6
+- response: 7E804419E022F
+  expected_values:
+    EXH_RATE: 111.8
+- response: 7E804419E0231
+  expected_values:
+    EXH_RATE: 112.2
+- response: 7E804419E0234
+  expected_values:
+    EXH_RATE: 112.8
 - response: 7E804419E0238
   expected_values:
     EXH_RATE: 113.6
 - response: 7E804419E0239
   expected_values:
     EXH_RATE: 113.8
+- response: 7E804419E023D
+  expected_values:
+    EXH_RATE: 114.6
+- response: 7E804419E0242
+  expected_values:
+    EXH_RATE: 115.6
+- response: 7E804419E0245
+  expected_values:
+    EXH_RATE: 116.2
+- response: 7E804419E024F
+  expected_values:
+    EXH_RATE: 118.2
+- response: 7E804419E0254
+  expected_values:
+    EXH_RATE: 119.2
+- response: 7E804419E0259
+  expected_values:
+    EXH_RATE: 120.2
+- response: 7E804419E025C
+  expected_values:
+    EXH_RATE: 120.8
 - response: 7E804419E0261
   expected_values:
     EXH_RATE: 121.8
 - response: 7E804419E0262
   expected_values:
     EXH_RATE: 122
+- response: 7E804419E0263
+  expected_values:
+    EXH_RATE: 122.2
 - response: 7E804419E026A
   expected_values:
     EXH_RATE: 123.6
+- response: 7E804419E0276
+  expected_values:
+    EXH_RATE: 126
+- response: 7E804419E027A
+  expected_values:
+    EXH_RATE: 126.8
+- response: 7E804419E027B
+  expected_values:
+    EXH_RATE: 127
+- response: 7E804419E0280
+  expected_values:
+    EXH_RATE: 128
 - response: 7E804419E0286
   expected_values:
     EXH_RATE: 129.2
+- response: 7E804419E0291
+  expected_values:
+    EXH_RATE: 131.4
+- response: 7E804419E0293
+  expected_values:
+    EXH_RATE: 131.8
 - response: 7E804419E0297
   expected_values:
     EXH_RATE: 132.6
+- response: 7E804419E029D
+  expected_values:
+    EXH_RATE: 133.8
+- response: 7E804419E02A2
+  expected_values:
+    EXH_RATE: 134.8
+- response: 7E804419E02A4
+  expected_values:
+    EXH_RATE: 135.2
+- response: 7E804419E02AD
+  expected_values:
+    EXH_RATE: 137
+- response: 7E804419E02C2
+  expected_values:
+    EXH_RATE: 141.2
+- response: 7E804419E02C4
+  expected_values:
+    EXH_RATE: 141.6
+- response: 7E804419E02CD
+  expected_values:
+    EXH_RATE: 143.4
+- response: 7E804419E02D1
+  expected_values:
+    EXH_RATE: 144.2
+- response: 7E804419E02D7
+  expected_values:
+    EXH_RATE: 145.4
 - response: 7E804419E02E3
   expected_values:
     EXH_RATE: 147.8
+- response: 7E804419E02F1
+  expected_values:
+    EXH_RATE: 150.6
+- response: 7E804419E02F9
+  expected_values:
+    EXH_RATE: 152.2
+- response: 7E804419E0307
+  expected_values:
+    EXH_RATE: 155
+- response: 7E804419E030E
+  expected_values:
+    EXH_RATE: 156.4
 - response: 7E804419E0317
   expected_values:
     EXH_RATE: 158.2
+- response: 7E804419E031A
+  expected_values:
+    EXH_RATE: 158.8
+- response: 7E804419E031B
+  expected_values:
+    EXH_RATE: 159
 - response: 7E804419E0322
   expected_values:
     EXH_RATE: 160.4
+- response: 7E804419E0323
+  expected_values:
+    EXH_RATE: 160.6
+- response: 7E804419E032B
+  expected_values:
+    EXH_RATE: 162.2
+- response: 7E804419E0333
+  expected_values:
+    EXH_RATE: 163.8
 - response: 7E804419E033D
   expected_values:
     EXH_RATE: 165.8
+- response: 7E804419E0368
+  expected_values:
+    EXH_RATE: 174.4
+- response: 7E804419E036A
+  expected_values:
+    EXH_RATE: 174.8
 - response: 7E804419E0377
   expected_values:
     EXH_RATE: 177.4
+- response: 7E804419E0385
+  expected_values:
+    EXH_RATE: 180.2
 - response: 7E804419E038B
   expected_values:
     EXH_RATE: 181.4
 - response: 7E804419E0399
   expected_values:
     EXH_RATE: 184.2
+- response: 7E804419E039A
+  expected_values:
+    EXH_RATE: 184.4
+- response: 7E804419E03AD
+  expected_values:
+    EXH_RATE: 188.2
 - response: 7E804419E03B4
   expected_values:
     EXH_RATE: 189.6
+- response: 7E804419E03C4
+  expected_values:
+    EXH_RATE: 192.8
+- response: 7E804419E03CC
+  expected_values:
+    EXH_RATE: 194.4
+- response: 7E804419E03CE
+  expected_values:
+    EXH_RATE: 194.8
 - response: 7E804419E03DB
   expected_values:
     EXH_RATE: 197.4
+- response: 7E804419E0409
+  expected_values:
+    EXH_RATE: 206.6
+- response: 7E804419E041D
+  expected_values:
+    EXH_RATE: 210.6
 - response: 7E804419E04E0
   expected_values:
     EXH_RATE: 249.6
