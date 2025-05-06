@@ -2,6 +2,9 @@ command_id: 7E0.010C
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E804410C0C3F
+  expected_values:
+    RPM: 783.75
 - response: 7E804410C0C49
   expected_values:
     RPM: 786.25
@@ -11,6 +14,9 @@ test_cases:
 - response: 7E804410C0C52
   expected_values:
     RPM: 788.5
+- response: 7E804410C0C57
+  expected_values:
+    RPM: 789.75
 - response: 7E804410C0C5A
   expected_values:
     RPM: 790.5
@@ -35,6 +41,12 @@ test_cases:
 - response: 7E804410C0C75
   expected_values:
     RPM: 797.25
+- response: 7E804410C0C79
+  expected_values:
+    RPM: 798.25
+- response: 7E804410C0C7C
+  expected_values:
+    RPM: 799
 - response: 7E804410C0C81
   expected_values:
     RPM: 800.25
@@ -44,18 +56,60 @@ test_cases:
 - response: 7E804410C0C84
   expected_values:
     RPM: 801
+- response: 7E804410C0C8B
+  expected_values:
+    RPM: 802.75
+- response: 7E804410C0C8E
+  expected_values:
+    RPM: 803.5
 - response: 7E804410C0C8F
   expected_values:
     RPM: 803.75
+- response: 7E804410C0C97
+  expected_values:
+    RPM: 805.75
+- response: 7E804410C0C98
+  expected_values:
+    RPM: 806
+- response: 7E804410C0CA7
+  expected_values:
+    RPM: 809.75
+- response: 7E804410C0CEB
+  expected_values:
+    RPM: 826.75
 - response: 7E804410C0D29
   expected_values:
     RPM: 842.25
+- response: 7E804410C0D4F
+  expected_values:
+    RPM: 851.75
+- response: 7E804410C0D59
+  expected_values:
+    RPM: 854.25
 - response: 7E804410C0DB7
   expected_values:
     RPM: 877.75
+- response: 7E804410C0DB8
+  expected_values:
+    RPM: 878
+- response: 7E804410C0E3A
+  expected_values:
+    RPM: 910.5
+- response: 7E804410C0E4E
+  expected_values:
+    RPM: 915.5
+- response: 7E804410C0E6F
+  expected_values:
+    RPM: 923.75
+- response: 7E804410C0E72
+  expected_values:
+    RPM: 924.5
 - response: 7E804410C0E80
   expected_values:
     RPM: 928
+- response: 7E804410C0E8C
+  expected_values:
+    RPM: 931
 - response: 7E804410C0E98
   expected_values:
     RPM: 934
@@ -80,21 +134,69 @@ test_cases:
 - response: 7E804410C0ECD
   expected_values:
     RPM: 947.25
+- response: 7E804410C0ECE
+  expected_values:
+    RPM: 947.5
+- response: 7E804410C0EDF
+  expected_values:
+    RPM: 951.75
+- response: 7E804410C0EFA
+  expected_values:
+    RPM: 958.5
+- response: 7E804410C0F0E
+  expected_values:
+    RPM: 963.5
 - response: 7E804410C0F42
   expected_values:
     RPM: 976.5
+- response: 7E804410C0F93
+  expected_values:
+    RPM: 996.75
+- response: 7E804410C0F9E
+  expected_values:
+    RPM: 999.5
+- response: 7E804410C0FE0
+  expected_values:
+    RPM: 1016
 - response: 7E804410C0FE5
   expected_values:
     RPM: 1017.25
 - response: 7E804410C0FEC
   expected_values:
     RPM: 1019
+- response: 7E804410C0FEE
+  expected_values:
+    RPM: 1019.5
+- response: 7E804410C0FFF
+  expected_values:
+    RPM: 1023.75
+- response: 7E804410C1014
+  expected_values:
+    RPM: 1029
+- response: 7E804410C101C
+  expected_values:
+    RPM: 1031
 - response: 7E804410C1025
   expected_values:
     RPM: 1033.25
+- response: 7E804410C1071
+  expected_values:
+    RPM: 1052.25
+- response: 7E804410C1074
+  expected_values:
+    RPM: 1053
 - response: 7E804410C1080
   expected_values:
     RPM: 1056
+- response: 7E804410C1081
+  expected_values:
+    RPM: 1056.25
+- response: 7E804410C1085
+  expected_values:
+    RPM: 1057.25
+- response: 7E804410C10C4
+  expected_values:
+    RPM: 1073
 - response: 7E804410C10D3
   expected_values:
     RPM: 1076.75
@@ -107,18 +209,54 @@ test_cases:
 - response: 7E804410C1154
   expected_values:
     RPM: 1109
+- response: 7E804410C117C
+  expected_values:
+    RPM: 1119
+- response: 7E804410C1196
+  expected_values:
+    RPM: 1125.5
+- response: 7E804410C11A0
+  expected_values:
+    RPM: 1128
 - response: 7E804410C120E
   expected_values:
     RPM: 1155.5
+- response: 7E804410C1214
+  expected_values:
+    RPM: 1157
+- response: 7E804410C121E
+  expected_values:
+    RPM: 1159.5
 - response: 7E804410C1241
   expected_values:
     RPM: 1168.25
+- response: 7E804410C1275
+  expected_values:
+    RPM: 1181.25
+- response: 7E804410C127D
+  expected_values:
+    RPM: 1183.25
 - response: 7E804410C1291
   expected_values:
     RPM: 1188.25
+- response: 7E804410C12B6
+  expected_values:
+    RPM: 1197.5
+- response: 7E804410C12B8
+  expected_values:
+    RPM: 1198
+- response: 7E804410C12C2
+  expected_values:
+    RPM: 1200.5
+- response: 7E804410C12DB
+  expected_values:
+    RPM: 1206.75
 - response: 7E804410C1314
   expected_values:
     RPM: 1221
+- response: 7E804410C134D
+  expected_values:
+    RPM: 1235.25
 - response: 7E804410C136F
   expected_values:
     RPM: 1243.75
@@ -128,15 +266,36 @@ test_cases:
 - response: 7E804410C1397
   expected_values:
     RPM: 1253.75
+- response: 7E804410C13DD
+  expected_values:
+    RPM: 1271.25
 - response: 7E804410C13E7
   expected_values:
     RPM: 1273.75
+- response: 7E804410C13EC
+  expected_values:
+    RPM: 1275
+- response: 7E804410C1408
+  expected_values:
+    RPM: 1282
+- response: 7E804410C144B
+  expected_values:
+    RPM: 1298.75
 - response: 7E804410C14A5
   expected_values:
     RPM: 1321.25
 - response: 7E804410C14B6
   expected_values:
     RPM: 1325.5
+- response: 7E804410C14BE
+  expected_values:
+    RPM: 1327.5
+- response: 7E804410C150D
+  expected_values:
+    RPM: 1347.25
+- response: 7E804410C1531
+  expected_values:
+    RPM: 1356.25
 - response: 7E804410C1534
   expected_values:
     RPM: 1357
@@ -149,9 +308,18 @@ test_cases:
 - response: 7E804410C159F
   expected_values:
     RPM: 1383.75
+- response: 7E804410C15AD
+  expected_values:
+    RPM: 1387.25
 - response: 7E804410C15D0
   expected_values:
     RPM: 1396
+- response: 7E804410C15D9
+  expected_values:
+    RPM: 1398.25
+- response: 7E804410C15DA
+  expected_values:
+    RPM: 1398.5
 - response: 7E804410C15E7
   expected_values:
     RPM: 1401.75
@@ -161,9 +329,24 @@ test_cases:
 - response: 7E804410C1615
   expected_values:
     RPM: 1413.25
+- response: 7E804410C1621
+  expected_values:
+    RPM: 1416.25
+- response: 7E804410C163F
+  expected_values:
+    RPM: 1423.75
 - response: 7E804410C1668
   expected_values:
     RPM: 1434
+- response: 7E804410C166B
+  expected_values:
+    RPM: 1434.75
+- response: 7E804410C166D
+  expected_values:
+    RPM: 1435.25
+- response: 7E804410C1677
+  expected_values:
+    RPM: 1437.75
 - response: 7E804410C168E
   expected_values:
     RPM: 1443.5
@@ -176,30 +359,75 @@ test_cases:
 - response: 7E804410C16BF
   expected_values:
     RPM: 1455.75
+- response: 7E804410C16CF
+  expected_values:
+    RPM: 1459.75
 - response: 7E804410C16EB
   expected_values:
     RPM: 1466.75
+- response: 7E804410C1718
+  expected_values:
+    RPM: 1478
+- response: 7E804410C1720
+  expected_values:
+    RPM: 1480
+- response: 7E804410C1729
+  expected_values:
+    RPM: 1482.25
 - response: 7E804410C1733
   expected_values:
     RPM: 1484.75
 - response: 7E804410C1738
   expected_values:
     RPM: 1486
+- response: 7E804410C176A
+  expected_values:
+    RPM: 1498.5
+- response: 7E804410C178E
+  expected_values:
+    RPM: 1507.5
 - response: 7E804410C1796
   expected_values:
     RPM: 1509.5
+- response: 7E804410C17A8
+  expected_values:
+    RPM: 1514
 - response: 7E804410C17BC
   expected_values:
     RPM: 1519
+- response: 7E804410C17D1
+  expected_values:
+    RPM: 1524.25
 - response: 7E804410C17D4
   expected_values:
     RPM: 1525
 - response: 7E804410C180F
   expected_values:
     RPM: 1539.75
+- response: 7E804410C1811
+  expected_values:
+    RPM: 1540.25
 - response: 7E804410C182B
   expected_values:
     RPM: 1546.75
+- response: 7E804410C183A
+  expected_values:
+    RPM: 1550.5
+- response: 7E804410C183B
+  expected_values:
+    RPM: 1550.75
+- response: 7E804410C1840
+  expected_values:
+    RPM: 1552
+- response: 7E804410C185E
+  expected_values:
+    RPM: 1559.5
+- response: 7E804410C187C
+  expected_values:
+    RPM: 1567
+- response: 7E804410C18A6
+  expected_values:
+    RPM: 1577.5
 - response: 7E804410C18AD
   expected_values:
     RPM: 1579.25
@@ -209,15 +437,39 @@ test_cases:
 - response: 7E804410C18D8
   expected_values:
     RPM: 1590
+- response: 7E804410C18DB
+  expected_values:
+    RPM: 1590.75
 - response: 7E804410C18E0
   expected_values:
     RPM: 1592
+- response: 7E804410C18F1
+  expected_values:
+    RPM: 1596.25
+- response: 7E804410C190C
+  expected_values:
+    RPM: 1603
 - response: 7E804410C1929
   expected_values:
     RPM: 1610.25
+- response: 7E804410C1930
+  expected_values:
+    RPM: 1612
+- response: 7E804410C1939
+  expected_values:
+    RPM: 1614.25
 - response: 7E804410C194F
   expected_values:
     RPM: 1619.75
+- response: 7E804410C197A
+  expected_values:
+    RPM: 1630.5
+- response: 7E804410C1983
+  expected_values:
+    RPM: 1632.75
+- response: 7E804410C19BC
+  expected_values:
+    RPM: 1647
 - response: 7E804410C19D6
   expected_values:
     RPM: 1653.5
@@ -236,27 +488,72 @@ test_cases:
 - response: 7E804410C1A20
   expected_values:
     RPM: 1672
+- response: 7E804410C1A30
+  expected_values:
+    RPM: 1676
+- response: 7E804410C1A56
+  expected_values:
+    RPM: 1685.5
+- response: 7E804410C1A5F
+  expected_values:
+    RPM: 1687.75
+- response: 7E804410C1A6E
+  expected_values:
+    RPM: 1691.5
+- response: 7E804410C1A9C
+  expected_values:
+    RPM: 1703
+- response: 7E804410C1AB6
+  expected_values:
+    RPM: 1709.5
+- response: 7E804410C1AB8
+  expected_values:
+    RPM: 1710
 - response: 7E804410C1AB9
   expected_values:
     RPM: 1710.25
 - response: 7E804410C1AD9
   expected_values:
     RPM: 1718.25
+- response: 7E804410C1ADF
+  expected_values:
+    RPM: 1719.75
 - response: 7E804410C1B04
   expected_values:
     RPM: 1729
 - response: 7E804410C1B07
   expected_values:
     RPM: 1729.75
+- response: 7E804410C1B0A
+  expected_values:
+    RPM: 1730.5
 - response: 7E804410C1B28
   expected_values:
     RPM: 1738
+- response: 7E804410C1B2C
+  expected_values:
+    RPM: 1739
+- response: 7E804410C1B2D
+  expected_values:
+    RPM: 1739.25
+- response: 7E804410C1B37
+  expected_values:
+    RPM: 1741.75
 - response: 7E804410C1B4A
   expected_values:
     RPM: 1746.5
+- response: 7E804410C1B4F
+  expected_values:
+    RPM: 1747.75
 - response: 7E804410C1B56
   expected_values:
     RPM: 1749.5
+- response: 7E804410C1B6C
+  expected_values:
+    RPM: 1755
+- response: 7E804410C1B6E
+  expected_values:
+    RPM: 1755.5
 - response: 7E804410C1B72
   expected_values:
     RPM: 1756.5
@@ -272,15 +569,39 @@ test_cases:
 - response: 7E804410C1B83
   expected_values:
     RPM: 1760.75
+- response: 7E804410C1B90
+  expected_values:
+    RPM: 1764
 - response: 7E804410C1BA6
   expected_values:
     RPM: 1769.5
+- response: 7E804410C1BAD
+  expected_values:
+    RPM: 1771.25
+- response: 7E804410C1BC5
+  expected_values:
+    RPM: 1777.25
 - response: 7E804410C1BD0
   expected_values:
     RPM: 1780
 - response: 7E804410C1BD1
   expected_values:
     RPM: 1780.25
+- response: 7E804410C1BE6
+  expected_values:
+    RPM: 1785.5
+- response: 7E804410C1BFF
+  expected_values:
+    RPM: 1791.75
+- response: 7E804410C1C20
+  expected_values:
+    RPM: 1800
+- response: 7E804410C1C22
+  expected_values:
+    RPM: 1800.5
+- response: 7E804410C1C46
+  expected_values:
+    RPM: 1809.5
 - response: 7E804410C1C4F
   expected_values:
     RPM: 1811.75
@@ -290,54 +611,144 @@ test_cases:
 - response: 7E804410C1C5F
   expected_values:
     RPM: 1815.75
+- response: 7E804410C1C88
+  expected_values:
+    RPM: 1826
 - response: 7E804410C1C8E
   expected_values:
     RPM: 1827.5
+- response: 7E804410C1C96
+  expected_values:
+    RPM: 1829.5
 - response: 7E804410C1CAB
   expected_values:
     RPM: 1834.75
+- response: 7E804410C1CAE
+  expected_values:
+    RPM: 1835.5
+- response: 7E804410C1CB8
+  expected_values:
+    RPM: 1838
 - response: 7E804410C1CC8
   expected_values:
     RPM: 1842
+- response: 7E804410C1CCF
+  expected_values:
+    RPM: 1843.75
+- response: 7E804410C1CE2
+  expected_values:
+    RPM: 1848.5
+- response: 7E804410C1CF2
+  expected_values:
+    RPM: 1852.5
 - response: 7E804410C1D0B
   expected_values:
     RPM: 1858.75
+- response: 7E804410C1D19
+  expected_values:
+    RPM: 1862.25
+- response: 7E804410C1D20
+  expected_values:
+    RPM: 1864
+- response: 7E804410C1D26
+  expected_values:
+    RPM: 1865.5
 - response: 7E804410C1D50
   expected_values:
     RPM: 1876
+- response: 7E804410C1D52
+  expected_values:
+    RPM: 1876.5
 - response: 7E804410C1D67
   expected_values:
     RPM: 1881.75
 - response: 7E804410C1D90
   expected_values:
     RPM: 1892
+- response: 7E804410C1D9B
+  expected_values:
+    RPM: 1894.75
+- response: 7E804410C1DAB
+  expected_values:
+    RPM: 1898.75
+- response: 7E804410C1DC3
+  expected_values:
+    RPM: 1904.75
 - response: 7E804410C1DD7
   expected_values:
     RPM: 1909.75
+- response: 7E804410C1DD9
+  expected_values:
+    RPM: 1910.25
+- response: 7E804410C1DDC
+  expected_values:
+    RPM: 1911
 - response: 7E804410C1DF4
   expected_values:
     RPM: 1917
+- response: 7E804410C1DF5
+  expected_values:
+    RPM: 1917.25
 - response: 7E804410C1E0C
   expected_values:
     RPM: 1923
+- response: 7E804410C1E1B
+  expected_values:
+    RPM: 1926.75
 - response: 7E804410C1E22
   expected_values:
     RPM: 1928.5
+- response: 7E804410C1E31
+  expected_values:
+    RPM: 1932.25
+- response: 7E804410C1E49
+  expected_values:
+    RPM: 1938.25
+- response: 7E804410C1E57
+  expected_values:
+    RPM: 1941.75
+- response: 7E804410C1E8F
+  expected_values:
+    RPM: 1955.75
 - response: 7E804410C1E93
   expected_values:
     RPM: 1956.75
+- response: 7E804410C1E95
+  expected_values:
+    RPM: 1957.25
 - response: 7E804410C1E9F
   expected_values:
     RPM: 1959.75
+- response: 7E804410C1EAE
+  expected_values:
+    RPM: 1963.5
+- response: 7E804410C1EBA
+  expected_values:
+    RPM: 1966.5
+- response: 7E804410C1EBF
+  expected_values:
+    RPM: 1967.75
 - response: 7E804410C1EC1
   expected_values:
     RPM: 1968.25
 - response: 7E804410C1EC5
   expected_values:
     RPM: 1969.25
+- response: 7E804410C1EE5
+  expected_values:
+    RPM: 1977.25
+- response: 7E804410C1EEF
+  expected_values:
+    RPM: 1979.75
 - response: 7E804410C1EF2
   expected_values:
     RPM: 1980.5
+- response: 7E804410C1EFD
+  expected_values:
+    RPM: 1983.25
+- response: 7E804410C1EFE
+  expected_values:
+    RPM: 1983.5
 - response: 7E804410C1F02
   expected_values:
     RPM: 1984.5
@@ -347,27 +758,81 @@ test_cases:
 - response: 7E804410C1F23
   expected_values:
     RPM: 1992.75
+- response: 7E804410C1F44
+  expected_values:
+    RPM: 2001
+- response: 7E804410C1F48
+  expected_values:
+    RPM: 2002
 - response: 7E804410C1F51
   expected_values:
     RPM: 2004.25
+- response: 7E804410C1F5E
+  expected_values:
+    RPM: 2007.5
+- response: 7E804410C1F5F
+  expected_values:
+    RPM: 2007.75
 - response: 7E804410C1F63
   expected_values:
     RPM: 2008.75
+- response: 7E804410C1F70
+  expected_values:
+    RPM: 2012
+- response: 7E804410C1F79
+  expected_values:
+    RPM: 2014.25
+- response: 7E804410C1FA6
+  expected_values:
+    RPM: 2025.5
 - response: 7E804410C1FAC
   expected_values:
     RPM: 2027
 - response: 7E804410C1FB2
   expected_values:
     RPM: 2028.5
+- response: 7E804410C1FBA
+  expected_values:
+    RPM: 2030.5
+- response: 7E804410C1FC3
+  expected_values:
+    RPM: 2032.75
+- response: 7E804410C1FCD
+  expected_values:
+    RPM: 2035.25
 - response: 7E804410C1FD0
   expected_values:
     RPM: 2036
+- response: 7E804410C1FF3
+  expected_values:
+    RPM: 2044.75
+- response: 7E804410C1FF4
+  expected_values:
+    RPM: 2045
+- response: 7E804410C1FF6
+  expected_values:
+    RPM: 2045.5
 - response: 7E804410C2002
   expected_values:
     RPM: 2048.5
+- response: 7E804410C2008
+  expected_values:
+    RPM: 2050
 - response: 7E804410C2017
   expected_values:
     RPM: 2053.75
+- response: 7E804410C201B
+  expected_values:
+    RPM: 2054.75
+- response: 7E804410C2023
+  expected_values:
+    RPM: 2056.75
+- response: 7E804410C2036
+  expected_values:
+    RPM: 2061.5
+- response: 7E804410C2039
+  expected_values:
+    RPM: 2062.25
 - response: 7E804410C203A
   expected_values:
     RPM: 2062.5
@@ -377,30 +842,84 @@ test_cases:
 - response: 7E804410C206F
   expected_values:
     RPM: 2075.75
+- response: 7E804410C2072
+  expected_values:
+    RPM: 2076.5
+- response: 7E804410C2079
+  expected_values:
+    RPM: 2078.25
 - response: 7E804410C2080
   expected_values:
     RPM: 2080
 - response: 7E804410C2082
   expected_values:
     RPM: 2080.5
+- response: 7E804410C209C
+  expected_values:
+    RPM: 2087
 - response: 7E804410C209F
   expected_values:
     RPM: 2087.75
+- response: 7E804410C20A7
+  expected_values:
+    RPM: 2089.75
+- response: 7E804410C20B9
+  expected_values:
+    RPM: 2094.25
+- response: 7E804410C20E1
+  expected_values:
+    RPM: 2104.25
+- response: 7E804410C20E5
+  expected_values:
+    RPM: 2105.25
 - response: 7E804410C20E9
   expected_values:
     RPM: 2106.25
+- response: 7E804410C20F3
+  expected_values:
+    RPM: 2108.75
+- response: 7E804410C20F4
+  expected_values:
+    RPM: 2109
 - response: 7E804410C20F5
   expected_values:
     RPM: 2109.25
 - response: 7E804410C2128
   expected_values:
     RPM: 2122
+- response: 7E804410C212C
+  expected_values:
+    RPM: 2123
+- response: 7E804410C212E
+  expected_values:
+    RPM: 2123.5
+- response: 7E804410C213D
+  expected_values:
+    RPM: 2127.25
+- response: 7E804410C214F
+  expected_values:
+    RPM: 2131.75
+- response: 7E804410C2162
+  expected_values:
+    RPM: 2136.5
+- response: 7E804410C216A
+  expected_values:
+    RPM: 2138.5
 - response: 7E804410C2171
   expected_values:
     RPM: 2140.25
+- response: 7E804410C2182
+  expected_values:
+    RPM: 2144.5
+- response: 7E804410C219C
+  expected_values:
+    RPM: 2151
 - response: 7E804410C21A0
   expected_values:
     RPM: 2152
+- response: 7E804410C21C4
+  expected_values:
+    RPM: 2161
 - response: 7E804410C21C6
   expected_values:
     RPM: 2161.5
@@ -413,30 +932,123 @@ test_cases:
 - response: 7E804410C21DF
   expected_values:
     RPM: 2167.75
+- response: 7E804410C21E1
+  expected_values:
+    RPM: 2168.25
 - response: 7E804410C21F2
   expected_values:
     RPM: 2172.5
+- response: 7E804410C21F6
+  expected_values:
+    RPM: 2173.5
+- response: 7E804410C21F7
+  expected_values:
+    RPM: 2173.75
+- response: 7E804410C2205
+  expected_values:
+    RPM: 2177.25
 - response: 7E804410C2209
   expected_values:
     RPM: 2178.25
+- response: 7E804410C220E
+  expected_values:
+    RPM: 2179.5
+- response: 7E804410C2210
+  expected_values:
+    RPM: 2180
+- response: 7E804410C2224
+  expected_values:
+    RPM: 2185
+- response: 7E804410C2228
+  expected_values:
+    RPM: 2186
 - response: 7E804410C2229
   expected_values:
     RPM: 2186.25
+- response: 7E804410C2232
+  expected_values:
+    RPM: 2188.5
 - response: 7E804410C2234
   expected_values:
     RPM: 2189
+- response: 7E804410C2235
+  expected_values:
+    RPM: 2189.25
 - response: 7E804410C2236
   expected_values:
     RPM: 2189.5
+- response: 7E804410C2242
+  expected_values:
+    RPM: 2192.5
+- response: 7E804410C2245
+  expected_values:
+    RPM: 2193.25
+- response: 7E804410C224C
+  expected_values:
+    RPM: 2195
+- response: 7E804410C225F
+  expected_values:
+    RPM: 2199.75
 - response: 7E804410C226A
   expected_values:
     RPM: 2202.5
+- response: 7E804410C226B
+  expected_values:
+    RPM: 2202.75
+- response: 7E804410C2273
+  expected_values:
+    RPM: 2204.75
+- response: 7E804410C2279
+  expected_values:
+    RPM: 2206.25
 - response: 7E804410C2283
   expected_values:
     RPM: 2208.75
+- response: 7E804410C228B
+  expected_values:
+    RPM: 2210.75
+- response: 7E804410C2299
+  expected_values:
+    RPM: 2214.25
+- response: 7E804410C22B1
+  expected_values:
+    RPM: 2220.25
 - response: 7E804410C22B3
   expected_values:
     RPM: 2220.75
+- response: 7E804410C22B5
+  expected_values:
+    RPM: 2221.25
+- response: 7E804410C22BC
+  expected_values:
+    RPM: 2223
+- response: 7E804410C22C3
+  expected_values:
+    RPM: 2224.75
+- response: 7E804410C22C5
+  expected_values:
+    RPM: 2225.25
+- response: 7E804410C22EC
+  expected_values:
+    RPM: 2235
+- response: 7E804410C22ED
+  expected_values:
+    RPM: 2235.25
+- response: 7E804410C22F2
+  expected_values:
+    RPM: 2236.5
+- response: 7E804410C22FC
+  expected_values:
+    RPM: 2239
+- response: 7E804410C230C
+  expected_values:
+    RPM: 2243
+- response: 7E804410C2310
+  expected_values:
+    RPM: 2244
+- response: 7E804410C2312
+  expected_values:
+    RPM: 2244.5
 - response: 7E804410C231B
   expected_values:
     RPM: 2246.75
@@ -446,78 +1058,309 @@ test_cases:
 - response: 7E804410C234F
   expected_values:
     RPM: 2259.75
+- response: 7E804410C2354
+  expected_values:
+    RPM: 2261
 - response: 7E804410C2361
   expected_values:
     RPM: 2264.25
+- response: 7E804410C2362
+  expected_values:
+    RPM: 2264.5
+- response: 7E804410C2367
+  expected_values:
+    RPM: 2265.75
 - response: 7E804410C2394
   expected_values:
     RPM: 2277
+- response: 7E804410C2397
+  expected_values:
+    RPM: 2277.75
+- response: 7E804410C239F
+  expected_values:
+    RPM: 2279.75
+- response: 7E804410C23AE
+  expected_values:
+    RPM: 2283.5
+- response: 7E804410C23B0
+  expected_values:
+    RPM: 2284
+- response: 7E804410C23B6
+  expected_values:
+    RPM: 2285.5
+- response: 7E804410C23E9
+  expected_values:
+    RPM: 2298.25
+- response: 7E804410C240D
+  expected_values:
+    RPM: 2307.25
+- response: 7E804410C2448
+  expected_values:
+    RPM: 2322
+- response: 7E804410C244E
+  expected_values:
+    RPM: 2323.5
+- response: 7E804410C2454
+  expected_values:
+    RPM: 2325
+- response: 7E804410C2455
+  expected_values:
+    RPM: 2325.25
 - response: 7E804410C2464
   expected_values:
     RPM: 2329
+- response: 7E804410C2466
+  expected_values:
+    RPM: 2329.5
+- response: 7E804410C2473
+  expected_values:
+    RPM: 2332.75
+- response: 7E804410C2485
+  expected_values:
+    RPM: 2337.25
 - response: 7E804410C2490
   expected_values:
     RPM: 2340
+- response: 7E804410C2498
+  expected_values:
+    RPM: 2342
+- response: 7E804410C24A0
+  expected_values:
+    RPM: 2344
+- response: 7E804410C24AB
+  expected_values:
+    RPM: 2346.75
+- response: 7E804410C24DB
+  expected_values:
+    RPM: 2358.75
+- response: 7E804410C24EE
+  expected_values:
+    RPM: 2363.5
 - response: 7E804410C24FA
   expected_values:
     RPM: 2366.5
+- response: 7E804410C2502
+  expected_values:
+    RPM: 2368.5
+- response: 7E804410C2506
+  expected_values:
+    RPM: 2369.5
+- response: 7E804410C251D
+  expected_values:
+    RPM: 2375.25
+- response: 7E804410C251E
+  expected_values:
+    RPM: 2375.5
 - response: 7E804410C252D
   expected_values:
     RPM: 2379.25
+- response: 7E804410C2531
+  expected_values:
+    RPM: 2380.25
+- response: 7E804410C254F
+  expected_values:
+    RPM: 2387.75
+- response: 7E804410C255D
+  expected_values:
+    RPM: 2391.25
 - response: 7E804410C2565
   expected_values:
     RPM: 2393.25
+- response: 7E804410C2574
+  expected_values:
+    RPM: 2397
 - response: 7E804410C2579
   expected_values:
     RPM: 2398.25
+- response: 7E804410C25A3
+  expected_values:
+    RPM: 2408.75
+- response: 7E804410C25B0
+  expected_values:
+    RPM: 2412
 - response: 7E804410C25C7
   expected_values:
     RPM: 2417.75
+- response: 7E804410C25C9
+  expected_values:
+    RPM: 2418.25
+- response: 7E804410C25D6
+  expected_values:
+    RPM: 2421.5
+- response: 7E804410C25EF
+  expected_values:
+    RPM: 2427.75
 - response: 7E804410C25F1
   expected_values:
     RPM: 2428.25
+- response: 7E804410C25FC
+  expected_values:
+    RPM: 2431
 - response: 7E804410C2601
   expected_values:
     RPM: 2432.25
+- response: 7E804410C2605
+  expected_values:
+    RPM: 2433.25
 - response: 7E804410C260A
   expected_values:
     RPM: 2434.5
+- response: 7E804410C261D
+  expected_values:
+    RPM: 2439.25
+- response: 7E804410C261E
+  expected_values:
+    RPM: 2439.5
 - response: 7E804410C2632
   expected_values:
     RPM: 2444.5
+- response: 7E804410C263E
+  expected_values:
+    RPM: 2447.5
 - response: 7E804410C2640
   expected_values:
     RPM: 2448
+- response: 7E804410C2643
+  expected_values:
+    RPM: 2448.75
+- response: 7E804410C2653
+  expected_values:
+    RPM: 2452.75
 - response: 7E804410C2663
   expected_values:
     RPM: 2456.75
 - response: 7E804410C2698
   expected_values:
     RPM: 2470
+- response: 7E804410C26AC
+  expected_values:
+    RPM: 2475
+- response: 7E804410C26B9
+  expected_values:
+    RPM: 2478.25
+- response: 7E804410C26BC
+  expected_values:
+    RPM: 2479
 - response: 7E804410C26BE
   expected_values:
     RPM: 2479.5
 - response: 7E804410C26C6
   expected_values:
     RPM: 2481.5
+- response: 7E804410C26EC
+  expected_values:
+    RPM: 2491
+- response: 7E804410C26FF
+  expected_values:
+    RPM: 2495.75
+- response: 7E804410C270A
+  expected_values:
+    RPM: 2498.5
+- response: 7E804410C270C
+  expected_values:
+    RPM: 2499
+- response: 7E804410C2722
+  expected_values:
+    RPM: 2504.5
+- response: 7E804410C2727
+  expected_values:
+    RPM: 2505.75
+- response: 7E804410C2729
+  expected_values:
+    RPM: 2506.25
+- response: 7E804410C273B
+  expected_values:
+    RPM: 2510.75
+- response: 7E804410C273F
+  expected_values:
+    RPM: 2511.75
+- response: 7E804410C276F
+  expected_values:
+    RPM: 2523.75
+- response: 7E804410C2785
+  expected_values:
+    RPM: 2529.25
+- response: 7E804410C2788
+  expected_values:
+    RPM: 2530
+- response: 7E804410C2791
+  expected_values:
+    RPM: 2532.25
+- response: 7E804410C27D4
+  expected_values:
+    RPM: 2549
 - response: 7E804410C2804
   expected_values:
     RPM: 2561
 - response: 7E804410C2816
   expected_values:
     RPM: 2565.5
+- response: 7E804410C282A
+  expected_values:
+    RPM: 2570.5
+- response: 7E804410C282B
+  expected_values:
+    RPM: 2570.75
+- response: 7E804410C2845
+  expected_values:
+    RPM: 2577.25
 - response: 7E804410C2847
   expected_values:
     RPM: 2577.75
 - response: 7E804410C2867
   expected_values:
     RPM: 2585.75
+- response: 7E804410C286D
+  expected_values:
+    RPM: 2587.25
+- response: 7E804410C288D
+  expected_values:
+    RPM: 2595.25
+- response: 7E804410C28A7
+  expected_values:
+    RPM: 2601.75
+- response: 7E804410C28AB
+  expected_values:
+    RPM: 2602.75
+- response: 7E804410C28B8
+  expected_values:
+    RPM: 2606
+- response: 7E804410C28C6
+  expected_values:
+    RPM: 2609.5
+- response: 7E804410C28D8
+  expected_values:
+    RPM: 2614
+- response: 7E804410C28F3
+  expected_values:
+    RPM: 2620.75
+- response: 7E804410C28F7
+  expected_values:
+    RPM: 2621.75
 - response: 7E804410C2932
   expected_values:
     RPM: 2636.5
+- response: 7E804410C2937
+  expected_values:
+    RPM: 2637.75
+- response: 7E804410C2972
+  expected_values:
+    RPM: 2652.5
+- response: 7E804410C2991
+  expected_values:
+    RPM: 2660.25
+- response: 7E804410C29B7
+  expected_values:
+    RPM: 2669.75
 - response: 7E804410C2A40
   expected_values:
     RPM: 2704
+- response: 7E804410C2B3B
+  expected_values:
+    RPM: 2766.75
+- response: 7E804410C2CEE
+  expected_values:
+    RPM: 2875.5
 - response: 7E804410C2F2B
   expected_values:
     RPM: 3018.75

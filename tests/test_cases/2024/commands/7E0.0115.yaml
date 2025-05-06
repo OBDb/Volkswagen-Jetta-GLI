@@ -14,6 +14,18 @@ test_cases:
   expected_values:
     O2S12: 0.01
     SHRTFT11: 99.21875
+- response: 7E804411503FF
+  expected_values:
+    O2S12: 0.015
+    SHRTFT11: 99.21875
+- response: 7E804411505FF
+  expected_values:
+    O2S12: 0.025
+    SHRTFT11: 99.21875
+- response: 7E804411506FF
+  expected_values:
+    O2S12: 0.03
+    SHRTFT11: 99.21875
 - response: 7E804411507FF
   expected_values:
     O2S12: 0.035
@@ -21,6 +33,10 @@ test_cases:
 - response: 7E804411508FF
   expected_values:
     O2S12: 0.04
+    SHRTFT11: 99.21875
+- response: 7E804411509FF
+  expected_values:
+    O2S12: 0.045
     SHRTFT11: 99.21875
 - response: 7E80441150AFF
   expected_values:
@@ -34,6 +50,10 @@ test_cases:
   expected_values:
     O2S12: 0.06
     SHRTFT11: 99.21875
+- response: 7E80441150EFF
+  expected_values:
+    O2S12: 0.07
+    SHRTFT11: 99.21875
 - response: 7E804411510FF
   expected_values:
     O2S12: 0.08
@@ -46,9 +66,25 @@ test_cases:
   expected_values:
     O2S12: 0.09
     SHRTFT11: 99.21875
+- response: 7E804411515FF
+  expected_values:
+    O2S12: 0.105
+    SHRTFT11: 99.21875
+- response: 7E804411516FF
+  expected_values:
+    O2S12: 0.11
+    SHRTFT11: 99.21875
 - response: 7E804411517FF
   expected_values:
     O2S12: 0.115
+    SHRTFT11: 99.21875
+- response: 7E804411519FF
+  expected_values:
+    O2S12: 0.125
+    SHRTFT11: 99.21875
+- response: 7E80441151AFF
+  expected_values:
+    O2S12: 0.13
     SHRTFT11: 99.21875
 - response: 7E80441151CFF
   expected_values:
@@ -66,9 +102,17 @@ test_cases:
   expected_values:
     O2S12: 0.34
     SHRTFT11: 99.21875
+- response: 7E80441155AFF
+  expected_values:
+    O2S12: 0.45
+    SHRTFT11: 99.21875
 - response: 7E80441155FFF
   expected_values:
     O2S12: 0.475
+    SHRTFT11: 99.21875
+- response: 7E804411579FF
+  expected_values:
+    O2S12: 0.605
     SHRTFT11: 99.21875
 - response: 7E80441157AFF
   expected_values:
@@ -78,13 +122,29 @@ test_cases:
   expected_values:
     O2S12: 0.635
     SHRTFT11: 99.21875
+- response: 7E804411581FF
+  expected_values:
+    O2S12: 0.645
+    SHRTFT11: 99.21875
 - response: 7E804411584FF
   expected_values:
     O2S12: 0.66
     SHRTFT11: 99.21875
+- response: 7E804411585FF
+  expected_values:
+    O2S12: 0.665
+    SHRTFT11: 99.21875
 - response: 7E804411586FF
   expected_values:
     O2S12: 0.67
+    SHRTFT11: 99.21875
+- response: 7E804411587FF
+  expected_values:
+    O2S12: 0.675
+    SHRTFT11: 99.21875
+- response: 7E804411588FF
+  expected_values:
+    O2S12: 0.68
     SHRTFT11: 99.21875
 - response: 7E804411589FF
   expected_values:
@@ -105,6 +165,18 @@ test_cases:
 - response: 7E80441158EFF
   expected_values:
     O2S12: 0.71
+    SHRTFT11: 99.21875
+- response: 7E80441158FFF
+  expected_values:
+    O2S12: 0.715
+    SHRTFT11: 99.21875
+- response: 7E804411590FF
+  expected_values:
+    O2S12: 0.72
+    SHRTFT11: 99.21875
+- response: 7E804411591FF
+  expected_values:
+    O2S12: 0.725
     SHRTFT11: 99.21875
 - response: 7E804411592FF
   expected_values:
@@ -238,9 +310,17 @@ test_cases:
   expected_values:
     O2S12: 0.9
     SHRTFT11: 99.21875
+- response: 7E8044115B5FF
+  expected_values:
+    O2S12: 0.905
+    SHRTFT11: 99.21875
 - response: 7E8044115B6FF
   expected_values:
     O2S12: 0.91
+    SHRTFT11: 99.21875
+- response: 7E8044115B7FF
+  expected_values:
+    O2S12: 0.915
     SHRTFT11: 99.21875
 - response: 7E8044115B8FF
   expected_values:

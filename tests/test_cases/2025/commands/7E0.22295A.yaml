@@ -1,0 +1,58 @@
+command_id: 7E0.22295A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80662295A000875
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2165
+- response: 7E80662295A000876
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2166
+- response: 7E80662295A000877
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2167
+- response: 7E80662295A000878
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2168
+- response: 7E80662295A000879
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2169
+- response: 7E80662295A00087A
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2170
+- response: 7E80662295A00087B
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2171
+- response: 7E80662295A00087C
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2172
+- response: 7E80662295A00087D
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2173
+- response: 7E80662295A00087E
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2174
+- response: 7E80662295A00087F
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2175
+- response: 7E80662295A000880
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2176
+- response: 7E80662295A000881
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2177
+- response: 7E80662295A000882
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2178
+- response: 7E80662295A000883
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2179
+- response: 7E80662295A000884
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2180
+- response: 7E80662295A000885
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2181
+- response: 7E80662295A000886
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 2182
