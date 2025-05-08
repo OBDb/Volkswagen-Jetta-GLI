@@ -5,9 +5,9 @@ test_cases:
 - response: '7E8056220620178'
   expected_values:
     VOLKSWAGEN_APP_POS2: 0.376
-- response: 7E80562206201ED
+- response: 7E80562206202F5
   expected_values:
-    VOLKSWAGEN_APP_POS2: 0.493
-- response: '7E8056220620326'
+    VOLKSWAGEN_APP_POS2: 0.757
+- response: '7E8056220620401'
   expected_values:
-    VOLKSWAGEN_APP_POS2: 0.806
+    VOLKSWAGEN_APP_POS2: 1.025

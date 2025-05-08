@@ -2,12 +2,9 @@ command_id: 7E0.7E8.22F442
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562F4420013
+- response: 7E80562F4420000
   expected_values:
-    VOLKSWAGEN_VPWR: 0.019
-- response: 7E80562F4423702
-  expected_values:
-    VOLKSWAGEN_VPWR: 14.082
+    VOLKSWAGEN_VPWR: 0
 - response: 7E80562F44238FD
   expected_values:
     VOLKSWAGEN_VPWR: 14.589
