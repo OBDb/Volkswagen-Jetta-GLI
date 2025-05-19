@@ -4,10 +4,10 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E80662295A003000
   expected_values:
-    VOLKSWAGEN_ODO_V3: 12288
+    VOLKSWAGEN_ODO_V2: 12288
 - response: 7E80662295A0032FF
   expected_values:
-    VOLKSWAGEN_ODO_V3: 13055
+    VOLKSWAGEN_ODO_V2: 13055
 - response: 7E80662295A0FFFFF
   expected_values:
-    VOLKSWAGEN_ODO_V3: 1048575
+    VOLKSWAGEN_ODO_V2: 1048575
