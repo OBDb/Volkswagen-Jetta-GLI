@@ -2,9 +2,9 @@ command_id: 7E0.0123
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E804412302C2
+- response: 7E804412302AA
   expected_values:
-    FRP: 7060
+    FRP: 6820
 - response: '7E80441230300'
   expected_values:
     FRP: 7680
