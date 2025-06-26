@@ -1,8 +1,8 @@
 command_id: 7E0.010B
 test_cases:
-- response: 7E803410B16
-  expected_values:
-    MAP: 22
-- response: 7E803410BB0
-  expected_values:
-    MAP: 176
+- expected_values:
+    MAP: 0
+  response: 7E803410B00
+- expected_values:
+    MAP: 199
+  response: 7E803410BC7
