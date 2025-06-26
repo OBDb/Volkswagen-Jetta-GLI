@@ -10,7 +10,7 @@ test_cases:
     CCM_RDY: 0
     CCM_SUP: 1
     CIM_SUP: SPARK
-    DTC_CNT: 0
+    DTC_CNT: 3
     EGR_RDY: 0
     EGR_SUP: 1
     EVAP_RDY: 0
@@ -21,9 +21,9 @@ test_cases:
     HCAT_SUP: 0
     HTR_RDY: 0
     HTR_SUP: 1
-    MIL: 0
+    MIL: 1
     MIS_RDY: 0
     MIS_SUP: 1
     O2S_RDY: 0
     O2S_SUP: 1
-  response: 7E80641010007ED00
+  response: 7E80641018307ED00
