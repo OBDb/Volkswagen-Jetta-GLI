@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_AAT_V2: 3
   response: '7E8056210040180'
 - expected_values:
-    VOLKSWAGEN_AAT_V2: 5.9375
-  response: 7E80562100402F8
+    VOLKSWAGEN_AAT_V2: 4
+  response: '7E8056210040200'
 - expected_values:
-    VOLKSWAGEN_AAT_V2: 14
-  response: '7E8056210040700'
+    VOLKSWAGEN_AAT_V2: 11.99219
+  response: 7E80562100405FF
 - expected_values:
-    VOLKSWAGEN_AAT_V2: 22.42969
-  response: 7E8056210040B37
+    VOLKSWAGEN_AAT_V2: 36
+  response: '7E8056210041200'
