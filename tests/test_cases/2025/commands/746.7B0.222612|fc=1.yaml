@@ -1,0 +1,26 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 40
+  response: 7B0056226120190
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 41
+  response: 7B005622612019A
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 42
+  response: 7B00562261201A4
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 43
+  response: 7B00562261201AE
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 44
+  response: 7B00562261201B8
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 45
+  response: 7B00562261201C2
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 46
+  response: 7B00562261201CC
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 47
+  response: 7B00562261201D6

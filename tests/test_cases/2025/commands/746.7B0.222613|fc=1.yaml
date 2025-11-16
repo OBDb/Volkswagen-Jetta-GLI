@@ -1,0 +1,11 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVAC_IAT: 20
+  response: 7B00562261300C8
+- expected_values:
+    VOLKSWAGEN_HVAC_IAT: 25.1
+  response: 7B00562261300FB
+- expected_values:
+    VOLKSWAGEN_HVAC_IAT: 26
+  response: 7B0056226130104
