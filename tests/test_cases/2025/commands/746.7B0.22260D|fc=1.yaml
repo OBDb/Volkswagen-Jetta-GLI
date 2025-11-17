@@ -1,11 +1,23 @@
 command_id: 746.7B0.22260D|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 27.306
+  response: 7B00462260D52
+- expected_values:
+    VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 36.63
+  response: 7B00462260D6E
+- expected_values:
     VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 43.29
   response: 7B00462260D82
 - expected_values:
+    VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 50.616
+  response: 7B00462260D98
+- expected_values:
     VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 55.944
   response: 7B00462260DA8
+- expected_values:
+    VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 57.276
+  response: 7B00462260DAC
 - expected_values:
     VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 59.274
   response: 7B00462260DB2
