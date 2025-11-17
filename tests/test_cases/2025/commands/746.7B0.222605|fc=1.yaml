@@ -1,0 +1,8 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_REFRIG_P: 3.2
+  response: 7B00462260510
+- expected_values:
+    VOLKSWAGEN_REFRIG_P: 3.4
+  response: 7B00462260511
