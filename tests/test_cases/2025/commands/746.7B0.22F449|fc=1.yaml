@@ -1,0 +1,14 @@
+command_id: 746.7B0.22F449|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_APP_D: 14.90196
+  response: 7B00462F44926
+- expected_values:
+    VOLKSWAGEN_APP_D: 21.96078
+  response: 7B00462F44938
+- expected_values:
+    VOLKSWAGEN_APP_D: 30.19608
+  response: 7B00462F4494D
+- expected_values:
+    VOLKSWAGEN_APP_D: 57.2549
+  response: 7B00462F44992
