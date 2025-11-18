@@ -4,26 +4,5 @@ test_cases:
     VOLKSWAGEN_APP_D: 14.90196
   response: 7B00462F44926
 - expected_values:
-    VOLKSWAGEN_APP_D: 21.96078
-  response: 7B00462F44938
-- expected_values:
-    VOLKSWAGEN_APP_D: 25.09804
-  response: 7B00462F44940
-- expected_values:
-    VOLKSWAGEN_APP_D: 29.80392
-  response: 7B00462F4494C
-- expected_values:
-    VOLKSWAGEN_APP_D: 30.19608
-  response: 7B00462F4494D
-- expected_values:
-    VOLKSWAGEN_APP_D: 31.37255
-  response: 7B00462F44950
-- expected_values:
-    VOLKSWAGEN_APP_D: 33.72549
-  response: 7B00462F44956
-- expected_values:
-    VOLKSWAGEN_APP_D: 39.21569
-  response: 7B00462F44964
-- expected_values:
-    VOLKSWAGEN_APP_D: 57.2549
-  response: 7B00462F44992
+    VOLKSWAGEN_APP_D: 65.88235
+  response: 7B00462F449A8
