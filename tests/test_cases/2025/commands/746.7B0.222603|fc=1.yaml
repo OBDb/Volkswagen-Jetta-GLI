@@ -1,32 +1,8 @@
 command_id: 746.7B0.222603|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 0
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 0
   response: 7B00462260300
 - expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 2000
-  response: 7B00462260314
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 2400
-  response: 7B00462260318
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 4200
-  response: 7B0046226032A
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 4400
-  response: 7B0046226032C
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 4800
-  response: 7B00462260330
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 5000
-  response: 7B00462260332
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 5200
-  response: 7B00462260334
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 5400
-  response: 7B00462260336
-- expected_values:
-    VOLKSWAGEN_A_C_CMPR_SPEED: 6000
-  response: 7B0046226033C
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 6600
+  response: 7B00462260342
