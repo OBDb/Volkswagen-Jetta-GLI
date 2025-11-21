@@ -1,8 +1,14 @@
 command_id: 746.7B0.222611|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 27.972
+  response: 7B00462261154
+- expected_values:
     VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 30.636
   response: 7B0046226115C
+- expected_values:
+    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 43.956
+  response: 7B00462261184
 - expected_values:
     VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 44.622
   response: 7B00462261186

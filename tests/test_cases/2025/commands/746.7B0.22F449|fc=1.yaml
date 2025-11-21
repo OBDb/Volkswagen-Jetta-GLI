@@ -1,8 +1,8 @@
 command_id: 746.7B0.22F449|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_APP_D: 14.90196
-  response: 7B00462F44926
+    VOLKSWAGEN_APP_D: 14.5098
+  response: 7B00462F44925
 - expected_values:
     VOLKSWAGEN_APP_D: 65.88235
   response: 7B00462F449A8
