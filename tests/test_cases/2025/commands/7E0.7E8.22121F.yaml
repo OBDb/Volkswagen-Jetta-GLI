@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HIGH_FUEL_P_CONTROL_DEVIATION: 89300
   response: 7E80562121F037D
+- expected_values:
+    VOLKSWAGEN_HIGH_FUEL_P_CONTROL_DEVIATION: 89400
+  response: 7E80562121F037E
