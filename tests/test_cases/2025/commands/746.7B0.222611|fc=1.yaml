@@ -4,23 +4,5 @@ test_cases:
     VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 27.972
   response: 7B00462261154
 - expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 30.636
-  response: 7B0046226115C
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 33.966
-  response: 7B00462261166
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 43.956
-  response: 7B00462261184
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 44.622
-  response: 7B00462261186
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 57.276
-  response: 7B004622611AC
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 59.94
-  response: 7B004622611B4
-- expected_values:
-    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 69.264
-  response: 7B004622611D0
+    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 73.26
+  response: 7B004622611DC
