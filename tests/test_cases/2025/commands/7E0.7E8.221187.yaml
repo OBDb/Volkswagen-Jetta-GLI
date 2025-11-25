@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ACCELERATION: 0.016
   response: '7E8056211870010'
+- expected_values:
+    VOLKSWAGEN_ACCELERATION: 0.017
+  response: '7E8056211870011'
