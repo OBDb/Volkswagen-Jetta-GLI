@@ -19,6 +19,9 @@ test_cases:
     VOLKSWAGEN_AAT_V2: 51
   response: 7B00462260966
 - expected_values:
+    VOLKSWAGEN_AAT_V2: 52
+  response: 7B00462260968
+- expected_values:
     VOLKSWAGEN_AAT_V2: 53
   response: 7B0046226096A
 - expected_values:
