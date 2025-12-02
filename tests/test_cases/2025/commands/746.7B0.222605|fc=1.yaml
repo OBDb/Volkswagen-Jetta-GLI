@@ -1,6 +1,12 @@
 command_id: 746.7B0.222605|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CLIMATE_REFRIG_P: 2.2
+  response: 7B0046226050B
+- expected_values:
+    VOLKSWAGEN_CLIMATE_REFRIG_P: 2.4
+  response: 7B0046226050C
+- expected_values:
     VOLKSWAGEN_CLIMATE_REFRIG_P: 2.8
   response: 7B0046226050E
 - expected_values:
