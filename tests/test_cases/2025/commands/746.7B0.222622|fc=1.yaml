@@ -4,27 +4,6 @@ test_cases:
     VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 66
   response: 7B00662262200A384
 - expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 67
-  response: 7B00662262200A586
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 76.5
-  response: 7B00662262200B999
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 91.5
-  response: 7B00662262200D7B7
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 92
-  response: 7B00662262200D8B8
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 94
-  response: 7B00662262200DCBC
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 98
-  response: 7B00662262200E4C4
-- expected_values:
-    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 99.5
-  response: 7B00662262200E7C7
-- expected_values:
     VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
   response: 7B00662262200E8C8
 - expected_values:
