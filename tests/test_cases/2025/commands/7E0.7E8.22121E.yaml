@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19000
   response: 7E80562121E00BE
 - expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19100
-  response: 7E80562121E00BF
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19200
-  response: 7E80562121E00C0
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19300
-  response: 7E80562121E00C1
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19400
-  response: 7E80562121E00C2
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19500
-  response: 7E80562121E00C3
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19700
-  response: 7E80562121E00C5
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19800
-  response: 7E80562121E00C6
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 19900
-  response: 7E80562121E00C7
-- expected_values:
-    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 20000
-  response: 7E80562121E00C8
+    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 20100
+  response: 7E80562121E00C9
