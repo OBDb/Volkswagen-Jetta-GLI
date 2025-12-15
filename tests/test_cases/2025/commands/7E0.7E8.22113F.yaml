@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_FUEL_CONS: 613.16
   response: 7E80562113FEF84
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 614.37
-  response: 7E80562113FEFFD
+    VOLKSWAGEN_FUEL_CONS: 614.39
+  response: 7E80562113FEFFF
 - expected_values:
     VOLKSWAGEN_FUEL_CONS: 614.4
   response: 7E80562113FF000
