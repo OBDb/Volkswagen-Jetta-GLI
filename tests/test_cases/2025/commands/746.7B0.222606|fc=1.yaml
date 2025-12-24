@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_CLIMATE_RAD_FAN_ACT_DUTY: 12
   response: 7B0046226061E
 - expected_values:
+    VOLKSWAGEN_CLIMATE_RAD_FAN_ACT_DUTY: 14
+  response: 7B00462260623
+- expected_values:
     VOLKSWAGEN_CLIMATE_RAD_FAN_ACT_DUTY: 30
   response: 7B0046226064B
 - expected_values:
