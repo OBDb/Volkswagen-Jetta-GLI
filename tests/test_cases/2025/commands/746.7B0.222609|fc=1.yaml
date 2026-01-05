@@ -1,8 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V2: 31
-  response: 7B0046226093E
+    VOLKSWAGEN_AAT_V2: 29
+  response: 7B0046226093A
 - expected_values:
     VOLKSWAGEN_AAT_V2: 56
   response: 7B00462260970
