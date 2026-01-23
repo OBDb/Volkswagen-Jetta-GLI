@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.222206
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FUEL_LEVEL_INPUT_V2: 24
+  response: '7E80462220618'
+- expected_values:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V2: 26
   response: 7E8046222061A
 - expected_values:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V2: 27
   response: 7E8046222061B
+- expected_values:
+    VOLKSWAGEN_FUEL_LEVEL_INPUT_V2: 127
+  response: 7E8046222067F
