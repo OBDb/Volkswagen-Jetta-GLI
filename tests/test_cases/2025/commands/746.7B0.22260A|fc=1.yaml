@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -20.5
-  response: 7B00462260A3B
+    VOLKSWAGEN_AAT_CABIN: -23
+  response: 7B00462260A36
 - expected_values:
     VOLKSWAGEN_AAT_CABIN: 7
   response: 7B00462260A72
