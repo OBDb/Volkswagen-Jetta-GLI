@@ -2,7 +2,9 @@ command_id: 7E0.7E8.222005
 test_cases:
 - expected_values:
     VOLKSWAGEN_BRAKE_BST_P: 0.1
+    VOLKSWAGEN_PQ35_BRAKE_BOOSTER_P: 8.29175
   response: '7E8056220050064'
 - expected_values:
     VOLKSWAGEN_BRAKE_BST_P: 1.15
+    VOLKSWAGEN_PQ35_BRAKE_BOOSTER_P: 95.35516
   response: 7E805622005047E
