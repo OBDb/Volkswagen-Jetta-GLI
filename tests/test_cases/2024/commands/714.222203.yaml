@@ -3,4 +3,5 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ODO: 16948
     VOLKSWAGEN_ODO_DASH: 255
+    VOLKSWAGEN_PQ35_ODO: 660
   response: '77E06622203004234'
