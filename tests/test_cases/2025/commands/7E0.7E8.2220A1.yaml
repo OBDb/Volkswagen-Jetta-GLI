@@ -1,5 +1,29 @@
 command_id: 7E0.7E8.2220A1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -39
+  response: 7E8056220A10168
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -39
+  response: 7E8056220A101AE
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A10226
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102D0
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A1032A
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10352
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10370
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A1037A
+- expected_values:
     VOLKSWAGEN_PQ35_CALCULATED_OIL_T: 215
   response: 7E8056220A1FF4C
