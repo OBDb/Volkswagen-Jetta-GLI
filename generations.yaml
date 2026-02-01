@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Jetta"
+  - "https://en.wikipedia.org/wiki/Volkswagen_Golf_GTI"
+
 generations:
   - name: "First Generation (A1)"
     start_year: 1984
