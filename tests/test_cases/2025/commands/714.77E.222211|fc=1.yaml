@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_CHG_AIR_P: 4.31373
   response: 77E046222110B
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_AIR_P: 20.78431
-  response: '77E0462221135'
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 21.17647
+  response: '77E0462221136'
