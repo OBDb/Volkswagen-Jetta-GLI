@@ -1,8 +1,8 @@
 command_id: 7E0.2210F3|din=03
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 3301
-  response: 7E8056210F30CE5
+    VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 3300
+  response: 7E8056210F30CE4
 - expected_values:
     VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 3582
   response: 7E8056210F30DFE
