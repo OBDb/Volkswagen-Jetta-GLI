@@ -1,0 +1,11 @@
+command_id: 746.7B0.22261F|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_CMD_STEPS: 75
+  response: 7B00562261F004B
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_CMD_STEPS: 109
+  response: 7B00562261F006D
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_CMD_STEPS: 168
+  response: 7B00562261F00A8
