@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    VOLKSWAGEN_RUNTM: 2047
-  response: 7E80562F41F07FF
+    VOLKSWAGEN_RUNTM: 1791
+  response: 7E80562F41F06FF
 - expected_values:
     VOLKSWAGEN_RUNTM: 3104
   response: 7E80562F41F0C20
