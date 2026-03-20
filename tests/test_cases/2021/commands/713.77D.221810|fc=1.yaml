@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C621810010000
+    77D21FC5D0000022EAA
+- expected_values:
+    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C62181001000A
     77D21FC1800000288AA
 - expected_values:
@@ -19,17 +24,12 @@ test_cases:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
     77D100C621810010014
-    77D21FC1F000002BEAA
-- expected_values:
-    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
-  response: |-
-    77D100C621810010014
     77D21FC20000002E2AA
 - expected_values:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
     77D100C621810010014
-    77D21FCA800000000AA
+    77D21FCD800000036AA
 - expected_values:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
@@ -40,11 +40,6 @@ test_cases:
   response: |-
     77D100C6218100101FE
     77D21FC3A00000252AA
-- expected_values:
-    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
-  response: |-
-    77D100C621810010302
-    77D21FC22000002ACAA
 - expected_values:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
