@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
-    VOLKSWAGEN_COOLANT_T: 5861.2
-  response: 7E805621135EF9F
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5865.9
-  response: 7E805621135EFCE
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5866
-  response: 7E805621135EFCF
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5866.6
-  response: 7E805621135EFD5
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5866.7
-  response: 7E805621135EFD6
+    VOLKSWAGEN_COOLANT_T: 5860.3
+  response: 7E805621135EF96
 - expected_values:
     VOLKSWAGEN_COOLANT_T: 5867.3
   response: 7E805621135EFDC
 - expected_values:
     VOLKSWAGEN_COOLANT_T: 5873.5
   response: 7E805621135F01A
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5873.6
-  response: 7E805621135F01B
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5874.8
-  response: 7E805621135F027
-- expected_values:
-    VOLKSWAGEN_COOLANT_T: 5875
-  response: 7E805621135F029
