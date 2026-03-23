@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVING_TIME_MANUAL: 2
   response: 7E90462388A02
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVING_TIME_MANUAL: 3
+  response: 7E90462388A03
