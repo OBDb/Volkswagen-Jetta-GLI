@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.2210CA
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_ADAPT_KISS_POINT_PART_1_ODO_READING: 23730
+  response: 7E9056210CA4509
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_ADAPT_KISS_POINT_PART_1_ODO_READING: 22090
   response: 7E9056210CAA108
 - expected_values:
