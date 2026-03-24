@@ -13,6 +13,9 @@ test_cases:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.11
   response: 7E80562117E000B
 - expected_values:
+    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.13
+  response: 7E80562117E000D
+- expected_values:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.14
   response: 7E80562117E000E
 - expected_values:
