@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 0
   response: 7E8056210F30000
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 3582
-  response: 7E8056210F30DFE
+    VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 3583
+  response: 7E8056210F30DFF
 - expected_values:
     VOLKSWAGEN_PQ35_DPF_DIFF_P_2: 10005
   response: 7E8056210F32715
