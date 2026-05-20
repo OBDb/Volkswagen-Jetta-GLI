@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_SPEC_VALUE_RAIL_P: 25500
   response: 7E80562121E00FF
+- expected_values:
+    VOLKSWAGEN_SPEC_VALUE_RAIL_P: 25600
+  response: 7E80562121E0100
