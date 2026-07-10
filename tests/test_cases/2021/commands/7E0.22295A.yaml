@@ -1,0 +1,14 @@
+command_id: 7E0.22295A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ODO_V2: 22548
+  response: 7E80662295A005814
+- expected_values:
+    VOLKSWAGEN_ODO_V2: 22783
+  response: 7E80662295A0058FF
+- expected_values:
+    VOLKSWAGEN_ODO_V2: 22784
+  response: 7E80662295A005900
+- expected_values:
+    VOLKSWAGEN_ODO_V2: 25856
+  response: 7E80662295A006500
