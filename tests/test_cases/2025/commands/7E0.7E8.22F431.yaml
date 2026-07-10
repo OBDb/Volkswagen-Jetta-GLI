@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 1
+  response: 7E80562F4310001
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 511
+  response: 7E80562F43101FF
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 768
+  response: 7E80562F4310300
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 11008
+  response: 7E80562F4312B00
