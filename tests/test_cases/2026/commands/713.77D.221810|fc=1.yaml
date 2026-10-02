@@ -1,0 +1,17 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810001036
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100010AE
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100010C2
+    77D217FFF7FFFFFFFAA
