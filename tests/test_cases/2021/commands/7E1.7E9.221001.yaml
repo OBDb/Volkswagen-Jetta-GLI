@@ -1,8 +1,10 @@
 command_id: 7E1.7E9.221001
 test_cases:
 - expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD_7E1: 268.8
     VOLKSWAGEN_TIRE_FR_SPD_V3: 255
   response: '7E9056210016900'
 - expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD_7E1: 376.32
     VOLKSWAGEN_TIRE_FR_SPD_V3: 255
   response: '7E9056210019300'

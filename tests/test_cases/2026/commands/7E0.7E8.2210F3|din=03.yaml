@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210F3|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL_LAST_VALID: 4703
+  response: 7E8056210F3125F
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL_LAST_VALID: 5769
+  response: 7E8056210F31689
