@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211CF
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BRAKE_BOOSTER_P: 484.6813
+  response: 7E8056211CF3078
+- expected_values:
+    VOLKSWAGEN_BRAKE_BOOSTER_P: 488.70468
+  response: 7E8056211CF30DF
+- expected_values:
+    VOLKSWAGEN_BRAKE_BOOSTER_P: 526.2042
+  response: 7E8056211CF349F
+- expected_values:
+    VOLKSWAGEN_BRAKE_BOOSTER_P: 528.78229
+  response: 7E8056211CF34E1

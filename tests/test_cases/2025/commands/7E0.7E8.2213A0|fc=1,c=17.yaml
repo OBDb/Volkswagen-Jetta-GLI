@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2213A0|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_COOLANT_T_MODELED_VALUE: -273.1
+  response: 7E8056213A00000
+- expected_values:
+    VOLKSWAGEN_COOLANT_T_MODELED_VALUE: -256.8
+  response: 7E8056213A000A3

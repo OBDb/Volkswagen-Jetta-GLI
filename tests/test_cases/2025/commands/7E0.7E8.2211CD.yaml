@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 97
+  response: 7E8046211CD89
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 98
+  response: 7E8046211CD8A
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 104
+  response: 7E8046211CD90
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 105
+  response: 7E8046211CD91

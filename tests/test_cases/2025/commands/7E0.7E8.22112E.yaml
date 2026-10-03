@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22112E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_COOLING_FAN_2: 650.58
+    VOLKSWAGEN_SEG_AD_MMV_ER_2: -0.11396
+  response: 7E80562112EFE22
+- expected_values:
+    VOLKSWAGEN_COOLING_FAN_2: 650.6
+    VOLKSWAGEN_SEG_AD_MMV_ER_2: -0.11349
+  response: 7E80562112EFE24

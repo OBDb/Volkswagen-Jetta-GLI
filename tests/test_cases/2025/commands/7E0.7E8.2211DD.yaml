@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_CMD: 1545.70312
+  response: |-
+    7E810096211DD4D4953
+    7E8215F3100AAAAAAAA

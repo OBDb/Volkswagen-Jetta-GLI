@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22117D
+test_cases:
+- expected_values:
+    VOLKSWAGEN_N_32: 0
+  response: 7E80462117D00
+- expected_values:
+    VOLKSWAGEN_N_32: 992
+  response: 7E80462117D1F
+- expected_values:
+    VOLKSWAGEN_N_32: 1888
+  response: 7E80462117D3B

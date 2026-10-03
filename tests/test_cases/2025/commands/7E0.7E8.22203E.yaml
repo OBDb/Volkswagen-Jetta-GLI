@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22203E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_FUEL_T_7E0_V2: 61.5
+  response: 7E80562203E0267
+- expected_values:
+    VOLKSWAGEN_FUEL_T_7E0_V2: 75.7
+  response: 7E80562203E02F5
+- expected_values:
+    VOLKSWAGEN_FUEL_T_7E0_V2: 78
+  response: 7E80562203E030C
+- expected_values:
+    VOLKSWAGEN_FUEL_T_7E0_V2: 81.7
+  response: 7E80562203E0331

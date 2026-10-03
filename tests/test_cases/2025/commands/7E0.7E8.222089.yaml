@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.222089
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DPF_TIME_SINCE_REGEN: 17.05252
+    VOLKSWAGEN_TIME_SINCE_REGEN_V2: 8731
+  response: 7E805622089221B

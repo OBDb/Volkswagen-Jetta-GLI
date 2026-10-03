@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22417F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_PHASE_DEV_AFTER_REPAIR: 0
+    VOLKSWAGEN_TIM_DEV_AFTER_OTHER_1: 0
+  response: 7E80562417F0000

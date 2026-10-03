@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.224267
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DIRECT_INJECTIONS: 50055518
+  response: 7E80762426702FBC95E
+- expected_values:
+    VOLKSWAGEN_DIRECT_INJECTIONS: 50069725
+  response: 7E80762426702FC00DD

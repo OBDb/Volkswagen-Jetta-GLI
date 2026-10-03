@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222023
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1_PHASE: -3.7
+  response: 7E805622023FFDB
+- expected_values:
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1_PHASE: -3.3
+  response: 7E805622023FFDF

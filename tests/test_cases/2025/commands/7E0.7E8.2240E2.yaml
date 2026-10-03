@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2240E2
+test_cases:
+- expected_values:
+    VOLKSWAGEN_T_SENS_ENG_T_TGT: 105
+  response: 7E8056240E2041A
+- expected_values:
+    VOLKSWAGEN_T_SENS_ENG_T_TGT: 105.8
+  response: 7E8056240E20422

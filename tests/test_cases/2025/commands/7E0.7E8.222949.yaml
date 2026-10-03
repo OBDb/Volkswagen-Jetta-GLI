@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222949
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AVG_IGN_TIM_ANG: 13.12
+  response: '7E8056229490520'
+- expected_values:
+    VOLKSWAGEN_AVG_IGN_TIM_ANG: 23.62
+  response: 7E805622949093A
+- expected_values:
+    VOLKSWAGEN_AVG_IGN_TIM_ANG: 24.37
+  response: '7E8056229490985'
+- expected_values:
+    VOLKSWAGEN_AVG_IGN_TIM_ANG: 29.25
+  response: 7E8056229490B6D

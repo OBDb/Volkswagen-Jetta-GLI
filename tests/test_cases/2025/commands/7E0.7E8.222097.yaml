@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222097
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QTY: 7
+  response: '7E8056220970007'
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QTY: 11
+  response: 7E805622097000B
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QTY: 13
+  response: 7E805622097000D
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QTY: 37
+  response: '7E8056220970025'
