@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TI_MES4_PLS_1_1: 0.568
   response: 7E8056213A1008E
+- expected_values:
+    VOLKSWAGEN_TI_MES4_PLS_1_1: 0.712
+  response: 7E8056213A100B2

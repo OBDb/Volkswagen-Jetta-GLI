@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_DIRECT_INJECTIONS: 50069725
   response: 7E80762426702FC00DD
+- expected_values:
+    VOLKSWAGEN_DIRECT_INJECTIONS: 50073016
+  response: 7E80762426702FC0DB8

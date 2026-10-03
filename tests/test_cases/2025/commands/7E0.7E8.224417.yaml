@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_CMD: 100
   response: 7E80562441722AB
+- expected_values:
+    VOLKSWAGEN_THERMOSTAT_CMD: 100
+  response: 7E8056244173FF7

@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENG_TQ_7E0_V2: 46.2
   response: 7E80562437C01CE
+- expected_values:
+    VOLKSWAGEN_ENG_TQ_7E0_V2: 83.8
+  response: 7E80562437C0346
+- expected_values:
+    VOLKSWAGEN_ENG_TQ_7E0_V2: -6.2
+  response: 7E80562437CFFC2

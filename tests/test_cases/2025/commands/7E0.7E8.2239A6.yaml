@@ -4,8 +4,14 @@ test_cases:
     VOLKSWAGEN_CHG_P_ACTUATOR_ADPT_HI: 113
   response: 7E8056239A60235
 - expected_values:
+    VOLKSWAGEN_CHG_P_ACTUATOR_ADPT_HI: 115.8
+  response: 7E8056239A60243
+- expected_values:
     VOLKSWAGEN_CHG_P_ACTUATOR_ADPT_HI: 116.8
   response: 7E8056239A60248
 - expected_values:
     VOLKSWAGEN_CHG_P_ACTUATOR_ADPT_HI: 117.8
   response: 7E8056239A6024D
+- expected_values:
+    VOLKSWAGEN_CHG_P_ACTUATOR_ADPT_HI: 123.6
+  response: 7E8056239A6026A

@@ -7,8 +7,14 @@ test_cases:
     VOLKSWAGEN_IGA_IGC_0: -2.27225
   response: 7E80462138A59
 - expected_values:
+    VOLKSWAGEN_IGA_IGC_0: -1.148
+  response: 7E80462138A5C
+- expected_values:
     VOLKSWAGEN_IGA_IGC_0: 13.842
   response: 7E80462138A84
+- expected_values:
+    VOLKSWAGEN_IGA_IGC_0: 14.21675
+  response: 7E80462138A85
 - expected_values:
     VOLKSWAGEN_IGA_IGC_0: 16.84
   response: 7E80462138A8C
