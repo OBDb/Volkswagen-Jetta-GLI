@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.224185
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EXH_PHASE_DEV_ACT: -25.8125
+    VOLKSWAGEN_TIM_DEV_CURRENT_EXH_1: -4.13
+  response: 7E805624185FE63

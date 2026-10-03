@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221040
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4467.75
+  response: '7E8056210400851'
+- expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4343.5
+  response: 7E8056210400A42
+- expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4148.5
+  response: 7E8056210400D4E
+- expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4124.5
+  response: 7E8056210400DAE

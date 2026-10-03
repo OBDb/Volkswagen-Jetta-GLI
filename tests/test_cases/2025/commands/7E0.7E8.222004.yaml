@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222004
+test_cases:
+- expected_values:
+    VOLKSWAGEN_IGN_ANG_CURRENT_CYL_ACT: 15.37
+  response: '7E8056220040601'
+- expected_values:
+    VOLKSWAGEN_IGN_ANG_CURRENT_CYL_ACT: -2.25
+  response: 7E805622004FF1F

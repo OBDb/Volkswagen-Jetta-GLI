@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211DF
+test_cases:
+- expected_values:
+    VOLKSWAGEN_POWERTRAIN_OVERALL: 197.85
+  response: |-
+    7E810096211DF4D4953
+    7E8215F3300AAAAAAAA

@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22208B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DPF_OIL_ASH_VOLUME: 0
+    VOLKSWAGEN_GPF_SOOT_MASS_CALC: 0
+    VOLKSWAGEN_SOOT_MASS_CALC: 0
+  response: 7E80562208B0000

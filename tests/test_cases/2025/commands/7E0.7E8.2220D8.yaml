@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2220D8
+test_cases:
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS_SINCE_DPF: 655.35
+  response: 7E8056220D8FFFF

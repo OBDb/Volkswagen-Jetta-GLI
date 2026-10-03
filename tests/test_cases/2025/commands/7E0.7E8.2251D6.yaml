@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2251D6
+test_cases:
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS_PER: 0
+  response: 7E8056251D60000
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS_PER: 2.38
+  response: 7E8056251D600EE
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS_PER: 39.8
+  response: 7E8056251D60F8C
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS_PER: 92.52
+  response: 7E8056251D62424

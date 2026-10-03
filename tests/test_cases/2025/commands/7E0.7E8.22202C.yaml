@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22202C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_SPEC: 82.5
+  response: 7E80562202C0339
+- expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_SPEC: 99.7
+  response: 7E80562202C03E5
+- expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_SPEC: 103.5
+  response: 7E80562202C040B
+- expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_SPEC: 104.2
+  response: 7E80562202C0412
