@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EXH_GAS_T: 374.3
+  response: 7E80562F43C102F
+- expected_values:
+    VOLKSWAGEN_EXH_GAS_T: 427.1
+  response: 7E80562F43C123F
+- expected_values:
+    VOLKSWAGEN_EXH_GAS_T: 508.6
+  response: 7E80562F43C156E
+- expected_values:
+    VOLKSWAGEN_EXH_GAS_T: 571.5
+  response: 7E80562F43C17E3

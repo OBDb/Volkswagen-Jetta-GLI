@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 1978.5
+  response: |-
+    7E8100B6211E04D4953
+    7E8215F4D504C00AAAA

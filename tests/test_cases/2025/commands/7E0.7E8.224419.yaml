@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224419
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENG_T_MANAGEMENT: 1353
+  response: '7E8056244190549'
+- expected_values:
+    VOLKSWAGEN_ENG_T_MANAGEMENT: 1465
+  response: 7E80562441905B9
+- expected_values:
+    VOLKSWAGEN_ENG_T_MANAGEMENT: 1467
+  response: 7E80562441905BB
+- expected_values:
+    VOLKSWAGEN_ENG_T_MANAGEMENT: 1470
+  response: 7E80562441905BE

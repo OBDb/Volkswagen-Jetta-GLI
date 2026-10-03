@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220C2
+test_cases:
+- expected_values:
+    VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 0
+  response: 7E8056220C20000
+- expected_values:
+    VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 0.01526
+  response: 7E8056220C2000A
+- expected_values:
+    VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 0.12055
+  response: 7E8056220C2004F

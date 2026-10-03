@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.223E70
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.269
+  response: 7E805623E70010D
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.319
+  response: 7E805623E70013F
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.93
+  response: 7E805623E7003A2
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 1.009
+  response: 7E805623E7003F1

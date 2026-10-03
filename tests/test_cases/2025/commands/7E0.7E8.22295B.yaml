@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22295B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ODO_ECU_INSTALLED: 14457
+  response: 7E80662295B003879
+- expected_values:
+    VOLKSWAGEN_ODO_ECU_INSTALLED: 14460
+  response: 7E80662295B00387C
+- expected_values:
+    VOLKSWAGEN_ODO_ECU_INSTALLED: 14461
+  response: 7E80662295B00387D

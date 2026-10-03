@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.223996
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.91
+  response: 7E805623996005B
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.99
+  response: '7E8056239960063'

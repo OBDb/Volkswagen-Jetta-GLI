@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2213CD|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AIR_MASS: 7.5625
+  response: 7E8056213CD00F2
+- expected_values:
+    VOLKSWAGEN_AIR_MASS: 27.96875
+  response: 7E8056213CD037F
