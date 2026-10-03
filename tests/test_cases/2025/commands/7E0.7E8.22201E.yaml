@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.22201E
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_ACT: 0
+  response: 7E80562201E0000
+- expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_ACT: 9.2
   response: 7E80562201E005C
 - expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_ACT: 9.6
   response: 7E80562201E0060
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_ACT: 9.7
+  response: 7E80562201E0061
 - expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_ACT: 10
   response: 7E80562201E0064

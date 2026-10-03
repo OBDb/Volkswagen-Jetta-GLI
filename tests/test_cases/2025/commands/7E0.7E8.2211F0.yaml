@@ -6,6 +6,14 @@ test_cases:
   response: 7E8056211F0117A
 - expected_values:
     VOLKSWAGEN_ACT_TURBO_BOOST: 2
+    VOLKSWAGEN_BOOST_P_ACT: 362.73438
+  response: 7E8056211F01223
+- expected_values:
+    VOLKSWAGEN_ACT_TURBO_BOOST: 2
+    VOLKSWAGEN_BOOST_P_ACT: 372.42188
+  response: 7E8056211F0129F
+- expected_values:
+    VOLKSWAGEN_ACT_TURBO_BOOST: 2
     VOLKSWAGEN_BOOST_P_ACT: 413.04688
   response: 7E8056211F014A7
 - expected_values:

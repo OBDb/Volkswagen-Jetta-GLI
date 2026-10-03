@@ -7,6 +7,12 @@ test_cases:
     VOLKSWAGEN_GEN_LOAD_SIG: 19.38
   response: '7E8056220500792'
 - expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 25.83
+  response: 7E8056220500A17
+- expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 32.28
+  response: 7E8056220500C9C
+- expected_values:
     VOLKSWAGEN_GEN_LOAD_SIG: 41.95
   response: '7E8056220501063'
 - expected_values:

@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENG_T_MANAGEMENT: 1470
   response: 7E80562441905BE
+- expected_values:
+    VOLKSWAGEN_ENG_T_MANAGEMENT: 2585
+  response: 7E8056244190A19

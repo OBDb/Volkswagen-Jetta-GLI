@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
+    VOLKSWAGEN_AAT_7E0_V2: 12
+  response: 7E80462F44634
+- expected_values:
     VOLKSWAGEN_AAT_7E0_V2: 16
   response: 7E80462F44638
 - expected_values:

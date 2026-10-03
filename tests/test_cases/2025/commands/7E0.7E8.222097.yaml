@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MEAN_INJ_QTY: 37
   response: '7E8056220970025'
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QTY: 41
+  response: '7E8056220970029'

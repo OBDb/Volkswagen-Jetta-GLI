@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.224E70
 test_cases:
 - expected_values:
+    VOLKSWAGEN_KNOCK_SENSORS_AVG_V_1_2: 0
+  response: 7E805624E700000
+- expected_values:
+    VOLKSWAGEN_KNOCK_SENSORS_AVG_V_1_2: 0.254
+  response: 7E805624E7000FE
+- expected_values:
     VOLKSWAGEN_KNOCK_SENSORS_AVG_V_1_2: 0.273
   response: 7E805624E700111
 - expected_values:

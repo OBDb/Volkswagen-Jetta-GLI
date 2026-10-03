@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22148F
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CTR_MIS_DC_MMV_CYL_2: 8
+  response: 7E80562148F0008
+- expected_values:
     VOLKSWAGEN_CTR_MIS_DC_MMV_CYL_2: 9
   response: 7E80562148F0009

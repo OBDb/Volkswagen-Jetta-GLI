@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222932
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 5
+  response: '7E8056229321388'
+- expected_values:
     VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 5.175
   response: '7E8056229321437'
 - expected_values:

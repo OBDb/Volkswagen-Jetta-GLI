@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.2213F7
 test_cases:
 - expected_values:
+    VOLKSWAGEN_KNOCK_RETARD_CYL_6: -43.125
+    VOLKSWAGEN_NL_PRE_1: 0.25574
+  response: 7E8056213F70D18
+- expected_values:
+    VOLKSWAGEN_KNOCK_RETARD_CYL_6: -41.625
+    VOLKSWAGEN_NL_PRE_1: 0.33974
+  response: 7E8056213F71165
+- expected_values:
     VOLKSWAGEN_KNOCK_RETARD_CYL_6: -40.125
     VOLKSWAGEN_NL_PRE_1: 0.42488
   response: 7E8056213F715C1
