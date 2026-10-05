@@ -9,6 +9,10 @@ test_cases:
     VOLKSWAGEN_EOT_V4: 20
   response: 7E80562202F0B73
 - expected_values:
+    VOLKSWAGEN_EOT_7E0: 21
+    VOLKSWAGEN_EOT_V4: 21
+  response: 7E80562202F0B7D
+- expected_values:
     VOLKSWAGEN_EOT_7E0: 74
     VOLKSWAGEN_EOT_V4: 74
   response: 7E80562202F0D8F

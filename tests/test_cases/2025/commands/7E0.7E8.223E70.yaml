@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.34
   response: 7E805623E700154
 - expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.512
+  response: 7E805623E700200
+- expected_values:
     VOLKSWAGEN_INT_MANIFOLD_P_RAW_V2: 0.93
   response: 7E805623E7003A2
 - expected_values:

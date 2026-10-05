@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_PF_DIFF_P_FILTERED: -4343.5
   response: 7E8056210400A42
 - expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4228
+  response: 7E8056210400C10
+- expected_values:
     VOLKSWAGEN_PF_DIFF_P_FILTERED: -4154.5
   response: 7E8056210400D36
 - expected_values:

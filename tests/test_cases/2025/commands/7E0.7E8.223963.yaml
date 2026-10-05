@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.346
   response: 7E805623963015A
 - expected_values:
+    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.383
+  response: 7E805623963017F
+- expected_values:
     VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.401
   response: '7E8056239630191'
 - expected_values:

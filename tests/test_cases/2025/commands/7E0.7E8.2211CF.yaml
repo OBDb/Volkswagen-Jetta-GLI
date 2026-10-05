@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_BRAKE_BOOSTER_P: 114.52978
   response: 7E8056211CF0B74
 - expected_values:
+    VOLKSWAGEN_BRAKE_BOOSTER_P: 249.29368
+  response: 7E8056211CF18EE
+- expected_values:
     VOLKSWAGEN_BRAKE_BOOSTER_P: 302.30082
   response: 7E8056211CF1E3B
 - expected_values:

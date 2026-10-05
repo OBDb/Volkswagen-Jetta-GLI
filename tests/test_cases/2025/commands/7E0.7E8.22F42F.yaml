@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FLI_INPUT: 47.84314
+  response: 7E80462F42F7A
+- expected_values:
     VOLKSWAGEN_FLI_INPUT: 49.01961
   response: 7E80462F42F7D
 - expected_values:

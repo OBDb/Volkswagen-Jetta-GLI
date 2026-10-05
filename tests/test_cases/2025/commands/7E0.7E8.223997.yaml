@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_MIXTURE_ADPT_FACTOR_IDLE: 0.45
   response: 7E805623997002D
 - expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR_IDLE: 5.17
+  response: '7E8056239970205'
+- expected_values:
     VOLKSWAGEN_MIXTURE_ADPT_FACTOR_IDLE: 5.77
   response: '7E8056239970241'
 - expected_values:

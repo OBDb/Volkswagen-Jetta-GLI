@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_AIR_MASS: 7.5625
   response: 7E8056213CD00F2
 - expected_values:
+    VOLKSWAGEN_AIR_MASS: 8.75
+  response: 7E8056213CD0118
+- expected_values:
     VOLKSWAGEN_AIR_MASS: 11.6875
   response: 7E8056213CD0176
 - expected_values:

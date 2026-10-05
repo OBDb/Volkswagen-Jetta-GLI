@@ -22,5 +22,9 @@ test_cases:
   response: 7E8056213F61A46
 - expected_values:
     VOLKSWAGEN_KNOCK_RETARD_CYL_5: -38.25
+    VOLKSWAGEN_NL_PRE_0: 0.52193
+  response: 7E8056213F61AB9
+- expected_values:
+    VOLKSWAGEN_KNOCK_RETARD_CYL_5: -38.25
     VOLKSWAGEN_NL_PRE_0: 0.52673
   response: 7E8056213F61AF8

@@ -10,5 +10,8 @@ test_cases:
     VOLKSWAGEN_N_32: 1216
   response: 7E80462117D26
 - expected_values:
+    VOLKSWAGEN_N_32: 1856
+  response: 7E80462117D3A
+- expected_values:
     VOLKSWAGEN_N_32: 1888
   response: 7E80462117D3B

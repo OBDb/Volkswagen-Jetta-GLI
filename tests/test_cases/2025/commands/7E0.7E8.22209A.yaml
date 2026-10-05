@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_FUEL_METERING_VLV: 28.8
   response: 7E80562209A0B40
+- expected_values:
+    VOLKSWAGEN_FUEL_METERING_VLV: 64.74
+  response: 7E80562209A194A

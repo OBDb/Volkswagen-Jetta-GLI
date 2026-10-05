@@ -13,6 +13,9 @@ test_cases:
     VOLKSWAGEN_T_SENS_ENG_T_V: 1.143
   response: 7E8056240E40477
 - expected_values:
+    VOLKSWAGEN_T_SENS_ENG_T_V: 1.841
+  response: 7E8056240E40731
+- expected_values:
     VOLKSWAGEN_T_SENS_ENG_T_V: 1.855
   response: 7E8056240E4073F
 - expected_values:

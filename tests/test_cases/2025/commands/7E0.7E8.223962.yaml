@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.223962
 test_cases:
 - expected_values:
+    VOLKSWAGEN_KNOCK_SENS_CYL_3: 0.349
+  response: 7E805623962015D
+- expected_values:
     VOLKSWAGEN_KNOCK_SENS_CYL_3: 0.434
   response: 7E80562396201B2
 - expected_values:
