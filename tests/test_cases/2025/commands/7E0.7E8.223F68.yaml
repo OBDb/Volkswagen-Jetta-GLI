@@ -1,17 +1,8 @@
 command_id: 7E0.7E8.223F68
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 0.999
-  response: 7E805623F6803E7
-- expected_values:
-    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.007
-  response: 7E805623F6803EF
-- expected_values:
-    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.009
-  response: 7E805623F6803F1
-- expected_values:
-    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.021
-  response: 7E805623F6803FD
+    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 0.984
+  response: 7E805623F6803D8
 - expected_values:
     VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.022
   response: 7E805623F6803FE

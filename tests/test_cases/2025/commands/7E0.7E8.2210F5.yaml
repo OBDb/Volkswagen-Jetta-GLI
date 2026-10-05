@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MIS_4: 0
   response: 7E8076210F500000AD7
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000BAF
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000C38
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000C4C
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000D46
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000DB6

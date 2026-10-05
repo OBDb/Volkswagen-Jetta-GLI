@@ -4,14 +4,26 @@ test_cases:
     VOLKSWAGEN_GEN_LOAD_SIG: 3.25
   response: '7E8056220500145'
 - expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 9.7
+  response: 7E80562205003CA
+- expected_values:
     VOLKSWAGEN_GEN_LOAD_SIG: 19.38
   response: '7E8056220500792'
+- expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 22.6
+  response: 7E80562205008D4
 - expected_values:
     VOLKSWAGEN_GEN_LOAD_SIG: 25.83
   response: 7E8056220500A17
 - expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 29.05
+  response: 7E8056220500B59
+- expected_values:
     VOLKSWAGEN_GEN_LOAD_SIG: 32.28
   response: 7E8056220500C9C
+- expected_values:
+    VOLKSWAGEN_GEN_LOAD_SIG: 38.73
+  response: 7E8056220500F21
 - expected_values:
     VOLKSWAGEN_GEN_LOAD_SIG: 41.95
   response: '7E8056220501063'

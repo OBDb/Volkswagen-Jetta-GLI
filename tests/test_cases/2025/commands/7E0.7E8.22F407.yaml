@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_LONG_TERM_FUEL_TRIM_1: 1.5625
   response: 7E80462F40782
 - expected_values:
+    VOLKSWAGEN_LONG_TERM_FUEL_TRIM_1: 2.34375
+  response: 7E80462F40783
+- expected_values:
     VOLKSWAGEN_LONG_TERM_FUEL_TRIM_1: 3.90625
   response: 7E80462F40785
 - expected_values:

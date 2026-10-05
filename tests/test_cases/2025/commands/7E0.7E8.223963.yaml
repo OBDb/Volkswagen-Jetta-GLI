@@ -4,20 +4,8 @@ test_cases:
     VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.289
   response: '7E8056239630121'
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.309
-  response: '7E8056239630135'
-- expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.346
-  response: 7E805623963015A
-- expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.383
-  response: 7E805623963017F
-- expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.401
-  response: '7E8056239630191'
-- expected_values:
     VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.476
   response: 7E80562396301DC
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.585
-  response: '7E8056239630249'
+    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.822
+  response: '7E8056239630336'

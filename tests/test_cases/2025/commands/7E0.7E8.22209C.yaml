@@ -4,23 +4,5 @@ test_cases:
     VOLKSWAGEN_ENG_DRAG_TQ: 12.6
   response: 7E80562209C007E
 - expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 13
-  response: 7E80562209C0082
-- expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 13.1
-  response: 7E80562209C0083
-- expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 13.7
-  response: 7E80562209C0089
-- expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 17.4
-  response: 7E80562209C00AE
-- expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 20.6
-  response: 7E80562209C00CE
-- expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 23.2
-  response: 7E80562209C00E8
-- expected_values:
     VOLKSWAGEN_ENG_DRAG_TQ: 24.4
   response: 7E80562209C00F4

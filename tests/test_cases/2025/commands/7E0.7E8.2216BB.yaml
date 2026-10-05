@@ -4,20 +4,8 @@ test_cases:
     VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 0
   response: 7E8056216BB0000
 - expected_values:
-    VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 7
-  response: 7E8056216BB0767
-- expected_values:
-    VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 21
-  response: 7E8056216BB1546
-- expected_values:
     VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 22
-  response: 7E8056216BB1694
-- expected_values:
-    VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 25
-  response: 7E8056216BB1928
-- expected_values:
-    VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 26
-  response: 7E8056216BB1A75
+  response: 7E8056216BB16F7
 - expected_values:
     VOLKSWAGEN_VLV_LIFT_SYSTEM_VLV_LIFT: 30
   response: 7E8056216BB1EBD

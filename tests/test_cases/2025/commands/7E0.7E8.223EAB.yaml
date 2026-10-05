@@ -1,17 +1,11 @@
 command_id: 7E0.7E8.223EAB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.5645
-  response: 7E805623EAB5B40
+    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.52544
+  response: 7E805623EAB5A40
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.56939
-  response: 7E805623EAB5B60
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.57427
-  response: 7E805623EAB5B80
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.57915
-  response: 7E805623EAB5BA0
+    VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.55474
+  response: 7E805623EAB5B00
 - expected_values:
     VOLKSWAGEN_CHG_P_CTRL_VLV_V_POS: 3.58892
   response: 7E805623EAB5BE0

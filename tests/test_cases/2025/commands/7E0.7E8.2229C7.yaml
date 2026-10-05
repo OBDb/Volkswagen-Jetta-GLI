@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.2229C7
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.621
-  response: 7E8056229C70655
-- expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.641
-  response: 7E8056229C70669
-- expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.646
-  response: 7E8056229C7066E
-- expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.65
-  response: 7E8056229C70672
-- expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.675
-  response: 7E8056229C7068B
-- expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 1.689
-  response: 7E8056229C70699
+    VOLKSWAGEN_CHG_P_SENS_V: 1.587
+  response: 7E8056229C70633
 - expected_values:
     VOLKSWAGEN_CHG_P_SENS_V: 1.807
   response: 7E8056229C7070F
+- expected_values:
+    VOLKSWAGEN_CHG_P_SENS_V: 2.036
+  response: 7E8056229C707F4
+- expected_values:
+    VOLKSWAGEN_CHG_P_SENS_V: 2.1
+  response: 7E8056229C70834

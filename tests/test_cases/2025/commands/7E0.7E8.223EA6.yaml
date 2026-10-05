@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CHG_P_CTRL_VLV_POS_TGT: 0
   response: 7E805623EA60000
+- expected_values:
+    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_TGT: 62.19
+  response: 7E805623EA6184B
+- expected_values:
+    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_TGT: 67.68
+  response: 7E805623EA61A70
+- expected_values:
+    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_TGT: 99.99
+  response: 7E805623EA6270F

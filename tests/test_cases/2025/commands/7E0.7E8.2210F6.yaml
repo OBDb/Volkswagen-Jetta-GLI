@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
   response: 7E8076210F680018A81
+- expected_values:
+    VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
+  response: 7E8076210F68001AA6D
+- expected_values:
+    VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
+  response: 7E8076210F68001C0CF
+- expected_values:
+    VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
+  response: 7E8076210F68001C3A1
+- expected_values:
+    VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
+  response: 7E8076210F68001E80A
+- expected_values:
+    VOLKSWAGEN_MIS_PER_1000_2_7E0: 32769
+  response: 7E8076210F68001F5DE

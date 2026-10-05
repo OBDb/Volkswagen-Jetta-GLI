@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2239BC
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MIXTURE_VARIATION_1: 0.69
+  response: 7E8056239BC0045
+- expected_values:
     VOLKSWAGEN_MIXTURE_VARIATION_1: 0.99
   response: 7E8056239BC0063
+- expected_values:
+    VOLKSWAGEN_MIXTURE_VARIATION_1: 1.06
+  response: 7E8056239BC006A

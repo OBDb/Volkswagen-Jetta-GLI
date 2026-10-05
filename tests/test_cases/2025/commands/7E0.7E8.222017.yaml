@@ -13,5 +13,20 @@ test_cases:
     VOLKSWAGEN_AC_COMP_TQ_V2: -2
   response: 7E805622017FF38
 - expected_values:
+    VOLKSWAGEN_AC_COMP_TQ_V2: -1.75
+  response: 7E805622017FF51
+- expected_values:
+    VOLKSWAGEN_AC_COMP_TQ_V2: -1.63
+  response: 7E805622017FF5D
+- expected_values:
+    VOLKSWAGEN_AC_COMP_TQ_V2: -1.5
+  response: 7E805622017FF6A
+- expected_values:
+    VOLKSWAGEN_AC_COMP_TQ_V2: -1.34
+  response: 7E805622017FF7A
+- expected_values:
     VOLKSWAGEN_AC_COMP_TQ_V2: -1.25
   response: 7E805622017FF83
+- expected_values:
+    VOLKSWAGEN_AC_COMP_TQ_V2: -1
+  response: 7E805622017FF9C

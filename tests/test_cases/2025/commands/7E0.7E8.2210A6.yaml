@@ -1,20 +1,11 @@
 command_id: 7E0.7E8.2210A6
 test_cases:
 - expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 100.5
-  response: 7E8056210A60192
-- expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 100.75
-  response: 7E8056210A60193
-- expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 101.25
-  response: 7E8056210A60195
+    VOLKSWAGEN_INJ_SPD_INJ_2: 87.75
+  response: 7E8056210A6015F
 - expected_values:
     VOLKSWAGEN_INJ_SPD_INJ_2: 110.75
   response: 7E8056210A601BB
 - expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 144.5
-  response: 7E8056210A60242
-- expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 152.25
-  response: 7E8056210A60261
+    VOLKSWAGEN_INJ_SPD_INJ_2: 137.5
+  response: 7E8056210A60226
