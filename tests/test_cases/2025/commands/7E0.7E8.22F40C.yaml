@@ -9,6 +9,10 @@ test_cases:
     VOLKSWAGEN_RPM_7E0: 947.75
   response: 7E80562F40C0ECF
 - expected_values:
+    VOLKSWAGEN_RPM: 950.25
+    VOLKSWAGEN_RPM_7E0: 950.25
+  response: 7E80562F40C0ED9
+- expected_values:
     VOLKSWAGEN_RPM: 1997.5
     VOLKSWAGEN_RPM_7E0: 1997.5
   response: 7E80562F40C1F36

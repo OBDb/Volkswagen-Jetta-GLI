@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENG_AIR_MASS_SPEC: 30
   response: 7E805622037001E
+- expected_values:
+    VOLKSWAGEN_ENG_AIR_MASS_SPEC: 63
+  response: 7E805622037003F

@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_ACTIVATION_FUEL_PMP: 33.34
   response: 7E8056220280D06
 - expected_values:
+    VOLKSWAGEN_ACTIVATION_FUEL_PMP: 50.92
+  response: 7E80562202813E4
+- expected_values:
     VOLKSWAGEN_ACTIVATION_FUEL_PMP: 51.93
   response: '7E8056220281449'
 - expected_values:

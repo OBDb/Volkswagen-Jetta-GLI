@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_CRANK_SPD_RPM: 805
   response: 7E80562206E0325
 - expected_values:
+    VOLKSWAGEN_CRANK_SPD_RPM: 944
+  response: 7E80562206E03B0
+- expected_values:
     VOLKSWAGEN_CRANK_SPD_RPM: 981
   response: 7E80562206E03D5
 - expected_values:

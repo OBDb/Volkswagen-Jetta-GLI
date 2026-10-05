@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 9.3
   response: 7E80562209B005D
+- expected_values:
+    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 11.3
+  response: 7E80562209B0071

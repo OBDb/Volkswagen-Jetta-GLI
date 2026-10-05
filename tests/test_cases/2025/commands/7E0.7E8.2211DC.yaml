@@ -6,6 +6,10 @@ test_cases:
   response: 7E8056211DC003B
 - expected_values:
     VOLKSWAGEN_INT_MANIFOLD_P_RAW: 0
+    VOLKSWAGEN_MAP_RAW: 5.85938
+  response: 7E8056211DC004B
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW: 0
     VOLKSWAGEN_MAP_RAW: 7.5
   response: 7E8056211DC0060
 - expected_values:

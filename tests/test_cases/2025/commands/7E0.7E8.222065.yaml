@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.613
   response: 7E8056220650E1D
+- expected_values:
+    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.628
+  response: 7E8056220650E2C

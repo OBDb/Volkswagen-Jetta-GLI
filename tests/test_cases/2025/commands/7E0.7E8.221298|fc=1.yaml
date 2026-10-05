@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CAT_T_BANK_1: 571.35
   response: 7E80562129834C8
+- expected_values:
+    VOLKSWAGEN_CAT_T_BANK_1: 645.475
+  response: 7E805621298396A

@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_EOT_SENS_2: 11
   response: 7E8056240D5006E
 - expected_values:
+    VOLKSWAGEN_EOT_SENS_2: 20
+  response: 7E8056240D500C8
+- expected_values:
     VOLKSWAGEN_EOT_SENS_2: 68
   response: 7E8056240D502A8
 - expected_values:

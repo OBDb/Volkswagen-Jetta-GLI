@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_DYNAMIC_AVG_IGN_ANG: 0.75
   response: 7E80562294A004B
 - expected_values:
+    VOLKSWAGEN_DYNAMIC_AVG_IGN_ANG: 5.25
+  response: 7E80562294A020D
+- expected_values:
     VOLKSWAGEN_DYNAMIC_AVG_IGN_ANG: 6
   response: 7E80562294A0258
 - expected_values:
