@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211AC
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MAF_THROUGH_THROTTLE: 1.9
+  response: 7E8056211AC0013
+- expected_values:
     VOLKSWAGEN_MAF_THROUGH_THROTTLE: 4.6
   response: 7E8056211AC002E
 - expected_values:

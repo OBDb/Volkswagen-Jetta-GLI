@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056239A20CFB
 - expected_values:
     VOLKSWAGEN_CHG_P_ACTUATOR_ACT: 100
-  response: 7E8056239A2254E
+  response: 7E8056239A22719
