@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ADPT_VAL_CYL3_SLOW: 0
   response: 7E805623F420000
+- expected_values:
+    VOLKSWAGEN_ADPT_VAL_CYL3_SLOW: 5.407
+  response: 7E805623F42151F

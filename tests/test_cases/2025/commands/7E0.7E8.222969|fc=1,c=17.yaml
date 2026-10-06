@@ -10,5 +10,17 @@ test_cases:
     VOLKSWAGEN_MISFIRES_C2: 4
   response: '7E8056229690004'
 - expected_values:
+    VOLKSWAGEN_MISFIRES_C2: 5
+  response: '7E8056229690005'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C2: 6
+  response: '7E8056229690006'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C2: 9
+  response: '7E8056229690009'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C2: 10
+  response: 7E805622969000A
+- expected_values:
     VOLKSWAGEN_MISFIRES_C2: 12
   response: 7E805622969000C

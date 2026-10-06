@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2239A9
 test_cases:
 - expected_values:
+    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.69
+  response: 7E8056239A90045
+- expected_values:
+    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.7
+  response: 7E8056239A90046
+- expected_values:
     VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.99
   response: 7E8056239A90063

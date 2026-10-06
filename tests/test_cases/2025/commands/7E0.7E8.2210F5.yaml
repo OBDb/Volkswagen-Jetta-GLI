@@ -2,7 +2,13 @@ command_id: 7E0.7E8.2210F5
 test_cases:
 - expected_values:
     VOLKSWAGEN_MIS_4: 0
-  response: 7E8076210F5000009B9
+  response: 7E8076210F500000659
 - expected_values:
     VOLKSWAGEN_MIS_4: 0
-  response: 7E8076210F500000AD7
+  response: 7E8076210F500000C38
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000D46
+- expected_values:
+    VOLKSWAGEN_MIS_4: 0
+  response: 7E8076210F500000DDA

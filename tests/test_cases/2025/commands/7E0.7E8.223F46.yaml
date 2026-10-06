@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ADPT_VAL_CYL3_FAST: 0
   response: 7E805623F460000
+- expected_values:
+    VOLKSWAGEN_ADPT_VAL_CYL3_FAST: 5.256
+  response: 7E805623F461488

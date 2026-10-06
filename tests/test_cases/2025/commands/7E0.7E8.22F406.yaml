@@ -1,20 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: -5.46875
-  response: 7E80462F40679
+    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: -6.25
+  response: 7E80462F40678
 - expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: -2.34375
-  response: 7E80462F4067D
-- expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: -0.78125
-  response: 7E80462F4067F
-- expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: 0
-  response: 7E80462F40680
-- expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: 0.78125
-  response: 7E80462F40681
-- expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: 1.5625
-  response: 7E80462F40682
+    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: 9.375
+  response: 7E80462F4068C
