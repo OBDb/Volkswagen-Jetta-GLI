@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.222065
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 0.562
+  response: '7E8056220650232'
+- expected_values:
     VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 1.792
   response: '7E8056220650700'
 - expected_values:
-    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 2.725
-  response: 7E8056220650AA5
-- expected_values:
-    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.564
-  response: 7E8056220650DEC
+    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.579
+  response: 7E8056220650DFB
 - expected_values:
     VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.584
   response: 7E8056220650E00
-- expected_values:
-    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.613
-  response: 7E8056220650E1D
-- expected_values:
-    VOLKSWAGEN_CHG_AIR_P_ACTUATOR: 3.628
-  response: 7E8056220650E2C

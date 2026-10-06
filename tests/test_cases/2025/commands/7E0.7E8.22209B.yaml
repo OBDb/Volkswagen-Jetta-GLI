@@ -1,20 +1,8 @@
 command_id: 7E0.7E8.22209B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 3
-  response: 7E80562209B001E
+    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 0
+  response: 7E80562209B0000
 - expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 5.7
-  response: 7E80562209B0039
-- expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 7.3
-  response: 7E80562209B0049
-- expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 7.7
-  response: 7E80562209B004D
-- expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 9.3
-  response: 7E80562209B005D
-- expected_values:
-    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 11.3
-  response: 7E80562209B0071
+    VOLKSWAGEN_TQ_REQ_SUM_AUXILIARY: 14.4
+  response: 7E80562209B0090

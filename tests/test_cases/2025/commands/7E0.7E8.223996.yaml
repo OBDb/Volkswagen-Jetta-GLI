@@ -1,6 +1,27 @@
 command_id: 7E0.7E8.223996
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.61
+  response: 7E805623996003D
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.62
+  response: 7E805623996003E
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.64
+  response: '7E8056239960040'
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.66
+  response: '7E8056239960042'
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.67
+  response: '7E8056239960043'
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.68
+  response: '7E8056239960044'
+- expected_values:
+    VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.69
+  response: '7E8056239960045'
+- expected_values:
     VOLKSWAGEN_MIXTURE_ADPT_FACTOR: 0.87
   response: '7E8056239960057'
 - expected_values:

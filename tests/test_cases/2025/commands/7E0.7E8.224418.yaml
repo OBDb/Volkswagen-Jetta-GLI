@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.224418
 test_cases:
 - expected_values:
-    VOLKSWAGEN_THERMOSTAT_ACT: 93.24927
-  response: 7E8056244181DD7
-- expected_values:
-    VOLKSWAGEN_THERMOSTAT_ACT: 96.98462
-  response: 7E8056244181F09
+    VOLKSWAGEN_THERMOSTAT_ACT: 82.53153
+  response: 7E8056244181A69
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: '7E8056244182298'
+  response: 7E8056244182DEF
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: 7E80562441822C1
+  response: 7E8056244182F02
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: 7E80562441822CF
-- expected_values:
-    VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: '7E8056244183208'
-- expected_values:
-    VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: 7E8056244183FC7
+  response: 7E80562441855D7

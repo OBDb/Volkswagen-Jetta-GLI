@@ -1,8 +1,17 @@
 command_id: 7E0.7E8.222935
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ECT_ENG_START: 6.7
+  response: '7E8056229350043'
+- expected_values:
     VOLKSWAGEN_ECT_ENG_START: 9.7
   response: '7E8056229350061'
+- expected_values:
+    VOLKSWAGEN_ECT_ENG_START: 12
+  response: '7E8056229350078'
+- expected_values:
+    VOLKSWAGEN_ECT_ENG_START: 12.7
+  response: 7E805622935007F
 - expected_values:
     VOLKSWAGEN_ECT_ENG_START: 18
   response: 7E80562293500B4

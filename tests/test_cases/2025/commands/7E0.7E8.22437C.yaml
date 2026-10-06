@@ -1,23 +1,11 @@
 command_id: 7E0.7E8.22437C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 1.6
-  response: 7E80562437C0010
+    VOLKSWAGEN_ENG_TQ_7E0_V2: 0.2
+  response: 7E80562437C0002
 - expected_values:
     VOLKSWAGEN_ENG_TQ_7E0_V2: 23.5
   response: 7E80562437C00EB
 - expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 30.8
-  response: 7E80562437C0134
-- expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 36.5
-  response: 7E80562437C016D
-- expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 46.2
-  response: 7E80562437C01CE
-- expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 83.8
-  response: 7E80562437C0346
-- expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: -6.2
-  response: 7E80562437CFFC2
+    VOLKSWAGEN_ENG_TQ_7E0_V2: -24.9
+  response: 7E80562437CFF07

@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.2240E4
 test_cases:
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 0.71
-  response: 7E8056240E402C6
+    VOLKSWAGEN_T_SENS_ENG_T_V: 0.704
+  response: 7E8056240E402C0
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 0.73
-  response: 7E8056240E402DA
+    VOLKSWAGEN_T_SENS_ENG_T_V: 0.767
+  response: 7E8056240E402FF
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 0.798
-  response: 7E8056240E4031E
-- expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 1.143
-  response: 7E8056240E40477
-- expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 1.841
-  response: 7E8056240E40731
-- expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 1.855
-  response: 7E8056240E4073F
-- expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_V: 1.864
-  response: 7E8056240E40748
+    VOLKSWAGEN_T_SENS_ENG_T_V: 0.778
+  response: 7E8056240E4030A
 - expected_values:
     VOLKSWAGEN_T_SENS_ENG_T_V: 2.572
   response: 7E8056240E40A0C
