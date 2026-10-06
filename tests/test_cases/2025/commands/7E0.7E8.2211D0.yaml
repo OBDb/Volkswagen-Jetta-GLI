@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TCO_1_ST: 77
   response: 7E8046211D075
+- expected_values:
+    VOLKSWAGEN_TCO_1_ST: 80
+  response: 7E8046211D078
