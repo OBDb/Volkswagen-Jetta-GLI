@@ -4,26 +4,8 @@ test_cases:
     VOLKSWAGEN_CHG_P_CTRL_VLV: 0
   response: 7E805623EA90000
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: 0.14
-  response: 7E805623EA9000E
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: 4.22
-  response: 7E805623EA901A6
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: -21.42
-  response: 7E805623EA9F7A2
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: -17.52
-  response: 7E805623EA9F928
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: -14.8
-  response: 7E805623EA9FA38
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: -11.76
-  response: 7E805623EA9FB68
-- expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV: -3.85
-  response: 7E805623EA9FE7F
+    VOLKSWAGEN_CHG_P_CTRL_VLV: -2.59
+  response: 7E805623EA9FEFD
 - expected_values:
     VOLKSWAGEN_CHG_P_CTRL_VLV: -1.86
   response: 7E805623EA9FF46

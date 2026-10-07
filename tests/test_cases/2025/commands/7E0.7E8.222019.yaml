@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_CAM_ADJ_EXH_SPEC: 0
   response: '7E8056220190000'
 - expected_values:
-    VOLKSWAGEN_CAM_ADJ_EXH_SPEC: 16
-  response: 7E80562201900A0
+    VOLKSWAGEN_CAM_ADJ_EXH_SPEC: 17
+  response: 7E80562201900AA

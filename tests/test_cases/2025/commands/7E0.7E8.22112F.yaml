@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_SEG_AD_MMV_ER_3: -0.94533
   response: 7E80562112FF083
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_3: -0.85116
-  response: 7E80562112FF20E
+    VOLKSWAGEN_SEG_AD_MMV_ER_3: -0.85402
+  response: 7E80562112FF202
 - expected_values:
     VOLKSWAGEN_SEG_AD_MMV_ER_3: -0.81969
   response: 7E80562112FF292

@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_AVG_INJ_TIME_7E0: 0
   response: '7E80462200300'
 - expected_values:
-    VOLKSWAGEN_AVG_INJ_TIME_7E0: 4.5
-  response: 7E8046220032D
+    VOLKSWAGEN_AVG_INJ_TIME_7E0: 4.6
+  response: 7E8046220032E

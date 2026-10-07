@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_LOST_TQ_ADPT_AC: 1.6
   response: 7E80562437F0010
 - expected_values:
+    VOLKSWAGEN_LOST_TQ_ADPT_AC: 4
+  response: 7E80562437F0028
+- expected_values:
     VOLKSWAGEN_LOST_TQ_ADPT_AC: 4.5
   response: 7E80562437F002D
 - expected_values:

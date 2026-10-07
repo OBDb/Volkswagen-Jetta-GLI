@@ -8,4 +8,4 @@ test_cases:
   response: 7E805623EA700C8
 - expected_values:
     VOLKSWAGEN_CHG_P_CTRL_VLV_POS_ACT: 100
-  response: 7E805623EA72719
+  response: 7E805623EA72712

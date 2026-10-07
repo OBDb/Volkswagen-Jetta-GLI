@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: 0
   response: 7E8056220BB0000
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: -2.4
-  response: 7E8056220BBFFE8
+    VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: -24
+  response: 7E8056220BBFF10
 - expected_values:
     VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: -0.1
   response: 7E8056220BBFFFF

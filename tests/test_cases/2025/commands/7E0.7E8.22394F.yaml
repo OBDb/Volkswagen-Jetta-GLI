@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MAF_OVER_THROTTLE: 207
   response: 7E80562394F00CF
+- expected_values:
+    VOLKSWAGEN_MAF_OVER_THROTTLE: 327
+  response: 7E80562394F0147
