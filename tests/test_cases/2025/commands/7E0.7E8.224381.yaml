@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224381
 test_cases:
 - expected_values:
-    VOLKSWAGEN_LONG_TERM_FUEL_TRIM_IDLE_7E0: 0.04
-  response: '7E8056243810004'
+    VOLKSWAGEN_LONG_TERM_FUEL_TRIM_IDLE_7E0: 0
+  response: '7E8056243810000'
 - expected_values:
     VOLKSWAGEN_LONG_TERM_FUEL_TRIM_IDLE_7E0: 327
   response: 7E8056243817FFF

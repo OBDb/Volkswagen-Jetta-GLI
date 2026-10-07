@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_TQ_LIM_7E0: 383.9
   response: 7E80562203F0EFF
 - expected_values:
-    VOLKSWAGEN_TQ_LIM_7E0: 384.3
-  response: 7E80562203F0F03
+    VOLKSWAGEN_TQ_LIM_7E0: 384.2
+  response: 7E80562203F0F02

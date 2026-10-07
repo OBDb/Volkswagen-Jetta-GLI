@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_HIGH_FUEL_P_CMD: 0
   response: 7E8056211D70000
 - expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 0.8625
-  response: 7E8056211D706BD
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 0.985
-  response: 7E8056211D707B2
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 1.16
-  response: 7E8056211D70910
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 31.2005
-  response: 7E8056211D7F3C1
+    VOLKSWAGEN_HIGH_FUEL_P_CMD: 1.2675
+  response: 7E8056211D709E7
 - expected_values:
     VOLKSWAGEN_HIGH_FUEL_P_CMD: 31.288
   response: 7E8056211D7F470
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 31.3055
-  response: 7E8056211D7F493
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 31.308
-  response: 7E8056211D7F498

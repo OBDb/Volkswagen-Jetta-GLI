@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22202E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ECT_DIFF_ENG: 15
-  response: 7E80562202E0096
+    VOLKSWAGEN_ECT_DIFF_ENG: 10.5
+  response: 7E80562202E0069
 - expected_values:
-    VOLKSWAGEN_ECT_DIFF_ENG: 49.5
-  response: 7E80562202E01EF
+    VOLKSWAGEN_ECT_DIFF_ENG: 76.5
+  response: 7E80562202E02FD
 - expected_values:
     VOLKSWAGEN_ECT_DIFF_ENG: 77.2
   response: 7E80562202E0304

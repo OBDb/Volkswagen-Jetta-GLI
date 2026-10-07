@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FLI_INPUT: 40
-  response: 7E80462F42F66
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 43.13725
-  response: 7E80462F42F6E
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 43.92157
-  response: 7E80462F42F70
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 45.09804
-  response: 7E80462F42F73
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 45.88235
-  response: 7E80462F42F75
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 47.05882
-  response: 7E80462F42F78
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 47.84314
-  response: 7E80462F42F7A
-- expected_values:
-    VOLKSWAGEN_FLI_INPUT: 49.01961
-  response: 7E80462F42F7D
+    VOLKSWAGEN_FLI_INPUT: 34.90196
+  response: 7E80462F42F59
 - expected_values:
     VOLKSWAGEN_FLI_INPUT: 50.19608
   response: 7E80462F42F80

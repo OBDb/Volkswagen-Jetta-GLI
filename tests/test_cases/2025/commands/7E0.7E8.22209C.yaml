@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22209C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 12.6
-  response: 7E80562209C007E
+    VOLKSWAGEN_ENG_DRAG_TQ: 10.3
+  response: 7E80562209C0067
 - expected_values:
-    VOLKSWAGEN_ENG_DRAG_TQ: 24.4
-  response: 7E80562209C00F4
+    VOLKSWAGEN_ENG_DRAG_TQ: 25.5
+  response: 7E80562209C00FF
 - expected_values:
     VOLKSWAGEN_ENG_DRAG_TQ: 25.7
   response: 7E80562209C0101
