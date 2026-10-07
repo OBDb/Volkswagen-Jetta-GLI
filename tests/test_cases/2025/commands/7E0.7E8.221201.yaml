@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_EA888B_BOOST_P_CTRL_2: 8.43
   response: 7E805621201039D
 - expected_values:
-    VOLKSWAGEN_EA888B_BOOST_P_CTRL_2: 59.01
-  response: '7E8056212011503'
-- expected_values:
     VOLKSWAGEN_EA888B_BOOST_P_CTRL_2: 61.82
   response: 7E80562120116FF
+- expected_values:
+    VOLKSWAGEN_EA888B_BOOST_P_CTRL_2: 75.87
+  response: 7E8056212011B01
 - expected_values:
     VOLKSWAGEN_EA888B_BOOST_P_CTRL_2: -2.81
   response: 7E805621201FFA5

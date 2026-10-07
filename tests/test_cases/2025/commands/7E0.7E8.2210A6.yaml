@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210A6
 test_cases:
 - expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 86
-  response: 7E8056210A60158
+    VOLKSWAGEN_INJ_SPD_INJ_2: 79.5
+  response: 7E8056210A6013E
 - expected_values:
     VOLKSWAGEN_INJ_SPD_INJ_2: 126
   response: 7E8056210A601F8

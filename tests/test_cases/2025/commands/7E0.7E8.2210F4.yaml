@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210F4
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MIS_PER_1000_3_7E0: 371
-  response: 7E8056210F40173
+    VOLKSWAGEN_MIS_PER_1000_3_7E0: 367
+  response: 7E8056210F4016F
 - expected_values:
     VOLKSWAGEN_MIS_PER_1000_3_7E0: 510
   response: 7E8056210F401FE
