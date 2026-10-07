@@ -7,6 +7,12 @@ test_cases:
     VOLKSWAGEN_ENERGY_BALANCE_LAST: 0
   response: 77A07622A1500000001
 - expected_values:
+    VOLKSWAGEN_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A150000FFFF
+- expected_values:
+    VOLKSWAGEN_ENERGY_BALANCE_LAST: 0.01
+  response: 77A07622A1500010003
+- expected_values:
     VOLKSWAGEN_ENERGY_BALANCE_LAST: 0.01
   response: 77A07622A1500010005
 - expected_values:

@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ODO_MILEAGE_HR: 14493.771
   response: 77E076222B800DD284B
+- expected_values:
+    VOLKSWAGEN_ODO_MILEAGE_HR: 14509.891
+  response: 77E076222B800DD6743
+- expected_values:
+    VOLKSWAGEN_ODO_MILEAGE_HR: 14516.664
+  response: 77E076222B800DD81B8

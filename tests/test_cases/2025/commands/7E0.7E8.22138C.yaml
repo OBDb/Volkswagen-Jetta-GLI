@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22138C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_IGA_IGC_2: -11.641
-  response: 7E80462138C40
+    VOLKSWAGEN_IGA_IGC_2: -16.51275
+  response: 7E80462138C33
 - expected_values:
     VOLKSWAGEN_IGA_IGC_2: 38.20075
   response: 7E80462138CC5

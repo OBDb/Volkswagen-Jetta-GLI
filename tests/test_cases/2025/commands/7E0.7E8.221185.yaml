@@ -13,5 +13,8 @@ test_cases:
     VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_2: -4.125
   response: 7E805621185FFBE
 - expected_values:
+    VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_2: -4.0625
+  response: 7E805621185FFBF
+- expected_values:
     VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_2: -4
   response: 7E805621185FFC0

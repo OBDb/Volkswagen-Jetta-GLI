@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MIXTURE_VARIATION_1: 1.06
   response: 7E8056239BC006A
+- expected_values:
+    VOLKSWAGEN_MIXTURE_VARIATION_1: 2.2
+  response: 7E8056239BC00DC
