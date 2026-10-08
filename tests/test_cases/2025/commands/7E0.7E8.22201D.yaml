@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_CAM_ADJ_INT_SPEC: 0
   response: 7E80562201D0000
 - expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_SPEC: 49.5
-  response: 7E80562201D01EF
+    VOLKSWAGEN_CAM_ADJ_INT_SPEC: 50.5
+  response: 7E80562201D01F9
 - expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_SPEC: 53
   response: 7E80562201D0212

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221200
 test_cases:
 - expected_values:
+    VOLKSWAGEN_EA888B_BOOST_P_CTRL_1: 8.43
+  response: 7E805621200035A
+- expected_values:
     VOLKSWAGEN_EA888B_BOOST_P_CTRL_1: 14.05
   response: '7E8056212000502'
 - expected_values:

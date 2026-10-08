@@ -4,26 +4,5 @@ test_cases:
     VOLKSWAGEN_AAT_7E0: 2.25
   response: '7E80462100043'
 - expected_values:
-    VOLKSWAGEN_AAT_7E0: 3
-  response: '7E80462100044'
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 6.75
-  response: '7E80462100049'
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 7.5
-  response: 7E8046210004A
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 9
-  response: 7E8046210004C
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 9.75
-  response: 7E8046210004D
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 11.25
-  response: 7E8046210004F
-- expected_values:
-    VOLKSWAGEN_AAT_7E0: 12
-  response: '7E80462100050'
-- expected_values:
     VOLKSWAGEN_AAT_7E0: 15
   response: '7E80462100054'

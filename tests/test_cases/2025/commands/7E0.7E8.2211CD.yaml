@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_TCO_1_SYS: 22
   response: 7E8046211CD3E
 - expected_values:
-    VOLKSWAGEN_TCO_1_SYS: 105
-  response: 7E8046211CD91
+    VOLKSWAGEN_TCO_1_SYS: 106
+  response: 7E8046211CD92

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2251D8
 test_cases:
 - expected_values:
+    VOLKSWAGEN_TANK_FILL_LEVEL: 13
+  response: 7E8056251D80082
+- expected_values:
     VOLKSWAGEN_TANK_FILL_LEVEL: 30
   response: 7E8056251D8012C
+- expected_values:
+    VOLKSWAGEN_TANK_FILL_LEVEL: 48
+  response: 7E8056251D801E0
