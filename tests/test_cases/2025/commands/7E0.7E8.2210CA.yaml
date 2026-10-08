@@ -19,5 +19,8 @@ test_cases:
     VOLKSWAGEN_ACCEL_7E0: 19.625
   response: 7E8056210CA4CA9
 - expected_values:
+    VOLKSWAGEN_ACCEL_7E0: 20.4
+  response: 7E8056210CA4FB0
+- expected_values:
     VOLKSWAGEN_ACCEL_7E0: 20.425
   response: 7E8056210CA4FC9

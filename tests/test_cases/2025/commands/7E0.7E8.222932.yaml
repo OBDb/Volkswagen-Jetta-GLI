@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 5
   response: '7E8056229321388'
 - expected_values:
-    VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 6.159
-  response: 7E805622932180F
+    VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 5.642
+  response: 7E805622932160A
 - expected_values:
     VOLKSWAGEN_FUEL_LOW_P_SPEC_V2: 6.396
   response: 7E80562293218FC
