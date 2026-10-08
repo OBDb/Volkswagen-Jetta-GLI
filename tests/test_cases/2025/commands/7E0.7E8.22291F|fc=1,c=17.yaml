@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_1000_RPM_C4: 1
   response: 7E80562291F0001
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000_RPM_C4: 2
+  response: 7E80562291F0002

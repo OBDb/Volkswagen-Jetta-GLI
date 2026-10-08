@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_MANUAL_ENG_STARTS: 1553
   response: '7E8056229980611'
 - expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1554
-  response: '7E8056229980612'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1555
-  response: '7E8056229980613'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1556
-  response: '7E8056229980614'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1557
-  response: '7E8056229980615'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1558
-  response: '7E8056229980616'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1559
-  response: '7E8056229980617'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1560
-  response: '7E8056229980618'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1561
-  response: '7E8056229980619'
-- expected_values:
-    VOLKSWAGEN_MANUAL_ENG_STARTS: 1562
-  response: 7E805622998061A
+    VOLKSWAGEN_MANUAL_ENG_STARTS: 1569
+  response: '7E8056229980621'
