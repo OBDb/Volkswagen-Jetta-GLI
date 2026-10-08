@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_ECT_ENG_START: 6.7
   response: '7E8056229350043'
 - expected_values:
+    VOLKSWAGEN_ECT_ENG_START: 9
+  response: 7E805622935005A
+- expected_values:
     VOLKSWAGEN_ECT_ENG_START: 9.7
   response: '7E8056229350061'
 - expected_values:

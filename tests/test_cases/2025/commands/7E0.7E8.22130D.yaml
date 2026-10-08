@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: 0
   response: 7E80562130D0000
 - expected_values:
-    VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: -5.48925
-  response: 7E80562130DFEFD
-- expected_values:
     VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: -5.19253
   response: 7E80562130DFF0B
+- expected_values:
+    VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: -0.02119
+  response: 7E80562130DFFFF
