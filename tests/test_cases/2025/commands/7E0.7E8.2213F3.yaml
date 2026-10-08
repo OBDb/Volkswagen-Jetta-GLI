@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.2213F3
 test_cases:
 - expected_values:
+    VOLKSWAGEN_IGA_CYL_KNK_1: -1.125
+    VOLKSWAGEN_KNOCK_RETARD_CYL_2: -1.125
+  response: 7E8046213F37D
+- expected_values:
     VOLKSWAGEN_IGA_CYL_KNK_1: 0
     VOLKSWAGEN_KNOCK_RETARD_CYL_2: 0
   response: 7E8046213F380

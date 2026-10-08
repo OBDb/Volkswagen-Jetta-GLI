@@ -4,11 +4,8 @@ test_cases:
     VOLKSWAGEN_FUEL_T_7E0_V2: 8.2
   response: 7E80562203E0052
 - expected_values:
-    VOLKSWAGEN_FUEL_T_7E0_V2: 24.7
-  response: 7E80562203E00F7
+    VOLKSWAGEN_FUEL_T_7E0_V2: 51
+  response: 7E80562203E01FE
 - expected_values:
-    VOLKSWAGEN_FUEL_T_7E0_V2: 78
-  response: 7E80562203E030C
-- expected_values:
-    VOLKSWAGEN_FUEL_T_7E0_V2: 105.7
-  response: 7E80562203E0421
+    VOLKSWAGEN_FUEL_T_7E0_V2: 102.7
+  response: 7E80562203E0403
