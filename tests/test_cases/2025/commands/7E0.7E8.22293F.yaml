@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_CHG_P_CTRL_ADPT_LO_MIN: 0
   response: 7E80562293F0000
 - expected_values:
+    VOLKSWAGEN_CHG_P_CTRL_ADPT_LO_MIN: 4.79
+  response: 7E80562293F01DF
+- expected_values:
     VOLKSWAGEN_CHG_P_CTRL_ADPT_LO_MIN: 5.18
   response: 7E80562293F0206
 - expected_values:
