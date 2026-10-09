@@ -7,8 +7,20 @@ test_cases:
     VOLKSWAGEN_TI_MES4_PLS_3_2: 0.392
   response: 7E8056213AA0062
 - expected_values:
+    VOLKSWAGEN_TI_MES4_PLS_3_2: 0.5
+  response: 7E8056213AA007D
+- expected_values:
     VOLKSWAGEN_TI_MES4_PLS_3_2: 0.692
   response: 7E8056213AA00AD
+- expected_values:
+    VOLKSWAGEN_TI_MES4_PLS_3_2: 0.708
+  response: 7E8056213AA00B1
+- expected_values:
+    VOLKSWAGEN_TI_MES4_PLS_3_2: 0.712
+  response: 7E8056213AA00B2
+- expected_values:
+    VOLKSWAGEN_TI_MES4_PLS_3_2: 0.724
+  response: 7E8056213AA00B5
 - expected_values:
     VOLKSWAGEN_TI_MES4_PLS_3_2: 0.728
   response: 7E8056213AA00B6

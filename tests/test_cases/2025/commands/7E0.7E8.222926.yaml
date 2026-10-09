@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.222926
 test_cases:
 - expected_values:
+    VOLKSWAGEN_TEST_CATALYTIC_CONV: 0.078
+  response: 7E805622926004E
+- expected_values:
     VOLKSWAGEN_TEST_CATALYTIC_CONV: 0.086
   response: '7E8056229260056'
