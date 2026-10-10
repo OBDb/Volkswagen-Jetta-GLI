@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.022
   response: 7E805623F6803FE
+- expected_values:
+    VOLKSWAGEN_SECONDARY_AIR_INJ_1: 1.024
+  response: 7E805623F680400
