@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_INJ_SPD_INJ_2: 126
   response: 7E8056210A601F8
 - expected_values:
-    VOLKSWAGEN_INJ_SPD_INJ_2: 137.5
-  response: 7E8056210A60226
+    VOLKSWAGEN_INJ_SPD_INJ_2: 131.25
+  response: 7E8056210A6020D

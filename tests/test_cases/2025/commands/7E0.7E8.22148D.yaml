@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CTR_MIS_DC_MMV_CYL_0: 3
   response: 7E80562148D0003
+- expected_values:
+    VOLKSWAGEN_CTR_MIS_DC_MMV_CYL_0: 4
+  response: 7E80562148D0004

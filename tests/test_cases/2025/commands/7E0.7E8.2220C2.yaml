@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 0
   response: 7E8056220C20000
 - expected_values:
-    VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 1.0193
-  response: 7E8056220C2029C
-- expected_values:
     VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 1.15053
   response: 7E8056220C202F2
+- expected_values:
+    VOLKSWAGEN_WEAR_INDEX_0_NEW_ENG: 1.6846
+  response: 7E8056220C20450

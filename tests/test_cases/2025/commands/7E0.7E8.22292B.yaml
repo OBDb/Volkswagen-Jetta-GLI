@@ -4,5 +4,8 @@ test_cases:
     VOLKSWAGEN_ADPT_THROTTLE_VLV: 3
   response: 7E80462292B03
 - expected_values:
+    VOLKSWAGEN_ADPT_THROTTLE_VLV: 5
+  response: 7E80462292B05
+- expected_values:
     VOLKSWAGEN_ADPT_THROTTLE_VLV: 14
   response: 7E80462292B0E
