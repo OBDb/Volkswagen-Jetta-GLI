@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MIS_TOT: 3
   response: '7E8056229040003'
+- expected_values:
+    VOLKSWAGEN_MIS_TOT: 5
+  response: '7E8056229040005'
+- expected_values:
+    VOLKSWAGEN_MIS_TOT: 9
+  response: '7E8056229040009'
