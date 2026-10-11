@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_ACCEL_7E0: 0
   response: 7E8056210CA0000
 - expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 18.45
-  response: 7E8056210CA4812
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 18.625
-  response: 7E8056210CA48C1
-- expected_values:
     VOLKSWAGEN_ACCEL_7E0: 19.175
   response: 7E8056210CA4AE7
 - expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 19.225
-  response: 7E8056210CA4B19
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 19.275
-  response: 7E8056210CA4B4B
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 19.35
-  response: 7E8056210CA4B96
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 19.625
-  response: 7E8056210CA4CA9
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 20.4
-  response: 7E8056210CA4FB0
-- expected_values:
-    VOLKSWAGEN_ACCEL_7E0: 20.425
-  response: 7E8056210CA4FC9
+    VOLKSWAGEN_ACCEL_7E0: 21.175
+  response: 7E8056210CA52B7

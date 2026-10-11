@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.224056
 test_cases:
 - expected_values:
+    VOLKSWAGEN_IDLE_SPD_SPEC_RPM: 700
+  response: 7E80562405602BC
+- expected_values:
     VOLKSWAGEN_IDLE_SPD_SPEC_RPM: 747
   response: 7E80562405602EB
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_IDLE_SPD_SPEC_RPM: 813
   response: 7E805624056032D
+- expected_values:
+    VOLKSWAGEN_IDLE_SPD_SPEC_RPM: 877
+  response: 7E805624056036D
 - expected_values:
     VOLKSWAGEN_IDLE_SPD_SPEC_RPM: 950
   response: 7E80562405603B6
