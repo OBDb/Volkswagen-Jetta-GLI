@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221186
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_SAVE_1: 2.4375
+  response: '7E8056211860027'
+- expected_values:
     VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_SAVE_1: 2.5625
   response: '7E8056211860029'
 - expected_values:

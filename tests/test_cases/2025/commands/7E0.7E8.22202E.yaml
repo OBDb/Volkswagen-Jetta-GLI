@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_ECT_DIFF_ENG: 10.5
   response: 7E80562202E0069
 - expected_values:
-    VOLKSWAGEN_ECT_DIFF_ENG: 76.5
-  response: 7E80562202E02FD
+    VOLKSWAGEN_ECT_DIFF_ENG: 25.5
+  response: 7E80562202E00FF
 - expected_values:
     VOLKSWAGEN_ECT_DIFF_ENG: 77.2
   response: 7E80562202E0304
