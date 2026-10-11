@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22437C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 0
+    VOLKSWAGEN_ENG_TQ_7E0: 0
   response: 7E80562437C0000
 - expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: 50.8
+    VOLKSWAGEN_ENG_TQ_7E0: 50.8
   response: 7E80562437C01FC
 - expected_values:
-    VOLKSWAGEN_ENG_TQ_7E0_V2: -24.9
+    VOLKSWAGEN_ENG_TQ_7E0: -24.9
   response: 7E80562437CFF07

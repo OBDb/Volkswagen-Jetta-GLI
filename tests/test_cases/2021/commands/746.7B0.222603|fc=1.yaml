@@ -1,8 +1,8 @@
 command_id: 746.7B0.222603|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 0
+    VOLKSWAGEN_AC_COMPRESSOR_SPEED: 0
   response: 7B00462260300
 - expected_values:
-    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 5500
+    VOLKSWAGEN_AC_COMPRESSOR_SPEED: 5500
   response: 7B00462260337
