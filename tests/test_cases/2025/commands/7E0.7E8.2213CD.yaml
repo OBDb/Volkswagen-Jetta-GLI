@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_MAF_RATE: 2.34375
   response: 7E8056213CD004B
 - expected_values:
-    VOLKSWAGEN_MAF_RATE: 7.6875
-  response: 7E8056213CD00F6
+    VOLKSWAGEN_MAF_RATE: 7.9375
+  response: 7E8056213CD00FE
 - expected_values:
     VOLKSWAGEN_MAF_RATE: 8
   response: 7E8056213CD0100
