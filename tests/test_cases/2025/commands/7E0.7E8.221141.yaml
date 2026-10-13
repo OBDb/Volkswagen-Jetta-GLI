@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221141
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_L_3: -0.87715
-  response: 7E805621141F1A1
+    VOLKSWAGEN_SEG_AD_MMV_ER_L_3: -0.87834
+  response: 7E805621141F19C
 - expected_values:
     VOLKSWAGEN_SEG_AD_MMV_ER_L_3: -0.86642
   response: 7E805621141F1CE
