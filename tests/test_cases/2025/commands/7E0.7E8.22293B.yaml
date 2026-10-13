@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_FUEL_HIGH_P_SPEC: 101.8
   response: 7E80562293B03FA
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_SPEC: 154
-  response: 7E80562293B0604
+    VOLKSWAGEN_FUEL_HIGH_P_SPEC: 102.4
+  response: 7E80562293B0400
 - expected_values:
     VOLKSWAGEN_FUEL_HIGH_P_SPEC: 181.1
   response: 7E80562293B0713
