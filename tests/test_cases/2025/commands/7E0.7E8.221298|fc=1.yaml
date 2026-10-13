@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221298|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CAT_T_BANK_1: 356.0375
-  response: '7E8056212982753'
+    VOLKSWAGEN_CAT_T_BANK_1: 354.1
+  response: '7E8056212982734'
 - expected_values:
     VOLKSWAGEN_CAT_T_BANK_1: 623.1625
   response: '7E8056212983805'
