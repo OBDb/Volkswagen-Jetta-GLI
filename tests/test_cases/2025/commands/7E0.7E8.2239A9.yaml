@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_OXYGEN_CTRL_ADPT: 2.2
   response: 7E8056239A900DC
+- expected_values:
+    VOLKSWAGEN_OXYGEN_CTRL_ADPT: -1.08
+  response: 7E8056239A9FF94
