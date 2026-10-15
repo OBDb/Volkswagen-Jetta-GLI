@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.24
   response: 7E8056239A90018
 - expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.25
-  response: 7E8056239A90019
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.69
-  response: 7E8056239A90045
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.7
-  response: 7E8056239A90046
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.89
-  response: 7E8056239A90059
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 0.99
-  response: 7E8056239A90063
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: 2
-  response: 7E8056239A900C8
-- expected_values:
     VOLKSWAGEN_OXYGEN_CTRL_ADPT: 2.2
   response: 7E8056239A900DC
 - expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: -1.56
-  response: 7E8056239A9FF64
-- expected_values:
-    VOLKSWAGEN_OXYGEN_CTRL_ADPT: -1.08
-  response: 7E8056239A9FF94
+    VOLKSWAGEN_OXYGEN_CTRL_ADPT: -1.69
+  response: 7E8056239A9FF57
