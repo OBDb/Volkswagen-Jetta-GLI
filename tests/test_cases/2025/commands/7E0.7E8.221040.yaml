@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_PF_DIFF_P_FILTERED: -4500
   response: 7E80562104007D0
 - expected_values:
+    VOLKSWAGEN_PF_DIFF_P_FILTERED: -4360
+  response: 7E8056210400A00
+- expected_values:
     VOLKSWAGEN_PF_DIFF_P_FILTERED: -3144.5
   response: 7E8056210401CFE
-- expected_values:
-    VOLKSWAGEN_PF_DIFF_P_FILTERED: -2696
-  response: '7E8056210402400'
 - expected_values:
     VOLKSWAGEN_PF_DIFF_P_FILTERED: 63
   response: 7E8056210404F1C
