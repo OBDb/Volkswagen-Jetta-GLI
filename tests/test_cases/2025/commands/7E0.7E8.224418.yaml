@@ -8,7 +8,7 @@ test_cases:
   response: 7E8056244181CFE
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_ACT: 100
-  response: 7E8056244182F02
+  response: '7E8056244183000'
 - expected_values:
     VOLKSWAGEN_THERMOSTAT_ACT: 100
   response: '7E8056244186176'
