@@ -6,6 +6,10 @@ test_cases:
   response: 7E8046220A303
 - expected_values:
     VOLKSWAGEN_OIL_P_SWITCH_HIGH_P: 0
+    VOLKSWAGEN_OIL_P_SWITCH_LOW_P: 1
+  response: 7E8046220A309
+- expected_values:
+    VOLKSWAGEN_OIL_P_SWITCH_HIGH_P: 0
     VOLKSWAGEN_OIL_P_SWITCH_LOW_P: 0
   response: 7E8046220A30C
 - expected_values:

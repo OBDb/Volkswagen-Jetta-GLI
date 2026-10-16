@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222027
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_ACT: 75.4
-  response: 7E80562202702F2
+    VOLKSWAGEN_FUEL_HIGH_P_ACT: 50.5
+  response: 7E80562202701F9
 - expected_values:
     VOLKSWAGEN_FUEL_HIGH_P_ACT: 128.4
   response: '7E8056220270504'
