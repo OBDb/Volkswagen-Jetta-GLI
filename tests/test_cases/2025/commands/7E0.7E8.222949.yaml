@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_AVG_IGN_TIM_ANG: 28.12
   response: 7E8056229490AFC
 - expected_values:
-    VOLKSWAGEN_AVG_IGN_TIM_ANG: 38.62
-  response: 7E8056229490F16
+    VOLKSWAGEN_AVG_IGN_TIM_ANG: -0.75
+  response: 7E805622949FFB5
