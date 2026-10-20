@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562120014FF
 - expected_values:
     VOLKSWAGEN_EA888B_BOOST_P_CTRL_1: 103.97
-  response: '7E8056212002542'
+  response: '7E8056212002518'

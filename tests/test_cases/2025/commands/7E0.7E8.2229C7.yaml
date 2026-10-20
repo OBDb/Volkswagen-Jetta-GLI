@@ -10,5 +10,5 @@ test_cases:
     VOLKSWAGEN_CHG_P_SENS_V: 1.792
   response: 7E8056229C70700
 - expected_values:
-    VOLKSWAGEN_CHG_P_SENS_V: 2.993
-  response: 7E8056229C70BB1
+    VOLKSWAGEN_CHG_P_SENS_V: 3.286
+  response: 7E8056229C70CD6
