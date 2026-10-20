@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22206E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CRANK_SPD_RPM: 0
+    GLI_CRANK_SPD_RPM: 0
   response: 7E80562206E0000
 - expected_values:
-    VOLKSWAGEN_CRANK_SPD_RPM: 1278
+    GLI_CRANK_SPD_RPM: 1278
   response: 7E80562206E04FE
 - expected_values:
-    VOLKSWAGEN_CRANK_SPD_RPM: 4235
+    GLI_CRANK_SPD_RPM: 4235
   response: 7E80562206E108B

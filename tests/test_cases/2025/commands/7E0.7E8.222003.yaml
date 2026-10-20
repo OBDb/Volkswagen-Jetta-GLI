@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222003
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AVG_INJ_TIME_7E0: 0
+    GLI_AVG_INJ_TIME_7E0: 0
   response: '7E80462200300'
 - expected_values:
-    VOLKSWAGEN_AVG_INJ_TIME_7E0: 4.6
+    GLI_AVG_INJ_TIME_7E0: 4.6
   response: 7E8046220032E

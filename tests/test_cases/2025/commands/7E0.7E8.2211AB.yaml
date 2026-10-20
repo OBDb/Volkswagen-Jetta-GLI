@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.2211AB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 0
+    GLI_INT_MODEL_AIR_MASS: 0
   response: 7E8056211AB0000

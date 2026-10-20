@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RPM: 0
+    GLI_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    VOLKSWAGEN_RPM: 1279.75
+    GLI_RPM: 1279.75
   response: 7E80562F40C13FF
 - expected_values:
-    VOLKSWAGEN_RPM: 3782.25
+    GLI_RPM: 3782.25
   response: 7E80562F40C3B19

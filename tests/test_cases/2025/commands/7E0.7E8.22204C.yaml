@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22204C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_RATE_V2: 0
+    GLI_FUEL_RATE: 0
   response: 7E80562204C0000
 - expected_values:
-    VOLKSWAGEN_FUEL_RATE_V2: 2.55
+    GLI_FUEL_RATE: 2.55
   response: 7E80562204C00FF
 - expected_values:
-    VOLKSWAGEN_FUEL_RATE_V2: 13.18
+    GLI_FUEL_RATE: 13.18
   response: 7E80562204C0526

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F41F|f=2015-
+test_cases:
+- expected_values:
+    GLI_RUNTM: 240
+  response: 7E80562F41F00F0

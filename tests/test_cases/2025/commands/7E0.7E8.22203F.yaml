@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22203F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TQ_LIM_7E0: 218.5
+    GLI_TQ_LIM_7E0: 218.5
   response: 7E80562203F0889
 - expected_values:
-    VOLKSWAGEN_TQ_LIM_7E0: 307.1
+    GLI_TQ_LIM_7E0: 307.1
   response: 7E80562203F0BFF
 - expected_values:
-    VOLKSWAGEN_TQ_LIM_7E0: 384
+    GLI_TQ_LIM_7E0: 384
   response: 7E80562203F0F00

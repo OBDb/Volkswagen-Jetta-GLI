@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222966|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C1_7E0: 0
+    GLI_MISFIRES_C1_7E0: 0
   response: '7E8056229660000'
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C1_7E0: 10
+    GLI_MISFIRES_C1_7E0: 10
   response: 7E805622966000A
