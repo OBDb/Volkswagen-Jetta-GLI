@@ -7,8 +7,8 @@ test_cases:
     GLI_NL_PRE_3: 0.33196
   response: 7E8056213F910FF
 - expected_values:
-    GLI_NL_PRE_3: 0.42976
-  response: 7E8056213F91601
+    GLI_NL_PRE_3: 0.41023
+  response: 7E8056213F91501
 - expected_values:
     GLI_NL_PRE_3: 0.81116
   response: 7E8056213F92988

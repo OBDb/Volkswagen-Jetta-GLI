@@ -7,5 +7,5 @@ test_cases:
     GLI_HIGH_P_REGULATION: -8.24
   response: 7E805624384FCC8
 - expected_values:
-    GLI_HIGH_P_REGULATION: -6.51
-  response: 7E805624384FD75
+    GLI_HIGH_P_REGULATION: -6.72
+  response: 7E805624384FD60
