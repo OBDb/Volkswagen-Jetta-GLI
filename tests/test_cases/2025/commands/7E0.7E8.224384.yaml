@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HIGH_P_REGULATION: -8.24
   response: 7E805624384FCC8
+- expected_values:
+    VOLKSWAGEN_HIGH_P_REGULATION: -6.51
+  response: 7E805624384FD75
