@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22028D|f=-2021
+command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
     GLI_ENG_CTRL_MODULE_T: 33

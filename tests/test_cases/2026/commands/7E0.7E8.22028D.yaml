@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    GLI_ENG_CTRL_MODULE_T: 44
+  response: 7E80562028D01B8

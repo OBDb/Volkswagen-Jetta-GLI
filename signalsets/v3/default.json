@@ -373,13 +373,9 @@
   "signals": [
     {"id": "GLI_ODO_7E0_2", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 1048575, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "filter": { "to": 2021 }, "dbgfilter": { "to": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023], "from": 2027 },
   "signals": [
     {"id": "GLI_ENG_CTRL_MODULE_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Engine control module temperature"}
-  ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "years": [2023], "from": 2027 },
-  "signals": [
-    {"id": "GLI_ENG_CTRL_MODULE_T_K", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Engine control module temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0802"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
