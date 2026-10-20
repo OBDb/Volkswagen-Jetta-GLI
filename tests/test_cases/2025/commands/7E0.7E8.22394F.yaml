@@ -7,5 +7,5 @@ test_cases:
     GLI_MAF_OVER_THROTTLE: 248
   response: 7E80562394F00F8
 - expected_values:
-    GLI_MAF_OVER_THROTTLE: 269
-  response: 7E80562394F010D
+    GLI_MAF_OVER_THROTTLE: 268
+  response: 7E80562394F010C

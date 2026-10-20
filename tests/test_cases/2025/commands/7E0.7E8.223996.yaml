@@ -4,8 +4,8 @@ test_cases:
     GLI_MIXTURE_ADPT_FACTOR: 0.02
   response: '7E8056239960002'
 - expected_values:
-    GLI_MIXTURE_ADPT_FACTOR: -2.1
-  response: 7E805623996FF2E
+    GLI_MIXTURE_ADPT_FACTOR: -2.38
+  response: 7E805623996FF12
 - expected_values:
     GLI_MIXTURE_ADPT_FACTOR: -0.01
   response: 7E805623996FFFF

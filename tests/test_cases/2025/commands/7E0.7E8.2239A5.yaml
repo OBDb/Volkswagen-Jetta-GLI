@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2239A5
 test_cases:
 - expected_values:
-    GLI_CHG_P_ACTUATOR_ADPT: 701.2
-  response: 7E8056239A50DB2
+    GLI_CHG_P_ACTUATOR_ADPT: 700.2
+  response: 7E8056239A50DAD
 - expected_values:
     GLI_CHG_P_ACTUATOR_ADPT: 715.8
   response: 7E8056239A50DFB

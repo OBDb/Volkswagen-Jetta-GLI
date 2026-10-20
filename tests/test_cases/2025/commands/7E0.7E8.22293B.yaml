@@ -4,11 +4,11 @@ test_cases:
     GLI_FUEL_HIGH_P_SPEC: 75.4
   response: 7E80562293B02F2
 - expected_values:
+    GLI_FUEL_HIGH_P_SPEC: 76.8
+  response: 7E80562293B0300
+- expected_values:
     GLI_FUEL_HIGH_P_SPEC: 101.8
   response: 7E80562293B03FA
-- expected_values:
-    GLI_FUEL_HIGH_P_SPEC: 102.4
-  response: 7E80562293B0400
 - expected_values:
     GLI_FUEL_HIGH_P_SPEC: 181.1
   response: 7E80562293B0713

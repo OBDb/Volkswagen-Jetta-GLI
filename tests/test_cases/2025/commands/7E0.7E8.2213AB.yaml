@@ -7,5 +7,5 @@ test_cases:
     GLI_TI_MES4_PLS_3_3: 0.916
   response: 7E8056213AB00E5
 - expected_values:
-    GLI_TI_MES4_PLS_3_3: 1.132
-  response: 7E8056213AB011B
+    GLI_TI_MES4_PLS_3_3: 1.032
+  response: 7E8056213AB0102

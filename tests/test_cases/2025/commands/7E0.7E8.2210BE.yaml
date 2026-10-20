@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
-    GLI_REQ_TQ_AMOUNT: 37
-  response: 7E8056210BE0172
+    GLI_REQ_TQ_AMOUNT: 36.2
+  response: 7E8056210BE016A
 - expected_values:
     GLI_REQ_TQ_AMOUNT: 52
   response: 7E8056210BE0208

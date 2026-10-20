@@ -5,7 +5,7 @@ test_cases:
   response: 7E80562441714E6
 - expected_values:
     GLI_THERMOSTAT_CMD: 100
-  response: '7E8056244173106'
+  response: '7E8056244175302'
 - expected_values:
     GLI_THERMOSTAT_CMD: 100
   response: 7E80562441757FD

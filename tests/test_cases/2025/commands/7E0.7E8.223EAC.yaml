@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.223EAC
 test_cases:
 - expected_values:
+    GLI_CHG_P_CTRL_VLV_V_POS_OPENED: 0.50111
+  response: 7E805623EAC0CD4
+- expected_values:
     GLI_CHG_P_CTRL_VLV_V_POS_OPENED: 0.50599
   response: 7E805623EAC0CF4
 - expected_values:

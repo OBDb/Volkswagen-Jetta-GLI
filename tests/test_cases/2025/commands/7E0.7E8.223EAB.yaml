@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.223EAB
 test_cases:
 - expected_values:
-    GLI_CHG_P_CTRL_VLV_V_POS: 3.50591
-  response: 7E805623EAB59C0
+    GLI_CHG_P_CTRL_VLV_V_POS: 3.50102
+  response: 7E805623EAB59A0
 - expected_values:
     GLI_CHG_P_CTRL_VLV_V_POS: 3.51079
   response: 7E805623EAB59E0
