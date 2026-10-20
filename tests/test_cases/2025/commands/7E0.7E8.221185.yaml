@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221185
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_2: -4.6875
+    GLI_PSN_EDGE_REL_AD_CAM_2: -4.6875
   response: 7E805621185FFB5
 - expected_values:
-    VOLKSWAGEN_PSN_EDGE_REL_AD_CAM_2: -3.9375
+    GLI_PSN_EDGE_REL_AD_CAM_2: -3.9375
   response: 7E805621185FFC1

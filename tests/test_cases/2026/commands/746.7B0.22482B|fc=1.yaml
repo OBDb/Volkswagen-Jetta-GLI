@@ -1,5 +1,5 @@
 command_id: 746.7B0.22482B|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AC_CLUTCH: 0
+    GLI_AC_CLUTCH: 0
   response: 7B00462482B00

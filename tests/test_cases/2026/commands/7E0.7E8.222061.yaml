@@ -1,6 +1,5 @@
 command_id: 7E0.7E8.222061
 test_cases:
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 1.167
-    VOLKSWAGEN_E_TRON_APP_POS1: 1.167
+    GLI_APP_POS1: 1.167
   response: 7E805622061048F

@@ -1,0 +1,17 @@
+command_id: 710.77A.222A09|fc=1,f=2017-
+test_cases:
+- expected_values:
+    GLI_SSB_C: 0
+  response: 77A07622A0900000000
+- expected_values:
+    GLI_SSB_C: 3.839
+  response: 77A07622A0900000EFF
+- expected_values:
+    GLI_SSB_C: 0
+  response: 77A07622A09FFFD4068
+- expected_values:
+    GLI_SSB_C: 0
+  response: 77A07622A09FFFF2F72
+- expected_values:
+    GLI_SSB_C: 0
+  response: 77A07622A09FFFFFF07

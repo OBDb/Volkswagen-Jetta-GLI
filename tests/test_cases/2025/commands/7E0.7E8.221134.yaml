@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221134
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_MID_2: -0.04268
+    GLI_SEG_AD_MMV_ER_MID_2: -0.04268
   response: 7E805621134FF4D
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_MID_2: -0.04125
+    GLI_SEG_AD_MMV_ER_MID_2: -0.04125
   response: 7E805621134FF53
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_MID_2: -0.03934
+    GLI_SEG_AD_MMV_ER_MID_2: -0.03934
   response: 7E805621134FF5B
 - expected_values:
-    VOLKSWAGEN_SEG_AD_MMV_ER_MID_2: -0.0391
+    GLI_SEG_AD_MMV_ER_MID_2: -0.0391
   response: 7E805621134FF5C

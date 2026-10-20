@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211D7
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 0
+    GLI_HIGH_FUEL_P_CMD: 0
   response: 7E8056211D70000
 - expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 1.4075
+    GLI_HIGH_FUEL_P_CMD: 1.4075
   response: 7E8056211D70AFF
 - expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 32.488
+    GLI_HIGH_FUEL_P_CMD: 32.488
   response: 7E8056211D7FDD0

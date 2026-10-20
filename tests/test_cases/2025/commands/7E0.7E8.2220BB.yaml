@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2220BB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: 0
+    GLI_FUEL_HIGH_P_CTRL_DEV: 0
   response: 7E8056220BB0000
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: -24
+    GLI_FUEL_HIGH_P_CTRL_DEV: -24
   response: 7E8056220BBFF10
 - expected_values:
-    VOLKSWAGEN_FUEL_HIGH_P_CTRL_DEV: -0.1
+    GLI_FUEL_HIGH_P_CTRL_DEV: -0.1
   response: 7E8056220BBFFFF

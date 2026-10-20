@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22208D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_DIST_SINCE_REGEN: 6553.5
+    GLI_DIST_SINCE_REGEN: null
   response: 7E80562208DFFFF

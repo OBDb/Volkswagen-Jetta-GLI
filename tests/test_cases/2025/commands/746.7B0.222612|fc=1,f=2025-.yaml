@@ -1,0 +1,14 @@
+command_id: 746.7B0.222612|fc=1,f=2025-
+test_cases:
+- expected_values:
+    GLI_HVAC_EVAP_T: 18
+  response: 7B00562261200B4
+- expected_values:
+    GLI_HVAC_EVAP_T: 26
+  response: 7B0056226120104
+- expected_values:
+    GLI_HVAC_EVAP_T: 51
+  response: 7B00562261201FE
+- expected_values:
+    GLI_HVAC_EVAP_T: 52
+  response: 7B0056226120208

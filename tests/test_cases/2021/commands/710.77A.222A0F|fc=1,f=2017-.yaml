@@ -1,0 +1,8 @@
+command_id: 710.77A.222A0F|fc=1,f=2017-
+test_cases:
+- expected_values:
+    GLI_SSB_AH: 26
+  response: 77A04622A0F1A
+- expected_values:
+    GLI_SSB_AH: 100
+  response: 77A04622A0F64

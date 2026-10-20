@@ -1,12 +1,8 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_C7_CABIN_T: 1.37109
-    VOLKSWAGEN_CABIN_T: 35.1
-    VOLKSWAGEN_IAT_CABIN: 35.1
+    GLI_IAT_CABIN: 35.1
   response: 7B005622613015F
 - expected_values:
-    VOLKSWAGEN_C7_CABIN_T: 1.375
-    VOLKSWAGEN_CABIN_T: 35.2
-    VOLKSWAGEN_IAT_CABIN: 35.2
+    GLI_IAT_CABIN: 35.2
   response: 7B0056226130160

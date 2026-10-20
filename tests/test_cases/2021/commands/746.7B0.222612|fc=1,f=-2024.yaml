@@ -1,0 +1,8 @@
+command_id: 746.7B0.222612|fc=1,f=-2024
+test_cases:
+- expected_values:
+    GLI_T_AFTER_EVAPORATOR: 0
+  response: 7B00462261200
+- expected_values:
+    GLI_T_AFTER_EVAPORATOR: 23
+  response: 7B00462261245

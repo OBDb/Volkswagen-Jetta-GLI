@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: -10.9375
+    GLI_SHORT_TERM_FUEL_TRIM_1: -10.9375
   response: 7E80462F40672
 - expected_values:
-    VOLKSWAGEN_SHORT_TERM_FUEL_TRIM_1: 10.15625
+    GLI_SHORT_TERM_FUEL_TRIM_1: 10.15625
   response: 7E80462F4068D

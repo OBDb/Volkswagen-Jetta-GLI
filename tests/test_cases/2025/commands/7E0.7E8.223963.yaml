@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.223963
 test_cases:
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.234
+    GLI_KNOCK_SENS_CYL_4: 0.234
   response: 7E80562396300EA
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.257
+    GLI_KNOCK_SENS_CYL_4: 0.257
   response: '7E8056239630101'
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.511
+    GLI_KNOCK_SENS_CYL_4: 0.511
   response: 7E80562396301FF
 - expected_values:
-    VOLKSWAGEN_KNOCK_SENS_CYL_4: 0.769
+    GLI_KNOCK_SENS_CYL_4: 0.769
   response: '7E8056239630301'

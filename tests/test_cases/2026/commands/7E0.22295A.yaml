@@ -1,7 +1,5 @@
 command_id: 7E0.22295A
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_ECM: 2592
-    VOLKSWAGEN_ODO_MILEAGE: 2592
-    VOLKSWAGEN_ODO_V2: 2592
+    GLI_ODO_7E0_2: 2592
   response: 7E80662295A000A20

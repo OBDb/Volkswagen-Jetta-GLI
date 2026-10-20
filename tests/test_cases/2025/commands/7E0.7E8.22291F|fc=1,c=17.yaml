@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22291F|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_1000_RPM_C4: 0
+    GLI_MISFIRES_1000_RPM_C4: 0
   response: 7E80562291F0000
 - expected_values:
-    VOLKSWAGEN_MISFIRES_1000_RPM_C4: 1
+    GLI_MISFIRES_1000_RPM_C4: 1
   response: 7E80562291F0001
 - expected_values:
-    VOLKSWAGEN_MISFIRES_1000_RPM_C4: 2
+    GLI_MISFIRES_1000_RPM_C4: 2
   response: 7E80562291F0002

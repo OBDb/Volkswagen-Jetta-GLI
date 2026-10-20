@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22130D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: 0
+    GLI_FUEL_MASS_REQ_I_CTL: 0
   response: 7E80562130D0000
 - expected_values:
-    VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: -5.42566
+    GLI_FUEL_MASS_REQ_I_CTL: -5.42566
   response: 7E80562130DFF00
 - expected_values:
-    VOLKSWAGEN_FUEL_MASS_REQ_I_CTL: -0.02119
+    GLI_FUEL_MASS_REQ_I_CTL: -0.02119
   response: 7E80562130DFFFF

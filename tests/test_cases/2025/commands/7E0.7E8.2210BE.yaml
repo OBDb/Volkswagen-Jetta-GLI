@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 37
+    GLI_REQ_TQ_AMOUNT: 37
   response: 7E8056210BE0172
 - expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 52
+    GLI_REQ_TQ_AMOUNT: 52
   response: 7E8056210BE0208
 - expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: -0.1
+    GLI_REQ_TQ_AMOUNT: -0.1
   response: 7E8056210BEFFFF

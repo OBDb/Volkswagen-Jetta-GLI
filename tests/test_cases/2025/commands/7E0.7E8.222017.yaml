@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.222017
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AC_COMP_TQ_V2: 0
+    GLI_AC_COMP_TQ: 0
   response: '7E8056220170000'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_TQ_V2: -2.75
+    GLI_AC_COMP_TQ: -2.75
   response: 7E805622017FEED
 - expected_values:
-    VOLKSWAGEN_AC_COMP_TQ_V2: -2.5
+    GLI_AC_COMP_TQ: -2.5
   response: 7E805622017FF06

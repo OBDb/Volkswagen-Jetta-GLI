@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.223EA7
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_ACT: 0
+    GLI_CHG_P_CTRL_VLV_POS_ACT: 0
   response: 7E805623EA70000
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_ACT: 22.99
+    GLI_CHG_P_CTRL_VLV_POS_ACT: 22.99
   response: 7E805623EA708FB
 - expected_values:
-    VOLKSWAGEN_CHG_P_CTRL_VLV_POS_ACT: 99.91
+    GLI_CHG_P_CTRL_VLV_POS_ACT: 99.91
   response: 7E805623EA72707

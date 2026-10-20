@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22F433
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BARO: 98
+    GLI_BARO: 98
   response: 7E80462F43362
 - expected_values:
-    VOLKSWAGEN_BARO: 99
+    GLI_BARO: 99
   response: 7E80462F43363
 - expected_values:
-    VOLKSWAGEN_BARO: 100
+    GLI_BARO: 100
   response: 7E80462F43364
 - expected_values:
-    VOLKSWAGEN_BARO: 101
+    GLI_BARO: 101
   response: 7E80462F43365
 - expected_values:
-    VOLKSWAGEN_BARO: 102
+    GLI_BARO: 102
   response: 7E80462F43366
 - expected_values:
-    VOLKSWAGEN_BARO: 103
+    GLI_BARO: 103
   response: 7E80462F43367

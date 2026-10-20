@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2240E2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_TGT: 89.3
+    GLI_T_SENS_ENG_T_TGT: 89.3
   response: 7E8056240E2037D
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_TGT: 102
+    GLI_T_SENS_ENG_T_TGT: 102
   response: 7E8056240E203FC
 - expected_values:
-    VOLKSWAGEN_T_SENS_ENG_T_TGT: 102.8
+    GLI_T_SENS_ENG_T_TGT: 102.8
   response: 7E8056240E20404

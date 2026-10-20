@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2213A2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TI_MES4_PLS_1_2: 0
+    GLI_TI_MES4_PLS_1_2: 0
   response: 7E8056213A20000
 - expected_values:
-    VOLKSWAGEN_TI_MES4_PLS_1_2: 1.008
+    GLI_TI_MES4_PLS_1_2: 1.008
   response: 7E8056213A200FC
 - expected_values:
-    VOLKSWAGEN_TI_MES4_PLS_1_2: 4.564
+    GLI_TI_MES4_PLS_1_2: 4.564
   response: 7E8056213A20475
