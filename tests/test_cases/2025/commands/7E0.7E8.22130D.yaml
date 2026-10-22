@@ -4,8 +4,8 @@ test_cases:
     GLI_FUEL_MASS_REQ_I_CTL: 0
   response: 7E80562130D0000
 - expected_values:
+    GLI_FUEL_MASS_REQ_I_CTL: -5.44686
+  response: 7E80562130DFEFF
+- expected_values:
     GLI_FUEL_MASS_REQ_I_CTL: -5.42566
   response: 7E80562130DFF00
-- expected_values:
-    GLI_FUEL_MASS_REQ_I_CTL: -0.02119
-  response: 7E80562130DFFFF

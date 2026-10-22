@@ -4,11 +4,11 @@ test_cases:
     GLI_EA888B_BOOST_P_CTRL_1: 5.62
   response: 7E80562120002D3
 - expected_values:
-    GLI_EA888B_BOOST_P_CTRL_1: 33.72
-  response: 7E8056212000C01
+    GLI_EA888B_BOOST_P_CTRL_1: 36.53
+  response: 7E8056212000DFF
 - expected_values:
-    GLI_EA888B_BOOST_P_CTRL_1: 56.2
-  response: 7E80562120014FF
+    GLI_EA888B_BOOST_P_CTRL_1: 73.06
+  response: 7E8056212001A00
 - expected_values:
     GLI_EA888B_BOOST_P_CTRL_1: 103.97
   response: '7E8056212002518'

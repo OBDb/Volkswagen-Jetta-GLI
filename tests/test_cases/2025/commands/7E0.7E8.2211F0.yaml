@@ -4,11 +4,11 @@ test_cases:
     GLI_BOOST_P_ACT: 284.0625
   response: 7E8056211F00E34
 - expected_values:
-    GLI_BOOST_P_ACT: 419.92188
-  response: 7E8056211F014FF
+    GLI_BOOST_P_ACT: 339.92188
+  response: 7E8056211F010FF
 - expected_values:
-    GLI_BOOST_P_ACT: 580.07812
-  response: 7E8056211F01D01
+    GLI_BOOST_P_ACT: 400
+  response: 7E8056211F01400
 - expected_values:
     GLI_BOOST_P_ACT: 640.39062
   response: 7E8056211F02005

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2213F7
 test_cases:
 - expected_values:
-    GLI_NL_PRE_1: 0.24994
-  response: 7E8056213F70CCC
+    GLI_NL_PRE_1: 0.21576
+  response: 7E8056213F70B0C
+- expected_values:
+    GLI_NL_PRE_1: 0.33211
+  response: 7E8056213F71101
 - expected_values:
     GLI_NL_PRE_1: 0.44914
   response: 7E8056213F716FF
-- expected_values:
-    GLI_NL_PRE_1: 0.46883
-  response: 7E8056213F71801
 - expected_values:
     GLI_NL_PRE_1: 1.42334
   response: 7E8056213F748E0

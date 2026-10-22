@@ -4,11 +4,8 @@ test_cases:
     GLI_FUEL_HIGH_P_ACT: 50.5
   response: 7E80562202701F9
 - expected_values:
-    GLI_FUEL_HIGH_P_ACT: 128.4
-  response: '7E8056220270504'
-- expected_values:
     GLI_FUEL_HIGH_P_ACT: 153.3
   response: 7E80562202705FD
 - expected_values:
-    GLI_FUEL_HIGH_P_ACT: 180
-  response: '7E8056220270708'
+    GLI_FUEL_HIGH_P_ACT: 179.4
+  response: '7E8056220270702'

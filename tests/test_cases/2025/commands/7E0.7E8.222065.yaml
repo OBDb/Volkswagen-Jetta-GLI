@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222065
 test_cases:
 - expected_values:
-    GLI_CHG_AIR_P_ACTUATOR: 0.481
-  response: 7E80562206501E1
+    GLI_CHG_AIR_P_ACTUATOR: 0.474
+  response: 7E80562206501DA
 - expected_values:
     GLI_CHG_AIR_P_ACTUATOR: 1.792
   response: '7E8056220650700'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.223962
 test_cases:
 - expected_values:
-    GLI_KNOCK_SENS_CYL_3: 0.292
-  response: '7E8056239620124'
+    GLI_KNOCK_SENS_CYL_3: 0.291
+  response: '7E8056239620123'
 - expected_values:
     GLI_KNOCK_SENS_CYL_3: 0.511
   response: 7E80562396201FF
@@ -10,5 +10,5 @@ test_cases:
     GLI_KNOCK_SENS_CYL_3: 0.512
   response: '7E8056239620200'
 - expected_values:
-    GLI_KNOCK_SENS_CYL_3: 0.772
-  response: '7E8056239620304'
+    GLI_KNOCK_SENS_CYL_3: 1.314
+  response: '7E8056239620522'

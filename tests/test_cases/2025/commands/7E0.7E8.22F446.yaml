@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
-    GLI_AAT_7E0_7E0: 0
-  response: 7E80462F44628
+    GLI_AAT_7E0_7E0: -2
+  response: 7E80462F44626
 - expected_values:
     GLI_AAT_7E0_7E0: 19
   response: 7E80462F4463B

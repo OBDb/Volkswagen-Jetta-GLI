@@ -4,8 +4,8 @@ test_cases:
     GLI_CHG_P_CTRL_VLV_SENS_V: 0.5005
   response: 7E805623EA80CD0
 - expected_values:
-    GLI_CHG_P_CTRL_VLV_SENS_V: 1.09377
-  response: 7E805623EA81C00
+    GLI_CHG_P_CTRL_VLV_SENS_V: 0.58595
+  response: 7E805623EA80F00
 - expected_values:
     GLI_CHG_P_CTRL_VLV_SENS_V: 1.59914
   response: 7E805623EA828F0

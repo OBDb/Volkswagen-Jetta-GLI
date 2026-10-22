@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     GLI_MIS_PER_1000_RPM_ALL: 2
   response: 7E80562148B0002
+- expected_values:
+    GLI_MIS_PER_1000_RPM_ALL: 6
+  response: 7E80562148B0006
