@@ -4,8 +4,8 @@ test_cases:
     GLI_COOLANT_T_MODELED_VALUE: -273.1
   response: 7E8056213A00000
 - expected_values:
-    GLI_COOLANT_T_MODELED_VALUE: -249.6
-  response: 7E8056213A000EB
+    GLI_COOLANT_T_MODELED_VALUE: -248.9
+  response: 7E8056213A000F2
 - expected_values:
     GLI_COOLANT_T_MODELED_VALUE: -217.8
   response: 7E8056213A00229

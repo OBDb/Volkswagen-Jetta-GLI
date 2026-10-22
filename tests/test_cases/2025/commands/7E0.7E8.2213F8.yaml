@@ -4,8 +4,8 @@ test_cases:
     GLI_NL_PRE_2: 0.20348
   response: 7E8056213F80A6B
 - expected_values:
-    GLI_NL_PRE_2: 0.50774
-  response: 7E8056213F819FF
+    GLI_NL_PRE_2: 0.39055
+  response: 7E8056213F813FF
 - expected_values:
     GLI_NL_PRE_2: 0.58609
   response: 7E8056213F81E02

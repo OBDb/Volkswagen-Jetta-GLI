@@ -4,8 +4,8 @@ test_cases:
     GLI_TI_MES4_PLS_3_3: 0
   response: 7E8056213AB0000
 - expected_values:
-    GLI_TI_MES4_PLS_3_3: 0.916
-  response: 7E8056213AB00E5
+    GLI_TI_MES4_PLS_3_3: 1
+  response: 7E8056213AB00FA
 - expected_values:
     GLI_TI_MES4_PLS_3_3: 1.032
   response: 7E8056213AB0102

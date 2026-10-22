@@ -4,5 +4,5 @@ test_cases:
     GLI_MANUAL_ENG_STARTS: 1553
   response: '7E8056229980611'
 - expected_values:
-    GLI_MANUAL_ENG_STARTS: 1601
-  response: '7E8056229980641'
+    GLI_MANUAL_ENG_STARTS: 1605
+  response: '7E8056229980645'

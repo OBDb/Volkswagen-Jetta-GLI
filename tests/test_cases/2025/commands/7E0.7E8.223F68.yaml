@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     GLI_SECONDARY_AIR_INJ_1: 1.024
   response: 7E805623F680400
+- expected_values:
+    GLI_SECONDARY_AIR_INJ_1: 1.297
+  response: 7E805623F680511

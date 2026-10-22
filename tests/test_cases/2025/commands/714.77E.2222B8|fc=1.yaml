@@ -13,8 +13,8 @@ test_cases:
     GLI_ODO_MILEAGE_HR: 14677.757
   response: 77E076222B800DFF6FD
 - expected_values:
-    GLI_ODO_MILEAGE_HR: 14858.76
-  response: 77E076222B800E2BA08
-- expected_values:
     GLI_ODO_MILEAGE_HR: 14881.41
   response: 77E076222B800E31282
+- expected_values:
+    GLI_ODO_MILEAGE_HR: 14937.346
+  response: 77E076222B800E3ED02

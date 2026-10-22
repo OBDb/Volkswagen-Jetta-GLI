@@ -4,8 +4,8 @@ test_cases:
     GLI_CAM_ADJ_INT_SPEC: 0
   response: 7E80562201D0000
 - expected_values:
-    GLI_CAM_ADJ_INT_SPEC: 25
-  response: 7E80562201D00FA
+    GLI_CAM_ADJ_INT_SPEC: 51
+  response: 7E80562201D01FE
 - expected_values:
     GLI_CAM_ADJ_INT_SPEC: 52
   response: 7E80562201D0208

@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562120116FF
 - expected_values:
     GLI_EA888B_BOOST_P_CTRL_2: -2.81
-  response: 7E805621201FFA5
+  response: 7E805621201FF56

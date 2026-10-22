@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GLI_MISFIRES_1000_RPM_C2: 1
   response: '7E8056229200001'
+- expected_values:
+    GLI_MISFIRES_1000_RPM_C2: 4
+  response: '7E8056229200004'

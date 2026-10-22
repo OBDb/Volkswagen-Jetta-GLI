@@ -7,8 +7,8 @@ test_cases:
     GLI_CAT_T_BANK_1: 542.9125
   response: '7E8056212983301'
 - expected_values:
-    GLI_CAT_T_BANK_1: 686.35
-  response: 7E8056212983BF8
+    GLI_CAT_T_BANK_1: 654.475
+  response: 7E80562129839FA
 - expected_values:
-    GLI_CAT_T_BANK_1: 753.6
-  response: 7E805621298402C
+    GLI_CAT_T_BANK_1: 779.475
+  response: 7E80562129841CA
