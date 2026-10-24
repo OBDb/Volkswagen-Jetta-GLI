@@ -1411,11 +1411,11 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "139C"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
-    {"id": "GLI_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Exhaust gas temperature before the front catalytic converter, model value"}
+    {"id": "GLI_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Exhaust gas temperature before the front catalytic converter, model value"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
-    {"id": "GLI_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Coolant temperature modeled value"}
+    {"id": "GLI_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "unknown" }, "name": "Coolant temperature modeled value, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13A1"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
@@ -3153,7 +3153,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "100A"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "GLI_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION", "path": "Movement", "fmt": { "len": 16, "blsb": true, "max": 3276.7, "div": 10, "sign": true, "unit": "kilometersPerHour" }, "name": "Vehicle speed from transmission", "suggestedMetric": "speed"}
+    {"id": "GLI_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION", "path": "Movement", "fmt": { "len": 16, "blsb": true, "max": 3276.7, "div": 10, "sign": true, "nullmax": 3276.7, "unit": "kilometersPerHour" }, "name": "Vehicle speed from transmission", "suggestedMetric": "speed"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "100B"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [

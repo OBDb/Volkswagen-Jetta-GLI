@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2213A0|fc=1,c=17
 test_cases:
 - expected_values:
-    GLI_COOLANT_T_MODELED_VALUE: -273.1
+    GLI_COOLANT_T_MODELED_VALUE: 0
   response: 7E8056213A00000
 - expected_values:
-    GLI_COOLANT_T_MODELED_VALUE: -248.9
+    GLI_COOLANT_T_MODELED_VALUE: 242
   response: 7E8056213A000F2
 - expected_values:
-    GLI_COOLANT_T_MODELED_VALUE: -217.8
+    GLI_COOLANT_T_MODELED_VALUE: 553
   response: 7E8056213A00229
